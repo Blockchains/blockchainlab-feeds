@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T18:08:29Z",
+  "source": "X API via MCP connector (user-X)",
+  "x_status": "unavailable",
+  "x_error": "Client Forbidden (client-not-enrolled)",
+  "window_hours": 24,
+  "counts": {
+    "posts": null,
+    "by_topic": {
+      "ethereum": null,
+      "bitcoin": null,
+      "hedera": null,
+      "l2": null,
+      "defi": null,
+      "regulation": null,
+      "ai_crypto": null,
+      "other": null
+    }
+  },
+  "top": [],
+  "clusters": {
+    "ethereum": {
+      "label": "Ethereum",
+      "posts": []
+    },
+    "bitcoin": {
+      "label": "Bitcoin",
+      "posts": []
+    },
+    "hedera": {
+      "label": "Hedera",
+      "posts": []
+    },
+    "l2": {
+      "label": "L2s",
+      "posts": []
+    },
+    "defi": {
+      "label": "DeFi",
+      "posts": []
+    },
+    "regulation": {
+      "label": "Regulation",
+      "posts": []
+    },
+    "ai_crypto": {
+      "label": "AI x crypto",
+      "posts": []
+    },
+    "other": {
+      "label": "Other",
+      "posts": []
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T18:08:29Z",
+  "x": {
+    "status": "unavailable",
+    "error": "Client Forbidden (client-not-enrolled)"
+  },
+  "x_errors": [
+    {
+      "call": "00-usage",
+      "tool": "get_usage_credits",
+      "error": "Client Forbidden",
+      "reason": "client-not-enrolled",
+      "detail": "When authenticating requests to the X API v2 endpoints, you must use keys and tokens from a developer App that is attached to a Project. You can create a project via the developer portal."
+    },
+    {
+      "call": "01-verify-users",
+      "tool": "get_users_by_usernames",
+      "error": "Client Forbidden",
+      "reason": "client-not-enrolled",
+      "detail": "When authenticating requests to the X API v2 endpoints, you must use keys and tokens from a developer App that is attached to a Project. You can create a project via the developer portal."
+    },
+    {
+      "call": "02-users-me",
+      "tool": "get_users_me",
+      "error": "Client Forbidden",
+      "reason": "client-not-enrolled",
+      "detail": "When authenticating requests to the X API v2 endpoints, you must use keys and tokens from a developer App that is attached to a Project. You can create a project via the developer portal."
+    },
+    {
+      "call": "30-mentions",
+      "tool": "search_posts_all",
+      "error": "Client Forbidden",
+      "reason": "client-not-enrolled",
+      "detail": "When authenticating requests to the X API v2 endpoints, you must use keys and tokens from a developer App that is attached to a Project. You can create a project via the developer portal."
+    },
+    {
+      "call": "40-news",
+      "tool": "search_news",
+      "error": "Client Forbidden",
+      "reason": "client-not-enrolled",
+      "detail": "When authenticating requests to the X API v2 endpoints, you must use keys and tokens from a developer App that is attached to a Project. You can create a project via the developer portal."
+    }
+  ],
+  "usage": null,
+  "web_errors": [],
+  "counts": {
+    "posts": null,
+    "mentions": null,
+    "new_mentions": null,
+    "hackathons": 3,
+    "briefing_drafts": 1
+  }
+}

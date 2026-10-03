@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T18:08:29Z",
+  "baseline_run": false,
+  "sources": [
+    "devpost.com/api/hackathons (theme Blockchain, open+upcoming)",
+    "ethglobal.com/events (future hackathons)",
+    "X posts (leads only)"
+  ],
+  "not_covered": [
+    "dorahacks.io (AWS WAF human verification blocks scripted fetch)",
+    "gitcoin (indexer not reachable from the box)"
+  ],
+  "errors": [],
+  "count": 3,
+  "new_count": 3,
+  "items": [
+    {
+      "source": "devpost",
+      "id": "devpost-31534",
+      "title": "SUSTAIN-A-THON 2.0",
+      "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
+      "organizer": "Sharda University Greater Noida",
+      "dates": "Oct 27 - 28, 2026",
+      "state": "upcoming",
+      "prize": "$150,000",
+      "location": "Block 45, Sharda University",
+      "registrations": 8,
+      "themes": [
+        "Blockchain",
+        "Cybersecurity",
+        "IoT"
+      ],
+      "verified": "listed on devpost.com API",
+      "first_seen": "2026-10-03",
+      "new": true
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-29114",
+      "title": "IEEE ClimateChain Global Hackathon",
+      "url": "https://ieee-climatechain-hack.devpost.com/",
+      "organizer": "IEEE Turkey",
+      "dates": "Oct 05 - 25, 2026",
+      "state": "upcoming",
+      "prize": "$3,000",
+      "location": "Online",
+      "registrations": 482,
+      "themes": [
+        "Blockchain",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "verified": "listed on devpost.com API",
+      "first_seen": "2026-10-03",
+      "new": true
+    },
+    {
+      "source": "ethglobal",
+      "id": "ethglobal-527",
+      "title": "ETHGlobal Mumbai",
+      "url": "https://ethglobal.com/events/mumbai",
+      "organizer": "ETHGlobal",
+      "dates": "2026-11-05 to 2026-11-07",
+      "state": "future",
+      "prize": null,
+      "location": "physical",
+      "themes": [
+        "Ethereum"
+      ],
+      "verified": "listed in ethglobal.com/events page data",
+      "first_seen": "2026-10-03",
+      "new": true
+    }
+  ],
+  "x_leads": null
+}
