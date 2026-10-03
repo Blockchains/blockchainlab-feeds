@@ -9,6 +9,7 @@ author handles, short trimmed summaries and engagement counts, plus public hacka
 | Mentions of Blockchain Lab | `feeds/mentions/latest.json` | https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/mentions/latest.json |
 | Hackathons / grants / bounties | `feeds/hackathons/latest.json` | https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/hackathons/latest.json |
 | Briefing drafts (review before publishing) | `feeds/briefings-drafts/*.md` | |
+| Events (hackathons + summits) | `feeds/events/latest.json` | https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/events/latest.json |
 | Run status | `feeds/status/last-run.json` | |
 
 Topics: Ethereum, Bitcoin, Hedera, L2s, DeFi, Regulation, AI x crypto (+ Other). Watchlist: `watchlist.json`.

@@ -33,6 +33,7 @@ KEYWORDS = [
     ("bitcoin", r"\b(bitcoin|btc|lightning|satoshi|bip-?\d+|ordinals|taproot)\b"),
     ("ethereum", r"\b(ethereum|eth\b|eip-?\d+|pectra|fusaka|glamsterdam|validators?|vitalik|solidity|evm)\b"),
 ]
+EVENTS = []
 HACK_RE = re.compile(r"\b(hackathon|bounty|bounties|grants? (round|program)|buildathon)\b", re.I)
 
 
@@ -178,11 +179,15 @@ def ethglobal(today):
         seen = set()
         for m in re.finditer(r'\{"id":(\d+),"name":"([^"]+)","slug":"([^"]+)","type":"([^"]+)","medium":"([^"]+)","startTime":"([^"]+)","endTime":"([^"]+)","status":"([^"]+)"', h):
             i, name, slug, typ, medium, st, en, status = m.groups()
-            if i in seen or typ != "hackathon" or status in ("past", "finished", "cancelled"):
-                continue
-            if en[:10] < today:
+            if i in seen or status in ("past", "finished", "cancelled") or en[:10] < today:
                 continue
             seen.add(i)
+            if typ in ("summit", "conference"):
+                EVENTS.append({"source": "ethglobal", "id": f"ethglobal-{i}", "title": name, "url": f"https://ethglobal.com/events/{slug}",
+                               "organizer": "ETHGlobal", "type": typ, "start": st[:10], "end": en[:10], "medium": medium,
+                               "verified": "listed in ethglobal.com/events page data"})
+            if typ != "hackathon":
+                continue
             out.append({"source": "ethglobal", "id": f"ethglobal-{i}", "title": name, "url": f"https://ethglobal.com/events/{slug}",
                         "organizer": "ETHGlobal", "dates": f"{st[:10]} to {en[:10]}", "state": status, "prize": None,
                         "location": medium, "themes": ["Ethereum"], "verified": "listed in ethglobal.com/events page data"})
@@ -344,7 +349,7 @@ def main():
             if err:
                 web_errors.append(err)
     seen_h = load_json(ROOT / "feeds/hackathons/seen.json", {})
-    baseline = not seen_h
+    baseline = (not seen_h) or min(seen_h.values()) == date
     for h in hacks:
         h["first_seen"] = seen_h.get(h["id"], date)
         h["new"] = h["first_seen"] == date and not baseline
@@ -359,6 +364,11 @@ def main():
                  "items": hacks, "x_leads": x_leads if xstat["status"] == "ok" else None}
     write_json(ROOT / "feeds/hackathons/latest.json", hacks_doc)
     write_json(ROOT / "feeds/hackathons/seen.json", seen_h)
+    ev = sorted(EVENTS + [{"source": h["source"], "id": h["id"], "title": h["title"], "url": h["url"], "organizer": h.get("organizer"),
+                           "type": "hackathon", "dates": h.get("dates"), "medium": h.get("location"), "verified": h["verified"]} for h in hacks],
+                key=lambda e: e.get("start") or "9999")
+    write_json(ROOT / "feeds/events/latest.json", {"date": date, "generated_at": gen, "sources": ["ethglobal.com/events", "devpost.com (blockchain hackathons)"],
+                                                   "errors": web_errors, "count": len(ev), "items": ev})
 
     drafts = make_briefings(date, clusters, hacks)
     for name, md in drafts:
