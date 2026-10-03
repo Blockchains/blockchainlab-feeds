@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T18:10:21Z",
+  "sources": [
+    "ethglobal.com/events",
+    "devpost.com (blockchain hackathons)"
+  ],
+  "errors": [],
+  "count": 6,
+  "items": [
+    {
+      "source": "ethglobal",
+      "id": "ethglobal-734",
+      "title": "Ethereum Stablecoin Summit",
+      "url": "https://ethglobal.com/events/ethsummit-las-vegas",
+      "organizer": "ETHGlobal",
+      "type": "summit",
+      "start": "2026-10-19",
+      "end": "2026-10-19",
+      "medium": "physical",
+      "verified": "listed in ethglobal.com/events page data"
+    },
+    {
+      "source": "ethglobal",
+      "id": "ethglobal-530",
+      "title": "Pragma Mumbai",
+      "url": "https://ethglobal.com/events/pragma-mumbai",
+      "organizer": "ETHGlobal",
+      "type": "summit",
+      "start": "2026-11-04",
+      "end": "2026-11-04",
+      "medium": "physical",
+      "verified": "listed in ethglobal.com/events page data"
+    },
+    {
+      "source": "ethglobal",
+      "id": "ethglobal-712",
+      "title": "ETHConf 2027",
+      "url": "https://ethglobal.com/events/ethconf2027",
+      "organizer": "ETHGlobal",
+      "type": "summit",
+      "start": "2027-06-14",
+      "end": "2027-06-16",
+      "medium": "physical",
+      "verified": "listed in ethglobal.com/events page data"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31534",
+      "title": "SUSTAIN-A-THON 2.0",
+      "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
+      "organizer": "Sharda University Greater Noida",
+      "type": "hackathon",
+      "dates": "Oct 27 - 28, 2026",
+      "medium": "Block 45, Sharda University",
+      "verified": "listed on devpost.com API"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-29114",
+      "title": "IEEE ClimateChain Global Hackathon",
+      "url": "https://ieee-climatechain-hack.devpost.com/",
+      "organizer": "IEEE Turkey",
+      "type": "hackathon",
+      "dates": "Oct 05 - 25, 2026",
+      "medium": "Online",
+      "verified": "listed on devpost.com API"
+    },
+    {
+      "source": "ethglobal",
+      "id": "ethglobal-527",
+      "title": "ETHGlobal Mumbai",
+      "url": "https://ethglobal.com/events/mumbai",
+      "organizer": "ETHGlobal",
+      "type": "hackathon",
+      "dates": "2026-11-05 to 2026-11-07",
+      "medium": "physical",
+      "verified": "listed in ethglobal.com/events page data"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T18:08:29Z",
-  "baseline_run": false,
+  "generated_at": "2026-10-03T18:10:21Z",
+  "baseline_run": true,
   "sources": [
     "devpost.com/api/hackathons (theme Blockchain, open+upcoming)",
     "ethglobal.com/events (future hackathons)",
@@ -13,7 +13,7 @@
   ],
   "errors": [],
   "count": 3,
-  "new_count": 3,
+  "new_count": 0,
   "items": [
     {
       "source": "devpost",
@@ -33,7 +33,7 @@
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-10-03",
-      "new": true
+      "new": false
     },
     {
       "source": "devpost",
@@ -53,7 +53,7 @@
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-10-03",
-      "new": true
+      "new": false
     },
     {
       "source": "ethglobal",
@@ -70,7 +70,7 @@
       ],
       "verified": "listed in ethglobal.com/events page data",
       "first_seen": "2026-10-03",
-      "new": true
+      "new": false
     }
   ],
   "x_leads": null
