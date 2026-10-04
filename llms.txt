@@ -1,0 +1,22 @@
+# blockchainlab-feeds
+
+> Public JSON feeds for blockchainlab.com: hackathons/grants/bounties, events, clustered X intel and mentions (public post IDs, links, handles, short trimmed summaries, counts only), built daily.
+
+## Docs
+
+- [README](https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/README.md): overview, install and the 'Use as a building block' section
+- [AGENTS.md](https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/AGENTS.md): setup, build/test commands, structure map, conventions and rules for AI coding agents
+- [blocks.json](https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/blocks.json): machine-readable building-block manifest (entrypoints, inputs, outputs, deps, compatible blocks)
+
+## Key files
+
+- [scripts/build_feeds.py](https://github.com/Blockchains/blockchainlab-feeds/blob/main/scripts/build_feeds.py): builder
+- [watchlist.json](https://github.com/Blockchains/blockchainlab-feeds/blob/main/watchlist.json): watchlist
+
+## Related
+
+- [Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md): how to assemble projects from Blockchains repos
+- [Org llms.txt](https://blockchains.github.io/llms.txt) · [blocks catalogue](https://blockchains.github.io/blocks.json)
+- [Blockchains/blockchainlab-api](https://github.com/Blockchains/blockchainlab-api): republishes hackathons and events as API datasets
+- [Blockchains/blockchains.github.io](https://github.com/Blockchains/blockchains.github.io): powers /events
+- [Blockchains/hackathons](https://github.com/Blockchains/hackathons): human tracker of the same events

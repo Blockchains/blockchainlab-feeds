@@ -39,6 +39,40 @@ python3 scripts/build_feeds.py --date 2026-10-04 \
 
 Example: `curl -s https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/hackathons/latest.json`
 
+<!-- blocks:start -->
+## Use as a building block
+
+> **For AI agents and builders:** read [`AGENTS.md`](AGENTS.md) (setup, commands, structure, rules), [`llms.txt`](llms.txt) (doc map) and the machine-readable [`blocks.json`](blocks.json) ([schema](https://github.com/Blockchains/.github/blob/main/docs/BLOCKS-SCHEMA.md)). How all Blockchains blocks fit together: **[Build with Blocks](https://github.com/Blockchains/.github/blob/main/docs/BUILD-WITH-BLOCKS.md)** · org catalogue: [https://blockchains.github.io/blocks.json](https://blockchains.github.io/blocks.json).
+
+**What it exports**
+
+| Export | Type | Install / access |
+|---|---|---|
+| `feeds/hackathons/latest.json` | http | `items[]: title, url, dates, prize, location, organizer, themes, state, source, verified` |
+| `feeds/events/latest.json` | http | `https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/events/latest.json` |
+| `feeds/x-intel/latest.json` | http | `https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/x-intel/latest.json` |
+| `scripts/build_feeds.py` | cli | `python3 scripts/build_feeds.py --date YYYY-MM-DD --raw-dir DIR --digest-dir DIR` |
+
+**Minimal example** (live raw URL, checked 2026-10-04)
+
+```bash
+curl -s https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/hackathons/latest.json | jq '.items[] | {title, dates, prize, url}'
+```
+
+**Inputs → outputs**
+
+- In: `raw X MCP responses` (JSON files) saved by a routine agent; `Devpost / ETHGlobal` (public pages)
+- Out: `latest.json per feed` (JSON) generated_at, count, items[], errors; unknown counts are null
+
+**Composes with**
+
+- [Blockchains/blockchainlab-api](https://github.com/Blockchains/blockchainlab-api): republishes hackathons and events as API datasets
+- [Blockchains/blockchains.github.io](https://github.com/Blockchains/blockchains.github.io): powers /events
+- [Blockchains/hackathons](https://github.com/Blockchains/hackathons): human tracker of the same events
+
+**Versioning & stability:** `beta`. Feed fields are additive; `null` means unknown (never 0). Prefer the API's `hackathons`/`events` datasets for a schema-validated copy.
+<!-- blocks:end -->
+
 ## Configuration
 
 | Setting | Default | Purpose |

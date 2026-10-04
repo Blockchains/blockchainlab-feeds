@@ -1,0 +1,81 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Blockchains/.github/main/docs/blocks.schema.json",
+  "schema_version": "1.0",
+  "name": "blockchainlab-feeds",
+  "repo": "Blockchains/blockchainlab-feeds",
+  "summary": "Public JSON feeds for blockchainlab.com: hackathons/grants/bounties, events, clustered X intel and mentions (public post IDs, links, handles, short trimmed summaries, counts only), built daily.",
+  "kind": [
+    "dataset",
+    "automation"
+  ],
+  "stability": "beta",
+  "license": "NOASSERTION",
+  "entrypoints": [
+    {
+      "type": "http",
+      "name": "feeds/hackathons/latest.json",
+      "ref": "https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/hackathons/latest.json",
+      "usage": "items[]: title, url, dates, prize, location, organizer, themes, state, source, verified"
+    },
+    {
+      "type": "http",
+      "name": "feeds/events/latest.json",
+      "ref": "https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/events/latest.json"
+    },
+    {
+      "type": "http",
+      "name": "feeds/x-intel/latest.json",
+      "ref": "https://raw.githubusercontent.com/Blockchains/blockchainlab-feeds/main/feeds/x-intel/latest.json"
+    },
+    {
+      "type": "cli",
+      "name": "scripts/build_feeds.py",
+      "ref": "scripts/build_feeds.py",
+      "usage": "python3 scripts/build_feeds.py --date YYYY-MM-DD --raw-dir DIR --digest-dir DIR"
+    }
+  ],
+  "inputs": [
+    {
+      "name": "raw X MCP responses",
+      "type": "JSON files",
+      "description": "saved by a routine agent"
+    },
+    {
+      "name": "Devpost / ETHGlobal",
+      "type": "public pages"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "latest.json per feed",
+      "type": "JSON",
+      "description": "generated_at, count, items[], errors; unknown counts are null"
+    }
+  ],
+  "deps": [
+    "python3 (stdlib)"
+  ],
+  "compatible_with": [
+    {
+      "repo": "Blockchains/blockchainlab-api",
+      "how": "republishes hackathons and events as API datasets"
+    },
+    {
+      "repo": "Blockchains/blockchains.github.io",
+      "how": "powers /events"
+    },
+    {
+      "repo": "Blockchains/hackathons",
+      "how": "human tracker of the same events"
+    }
+  ],
+  "tests": {
+    "command": "python3 scripts/build_feeds.py --date $(date +%F) --raw-dir /tmp/raw --digest-dir /tmp/digest",
+    "network": true
+  },
+  "docs": {
+    "readme": "README.md",
+    "agents": "AGENTS.md",
+    "llms": "llms.txt"
+  }
+}
