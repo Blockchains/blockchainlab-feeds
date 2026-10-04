@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T18:38:07Z",
-  "baseline_run": true,
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T14:44:57Z",
+  "baseline_run": false,
   "sources": [
     "devpost.com/api/hackathons (theme Blockchain, open+upcoming)",
     "ethglobal.com/events (future hackathons)",
@@ -12,9 +12,29 @@
     "gitcoin (indexer not reachable from the box)"
   ],
   "errors": [],
-  "count": 3,
-  "new_count": 0,
+  "count": 4,
+  "new_count": 1,
   "items": [
+    {
+      "source": "devpost",
+      "id": "devpost-31610",
+      "title": "All you can do with AI ",
+      "url": "https://all-you-can-do-with-ai.devpost.com/",
+      "organizer": "Self",
+      "dates": "Oct 07 - 12, 2026",
+      "state": "upcoming",
+      "prize": null,
+      "location": "Online",
+      "registrations": 3,
+      "themes": [
+        "Blockchain",
+        "Databases",
+        "Serverless"
+      ],
+      "verified": "listed on devpost.com API",
+      "first_seen": "2026-10-04",
+      "new": true
+    },
     {
       "source": "devpost",
       "id": "devpost-31534",
@@ -45,7 +65,7 @@
       "state": "upcoming",
       "prize": "$3,000",
       "location": "Online",
-      "registrations": 482,
+      "registrations": 498,
       "themes": [
         "Blockchain",
         "Machine Learning/AI",

@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T18:38:07Z",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T14:44:57Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
   ],
   "errors": [],
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "source": "ethglobal",
@@ -43,6 +43,17 @@
       "end": "2027-06-16",
       "medium": "physical",
       "verified": "listed in ethglobal.com/events page data"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31610",
+      "title": "All you can do with AI ",
+      "url": "https://all-you-can-do-with-ai.devpost.com/",
+      "organizer": "Self",
+      "type": "hackathon",
+      "dates": "Oct 07 - 12, 2026",
+      "medium": "Online",
+      "verified": "listed on devpost.com API"
     },
     {
       "source": "devpost",
