@@ -1,12 +1,12 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T06:51:22Z",
+  "generated_at": "2026-10-12T06:51:46Z",
   "source": "X API via MCP connector (user-X)",
   "x_status": "ok",
   "x_error": null,
   "window_hours": 24,
   "counts": {
-    "posts": 296,
+    "posts": 247,
     "by_topic": {
       "ethereum": 27,
       "bitcoin": 40,
@@ -15,369 +15,490 @@
       "defi": 33,
       "regulation": 25,
       "ai_crypto": 34,
-      "other": 81
+      "other": 32
     }
   },
   "top": [
     {
-      "id": "18876842",
-      "url": "https://x.com/i/status/18876842",
-      "author": null,
-      "author_name": null,
-      "time": "2009-01-11T19:36:50.000Z",
-      "text_len": 0,
-      "summary": "",
+      "id": "2109304295116153223",
+      "url": "https://x.com/base/status/2109304295116153223",
+      "author": "base",
+      "author_name": "Base",
+      "time": "2026-10-11T15:25:07.000Z",
+      "text_len": 28,
+      "summary": "Weekend builders, we see you",
       "engagement": {
-        "like": 181185,
-        "score": 181185
+        "like": 723,
+        "retweet": 75,
+        "reply": 218,
+        "quote": 26,
+        "bookmark": 9,
+        "impression": 59718,
+        "score": 1143
       },
       "links": [],
       "sources": [
-        "01-verify-users"
+        "10-watchlist-00"
+      ],
+      "topic": "l2"
+    },
+    {
+      "id": "2109294039015240174",
+      "url": "https://x.com/jessepollak/status/2109294039015240174",
+      "author": "jessepollak",
+      "author_name": "jesse.base.eth",
+      "time": "2026-10-11T14:44:22.000Z",
+      "text_len": 28,
+      "summary": "Tokenized equity supercycle.",
+      "engagement": {
+        "like": 767,
+        "retweet": 75,
+        "reply": 130,
+        "quote": 46,
+        "bookmark": 6,
+        "impression": 69153,
+        "score": 1139
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "defi"
+    },
+    {
+      "id": "2109372250202030584",
+      "url": "https://x.com/Starknet/status/2109372250202030584",
+      "author": "Starknet",
+      "author_name": "Starknet",
+      "time": "2026-10-11T19:55:09.000Z",
+      "text_len": 77,
+      "summary": "Post-quantum security. Part of the vision since 2018.",
+      "engagement": {
+        "like": 730,
+        "retweet": 118,
+        "reply": 72,
+        "quote": 17,
+        "bookmark": 25,
+        "impression": 35086,
+        "score": 1072
+      },
+      "links": [
+        "https://x.com/Starknet/status/2109372250202030584/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "l2"
+    },
+    {
+      "id": "2109236971184730311",
+      "url": "https://x.com/coinbase/status/2109236971184730311",
+      "author": "coinbase",
+      "author_name": "Coinbase 🛡️",
+      "time": "2026-10-11T10:57:36.000Z",
+      "text_len": 187,
+      "summary": "$150,000 on the line for some of the best traders on CT.",
+      "engagement": {
+        "like": 420,
+        "retweet": 59,
+        "reply": 101,
+        "quote": 11,
+        "bookmark": 21,
+        "impression": 146925,
+        "score": 661
+      },
+      "links": [
+        "https://x.com/coinbase/status/2109236971184730311/video/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "ai_crypto"
+    },
+    {
+      "id": "2109207030200177137",
+      "url": "https://x.com/Nonsokozen/status/2109207030200177137",
+      "author": "Nonsokozen",
+      "author_name": "Nonsokozen",
+      "time": "2026-10-11T08:58:37.000Z",
+      "text_len": 296,
+      "summary": "Google Maps is basically useless for literal robots.",
+      "engagement": {
+        "like": 371,
+        "retweet": 10,
+        "reply": 211,
+        "quote": 0,
+        "bookmark": 2,
+        "impression": 3390,
+        "score": 602
+      },
+      "links": [],
+      "sources": [
+        "20-topic-hackathons"
+      ],
+      "hackathon_lead": true,
+      "topic": "other"
+    },
+    {
+      "id": "2109278083115012145",
+      "url": "https://x.com/lopp/status/2109278083115012145",
+      "author": "lopp",
+      "author_name": "Jameson Lopp",
+      "time": "2026-10-11T13:40:58.000Z",
+      "text_len": 262,
+      "summary": "Every time there is a catastrophic security failure in the Bitcoin industry, it is to my great chagrin that the common response is \"we can no longer trust X,…",
+      "engagement": {
+        "like": 328,
+        "retweet": 18,
+        "reply": 34,
+        "quote": 3,
+        "bookmark": 13,
+        "impression": 23973,
+        "score": 404
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2109311452536598627",
+      "url": "https://x.com/jessepollak/status/2109311452536598627",
+      "author": "jessepollak",
+      "author_name": "jesse.base.eth",
+      "time": "2026-10-11T15:53:34.000Z",
+      "text_len": 222,
+      "summary": "@sirceen @hryhorii77 every stock from every country is going to come onchain (on @base) and it's going to unlock trillions of dollars of value and increase…",
+      "engagement": {
+        "like": 228,
+        "retweet": 28,
+        "reply": 40,
+        "quote": 22,
+        "bookmark": 3,
+        "impression": 23579,
+        "score": 368
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "l2"
+    },
+    {
+      "id": "2109378938502041604",
+      "url": "https://x.com/jessepollak/status/2109378938502041604",
+      "author": "jessepollak",
+      "author_name": "jesse.base.eth",
+      "time": "2026-10-11T20:21:43.000Z",
+      "text_len": 34,
+      "summary": "work to do",
+      "engagement": {
+        "like": 207,
+        "retweet": 11,
+        "reply": 57,
+        "quote": 1,
+        "bookmark": 1,
+        "impression": 16448,
+        "score": 288
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "l2"
+    },
+    {
+      "id": "2109328650961088854",
+      "url": "https://x.com/sheriff_ayinla/status/2109328650961088854",
+      "author": "sheriff_ayinla",
+      "author_name": "Sheriff",
+      "time": "2026-10-11T17:01:54.000Z",
+      "text_len": 279,
+      "summary": "ESMA just gave EU crypto firms an outer deadline of 8 Jan 2027 to wind down all remaining exposure to non MiCA stablecoins.",
+      "engagement": {
+        "like": 89,
+        "retweet": 82,
+        "reply": 7,
+        "quote": 0,
+        "bookmark": 36,
+        "impression": 568,
+        "score": 260
+      },
+      "links": [],
+      "sources": [
+        "20-topic-regulation"
+      ],
+      "topic": "regulation"
+    },
+    {
+      "id": "2109240878770626830",
+      "url": "https://x.com/WuBlockchain/status/2109240878770626830",
+      "author": "WuBlockchain",
+      "author_name": "Wu Blockchain",
+      "time": "2026-10-11T11:13:07.000Z",
+      "text_len": 302,
+      "summary": "Ledger Confirms Hardware Implant Attack, Says Its Systems Were Not Breached Ledger said an unauthorized hardware implant was found inside an affected device,…",
+      "engagement": {
+        "like": 128,
+        "retweet": 28,
+        "reply": 47,
+        "quote": 11,
+        "bookmark": 8,
+        "impression": 31039,
+        "score": 253
+      },
+      "links": [
+        "https://x.com/WuBlockchain/status/2109240878770626830/photo/1",
+        "https://x.com/WuBlockchain/status/2109240878770626830/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
       ],
       "topic": "other"
     },
     {
-      "id": "213236426",
-      "url": "https://x.com/i/status/213236426",
-      "author": null,
-      "author_name": null,
-      "time": "2010-11-08T11:04:10.000Z",
-      "text_len": 0,
-      "summary": "",
+      "id": "2109338747850666128",
+      "url": "https://x.com/SolanaSensei/status/2109338747850666128",
+      "author": "SolanaSensei",
+      "author_name": "Solana Sensei",
+      "time": "2026-10-11T17:42:01.000Z",
+      "text_len": 258,
+      "summary": "Solana is solidifying itself as the home of agentic payments and few people are talking about it.",
       "engagement": {
-        "like": 143313,
-        "score": 143313
+        "like": 152,
+        "retweet": 14,
+        "reply": 61,
+        "quote": 2,
+        "bookmark": 3,
+        "impression": 5824,
+        "score": 245
+      },
+      "links": [
+        "https://x.com/SolanaSensei/status/2109338747850666128/photo/1"
+      ],
+      "sources": [
+        "20-topic-ai_crypto"
+      ],
+      "topic": "ai_crypto"
+    },
+    {
+      "id": "2109291752066551973",
+      "url": "https://x.com/ProofOfWei/status/2109291752066551973",
+      "author": "ProofOfWei",
+      "author_name": "proof of wei",
+      "time": "2026-10-11T14:35:17.000Z",
+      "text_len": 304,
+      "summary": "The Future of Ethereum: Not Just a Cryptocurrency, but a Worldwide Supercomputer If Bitcoin has cemented its status as \"digital gold,\" then Ethereum (ETH) is…",
+      "engagement": {
+        "like": 182,
+        "retweet": 0,
+        "reply": 31,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 37888,
+        "score": 213
+      },
+      "links": [
+        "https://x.com/ProofOfWei/status/2109291752066551973/photo/1"
+      ],
+      "sources": [
+        "20-topic-l2"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2109326307318530149",
+      "url": "https://x.com/BroosterWeb3/status/2109326307318530149",
+      "author": "BroosterWeb3",
+      "author_name": "Brooster",
+      "time": "2026-10-11T16:52:35.000Z",
+      "text_len": 301,
+      "summary": "Good Evening Legends! 🔥 Before my GN, today's crypto highlights: - Bitcoin holds near $83,056 after being rejected from the $86,000 to $90,000 resistance…",
+      "engagement": {
+        "like": 109,
+        "retweet": 2,
+        "reply": 94,
+        "quote": 0,
+        "bookmark": 12,
+        "impression": 1087,
+        "score": 207
       },
       "links": [],
       "sources": [
-        "01-verify-users"
+        "20-topic-hackathons"
+      ],
+      "hackathon_lead": true,
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2109353067804242048",
+      "url": "https://x.com/CoinDesk/status/2109353067804242048",
+      "author": "CoinDesk",
+      "author_name": "CoinDesk",
+      "time": "2026-10-11T18:38:55.000Z",
+      "text_len": 277,
+      "summary": "@renato_mariotti says @CFTC’s new crypto market plan is “a clever interpretation of the Commodity Exchange Act,” but warns that after Loper Bright, courts may…",
+      "engagement": {
+        "like": 71,
+        "retweet": 18,
+        "reply": 43,
+        "quote": 2,
+        "bookmark": 4,
+        "impression": 37329,
+        "score": 154
+      },
+      "links": [
+        "https://x.com/CoinDesk/status/2109353067804242048/video/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "regulation"
+    },
+    {
+      "id": "2109257336292302919",
+      "url": "https://x.com/CryptoXAiMan/status/2109257336292302919",
+      "author": "CryptoXAiMan",
+      "author_name": "Crypto X AiMan",
+      "time": "2026-10-11T12:18:31.000Z",
+      "text_len": 298,
+      "summary": "🚨HEDERA HBAR WARNING!!! (THE HASHGRAPH LAWSUIT!)🚨 Hedera is taking legal action against The Hashgraph Group over the alleged mishandling of $50 MILLION in…",
+      "engagement": {
+        "like": 106,
+        "retweet": 18,
+        "reply": 7,
+        "quote": 1,
+        "bookmark": 14,
+        "impression": 12037,
+        "score": 151
+      },
+      "links": [],
+      "sources": [
+        "20-topic-hedera"
+      ],
+      "topic": "hedera"
+    },
+    {
+      "id": "2109226673149542858",
+      "url": "https://x.com/WuBlockchain/status/2109226673149542858",
+      "author": "WuBlockchain",
+      "author_name": "Wu Blockchain",
+      "time": "2026-10-11T10:16:41.000Z",
+      "text_len": 300,
+      "summary": "Papertrade Faces Allegations of BBO Price Manipulation on HyperEVM X user @Dr_bobo54 alleged that two wallets exploited Papertrade’s pricing mechanism by…",
+      "engagement": {
+        "like": 74,
+        "retweet": 5,
+        "reply": 25,
+        "quote": 5,
+        "bookmark": 12,
+        "impression": 22696,
+        "score": 119
+      },
+      "links": [
+        "https://x.com/WuBlockchain/status/2109226673149542858/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "ethereum"
+    },
+    {
+      "id": "2109347269518782944",
+      "url": "https://x.com/LongtermR/status/2109347269518782944",
+      "author": "LongtermR",
+      "author_name": "𝐋𝐨𝐧𝐠𝐓𝐞𝐫𝐦®📊🏆",
+      "time": "2026-10-11T18:15:53.000Z",
+      "text_len": 251,
+      "summary": "$HBAR Governed by a council including Google, IBM, Boeing and UCL, with Hedera Consensus Service used for auditable supply-chain logs.",
+      "engagement": {
+        "like": 96,
+        "retweet": 8,
+        "reply": 1,
+        "quote": 0,
+        "bookmark": 2,
+        "impression": 3183,
+        "score": 113
+      },
+      "links": [],
+      "sources": [
+        "20-topic-hedera"
+      ],
+      "topic": "hedera"
+    },
+    {
+      "id": "2109274695111770479",
+      "url": "https://x.com/NicolasDorier/status/2109274695111770479",
+      "author": "NicolasDorier",
+      "author_name": "Nicolas Dorier",
+      "time": "2026-10-11T13:27:30.000Z",
+      "text_len": 76,
+      "summary": "Looking forward for Bitcoin Core 32.0. FINALLY the fee estimator we deserve.",
+      "engagement": {
+        "like": 82,
+        "retweet": 5,
+        "reply": 11,
+        "quote": 2,
+        "bookmark": 2,
+        "impression": 5465,
+        "score": 107
+      },
+      "links": [],
+      "sources": [
+        "20-topic-bitcoin"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2109282793360658727",
+      "url": "https://x.com/WuBlockchain/status/2109282793360658727",
+      "author": "WuBlockchain",
+      "author_name": "Wu Blockchain",
+      "time": "2026-10-11T13:59:41.000Z",
+      "text_len": 299,
+      "summary": "XRPL Fixes Decade-Old Bug That Could Have Minted Trillions of XRP RippleX and the XRP Ledger Foundation disclosed that a critical payment-engine overflow bug…",
+      "engagement": {
+        "like": 47,
+        "retweet": 3,
+        "reply": 35,
+        "quote": 5,
+        "bookmark": 4,
+        "impression": 10241,
+        "score": 98
+      },
+      "links": [
+        "https://x.com/WuBlockchain/status/2109282793360658727/photo/1",
+        "https://x.com/WuBlockchain/status/2109282793360658727/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
       ],
       "topic": "other"
     },
     {
-      "id": "1443555910954127363",
-      "url": "https://x.com/i/status/1443555910954127363",
-      "author": null,
-      "author_name": null,
-      "time": "2021-09-30T12:39:15.000Z",
-      "text_len": 0,
-      "summary": "",
+      "id": "2109358375104287005",
+      "url": "https://x.com/CreativityEngr/status/2109358375104287005",
+      "author": "CreativityEngr",
+      "author_name": "Usman Adk🔺",
+      "time": "2026-10-11T19:00:01.000Z",
+      "text_len": 298,
+      "summary": "Another week of big numbers and global activity across the @avax ecosystem.🔺 tokenized U.S.",
       "engagement": {
-        "like": 58025,
-        "score": 58025
+        "like": 66,
+        "retweet": 11,
+        "reply": 8,
+        "quote": 1,
+        "bookmark": 1,
+        "impression": 3920,
+        "score": 98
       },
       "links": [],
       "sources": [
-        "01-verify-users"
+        "20-topic-hackathons"
       ],
-      "topic": "other"
-    },
-    {
-      "id": "23618940",
-      "url": "https://x.com/i/status/23618940",
-      "author": null,
-      "author_name": null,
-      "time": "2009-03-10T17:22:20.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 35210,
-        "score": 35210
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "80722677",
-      "url": "https://x.com/i/status/80722677",
-      "author": null,
-      "author_name": null,
-      "time": "2009-10-08T00:41:51.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 34595,
-        "score": 34595
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "1463071986515599362",
-      "url": "https://x.com/i/status/1463071986515599362",
-      "author": null,
-      "author_name": null,
-      "time": "2021-11-23T09:09:09.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 34377,
-        "score": 34377
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "914738730740715521",
-      "url": "https://x.com/i/status/914738730740715521",
-      "author": null,
-      "author_name": null,
-      "time": "2017-10-02T06:28:03.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 30640,
-        "score": 30640
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "883476092832681984",
-      "url": "https://x.com/i/status/883476092832681984",
-      "author": null,
-      "author_name": null,
-      "time": "2017-07-08T00:01:29.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 21470,
-        "score": 21470
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "412587524",
-      "url": "https://x.com/i/status/412587524",
-      "author": null,
-      "author_name": null,
-      "time": "2011-11-14T22:25:13.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 20748,
-        "score": 20748
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "1044836083530452992",
-      "url": "https://x.com/i/status/1044836083530452992",
-      "author": null,
-      "author_name": null,
-      "time": "2018-09-26T06:28:29.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 16194,
-        "score": 16194
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "856446453157376003",
-      "url": "https://x.com/i/status/856446453157376003",
-      "author": null,
-      "author_name": null,
-      "time": "2017-04-24T09:55:21.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 15291,
-        "score": 15291
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "984188226826010624",
-      "url": "https://x.com/i/status/984188226826010624",
-      "author": null,
-      "author_name": null,
-      "time": "2018-04-11T21:55:33.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 13963,
-        "score": 13963
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "1332033418088099843",
-      "url": "https://x.com/i/status/1332033418088099843",
-      "author": null,
-      "author_name": null,
-      "time": "2020-11-26T18:48:29.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 12586,
-        "score": 12586
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "295218901",
-      "url": "https://x.com/i/status/295218901",
-      "author": null,
-      "author_name": null,
-      "time": "2011-05-08T16:03:03.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 12088,
-        "score": 12088
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "898917341051965441",
-      "url": "https://x.com/i/status/898917341051965441",
-      "author": null,
-      "author_name": null,
-      "time": "2017-08-19T14:39:29.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 11665,
-        "score": 11665
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "1438365197505232902",
-      "url": "https://x.com/i/status/1438365197505232902",
-      "author": null,
-      "author_name": null,
-      "time": "2021-09-16T04:53:09.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 11481,
-        "score": 11481
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "1333467482",
-      "url": "https://x.com/i/status/1333467482",
-      "author": null,
-      "author_name": null,
-      "time": "2013-04-07T07:50:08.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 10619,
-        "score": 10619
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "954957643445166080",
-      "url": "https://x.com/i/status/954957643445166080",
-      "author": null,
-      "author_name": null,
-      "time": "2018-01-21T06:03:39.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 9606,
-        "score": 9606
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "1311617716239900673",
-      "url": "https://x.com/i/status/1311617716239900673",
-      "author": null,
-      "author_name": null,
-      "time": "2020-10-01T10:45:17.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 8355,
-        "score": 8355
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "867100084248469505",
-      "url": "https://x.com/i/status/867100084248469505",
-      "author": null,
-      "author_name": null,
-      "time": "2017-05-23T19:29:04.000Z",
-      "text_len": 0,
-      "summary": "",
-      "engagement": {
-        "like": 7939,
-        "score": 7939
-      },
-      "links": [],
-      "sources": [
-        "01-verify-users"
-      ],
-      "topic": "other"
+      "hackathon_lead": true,
+      "topic": "defi"
     }
   ],
   "clusters": {
@@ -4576,452 +4697,623 @@
       "label": "Other",
       "posts": [
         {
-          "id": "18876842",
-          "url": "https://x.com/i/status/18876842",
-          "author": null,
-          "author_name": null,
-          "time": "2009-01-11T19:36:50.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109207030200177137",
+          "url": "https://x.com/Nonsokozen/status/2109207030200177137",
+          "author": "Nonsokozen",
+          "author_name": "Nonsokozen",
+          "time": "2026-10-11T08:58:37.000Z",
+          "text_len": 296,
+          "summary": "Google Maps is basically useless for literal robots.",
           "engagement": {
-            "like": 181185,
-            "score": 181185
+            "like": 371,
+            "retweet": 10,
+            "reply": 211,
+            "quote": 0,
+            "bookmark": 2,
+            "impression": 3390,
+            "score": 602
           },
           "links": [],
           "sources": [
-            "01-verify-users"
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109240878770626830",
+          "url": "https://x.com/WuBlockchain/status/2109240878770626830",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-11T11:13:07.000Z",
+          "text_len": 302,
+          "summary": "Ledger Confirms Hardware Implant Attack, Says Its Systems Were Not Breached Ledger said an unauthorized hardware implant was found inside an affected device,…",
+          "engagement": {
+            "like": 128,
+            "retweet": 28,
+            "reply": 47,
+            "quote": 11,
+            "bookmark": 8,
+            "impression": 31039,
+            "score": 253
+          },
+          "links": [
+            "https://x.com/WuBlockchain/status/2109240878770626830/photo/1",
+            "https://x.com/WuBlockchain/status/2109240878770626830/photo/1"
+          ],
+          "sources": [
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "213236426",
-          "url": "https://x.com/i/status/213236426",
-          "author": null,
-          "author_name": null,
-          "time": "2010-11-08T11:04:10.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109282793360658727",
+          "url": "https://x.com/WuBlockchain/status/2109282793360658727",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-11T13:59:41.000Z",
+          "text_len": 299,
+          "summary": "XRPL Fixes Decade-Old Bug That Could Have Minted Trillions of XRP RippleX and the XRP Ledger Foundation disclosed that a critical payment-engine overflow bug…",
           "engagement": {
-            "like": 143313,
-            "score": 143313
+            "like": 47,
+            "retweet": 3,
+            "reply": 35,
+            "quote": 5,
+            "bookmark": 4,
+            "impression": 10241,
+            "score": 98
           },
-          "links": [],
+          "links": [
+            "https://x.com/WuBlockchain/status/2109282793360658727/photo/1",
+            "https://x.com/WuBlockchain/status/2109282793360658727/photo/1"
+          ],
           "sources": [
-            "01-verify-users"
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "1443555910954127363",
-          "url": "https://x.com/i/status/1443555910954127363",
-          "author": null,
-          "author_name": null,
-          "time": "2021-09-30T12:39:15.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109494270704955696",
+          "url": "https://x.com/WuBlockchain/status/2109494270704955696",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-12T04:00:01.000Z",
+          "text_len": 298,
+          "summary": "Star Xu: Hyperliquid's Matching Engine Is More Market Maker Friendly OKX founder Star Xu @star_okx said on the New Era Finance Podcast @new_era_finance that…",
           "engagement": {
-            "like": 58025,
-            "score": 58025
+            "like": 50,
+            "retweet": 7,
+            "reply": 22,
+            "quote": 2,
+            "bookmark": 14,
+            "impression": 15027,
+            "score": 90
           },
-          "links": [],
+          "links": [
+            "https://x.com/WuBlockchain/status/2109494270704955696/video/1"
+          ],
           "sources": [
-            "01-verify-users"
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "23618940",
-          "url": "https://x.com/i/status/23618940",
-          "author": null,
-          "author_name": null,
-          "time": "2009-03-10T17:22:20.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109342546573083093",
+          "url": "https://x.com/MalikKashif1600/status/2109342546573083093",
+          "author": "MalikKashif1600",
+          "author_name": "Malik Kashif🇵🇰",
+          "time": "2026-10-11T17:57:07.000Z",
+          "text_len": 297,
+          "summary": "🚀 Excited to submit my project for the @DoraHacks Hackathon!",
           "engagement": {
-            "like": 35210,
-            "score": 35210
+            "like": 14,
+            "retweet": 6,
+            "reply": 7,
+            "quote": 2,
+            "bookmark": 0,
+            "impression": 237,
+            "score": 37
           },
           "links": [],
           "sources": [
-            "01-verify-users"
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109283257774727545",
+          "url": "https://x.com/cocoolowo/status/2109283257774727545",
+          "author": "cocoolowo",
+          "author_name": "Lamina J",
+          "time": "2026-10-11T14:01:31.000Z",
+          "text_len": 301,
+          "summary": "7 creator bounties worth checking out this week 👀 I'm building too, so I'm sharing these opportunities for fellow creators.",
+          "engagement": {
+            "like": 6,
+            "retweet": 3,
+            "reply": 2,
+            "quote": 2,
+            "bookmark": 5,
+            "impression": 571,
+            "score": 18
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109257015273140343",
+          "url": "https://x.com/WuBlockchain/status/2109257015273140343",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-11T12:17:15.000Z",
+          "text_len": 103,
+          "summary": "For the complete article and weekly curated reports, subscribe to our Substack:",
+          "engagement": {
+            "like": 4,
+            "retweet": 1,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 2,
+            "impression": 3195,
+            "score": 8
+          },
+          "links": [
+            "https://wublock.substack.com/p/asias-weekly-top10-crypto-news-kyrgyzstan?r=jbpop&utm_campaign=post&utm_medium=web"
+          ],
+          "sources": [
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "80722677",
-          "url": "https://x.com/i/status/80722677",
-          "author": null,
-          "author_name": null,
-          "time": "2009-10-08T00:41:51.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109529693494149605",
+          "url": "https://x.com/WuBlockchain/status/2109529693494149605",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-12T06:20:46.000Z",
+          "text_len": 31,
+          "summary": "Source:",
           "engagement": {
-            "like": 34595,
-            "score": 34595
+            "like": 5,
+            "retweet": 0,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 968,
+            "score": 7
           },
-          "links": [],
+          "links": [
+            "https://www.youtube.com/watch?v=DDGT1a_dEJ4"
+          ],
           "sources": [
-            "01-verify-users"
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "1463071986515599362",
-          "url": "https://x.com/i/status/1463071986515599362",
-          "author": null,
-          "author_name": null,
-          "time": "2021-11-23T09:09:09.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109283058553892948",
+          "url": "https://x.com/WuBlockchain/status/2109283058553892948",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-11T14:00:44.000Z",
+          "text_len": 31,
+          "summary": "Source:",
           "engagement": {
-            "like": 34377,
-            "score": 34377
+            "like": 6,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 2,
+            "impression": 3639,
+            "score": 7
           },
-          "links": [],
+          "links": [
+            "https://xrpl.org/es-es/blog/2026/vulnerabilitydisclosurereport-bug-20261009"
+          ],
           "sources": [
-            "01-verify-users"
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "914738730740715521",
-          "url": "https://x.com/i/status/914738730740715521",
-          "author": null,
-          "author_name": null,
-          "time": "2017-10-02T06:28:03.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109282681393664487",
+          "url": "https://x.com/WuBlockchain/status/2109282681393664487",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-11T13:59:14.000Z",
+          "text_len": 299,
+          "summary": "XRPL Fixes Decade-Old Bug That Could Have Minted Trillions of XRP RippleX and the XRP Ledger Foundation disclosed that a critical payment-engine overflow bug…",
           "engagement": {
-            "like": 30640,
-            "score": 30640
+            "like": 4,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 1,
+            "bookmark": 0,
+            "impression": 12103,
+            "score": 6
           },
-          "links": [],
+          "links": [
+            "https://x.com/WuBlockchain/status/2109282681393664487/photo/1",
+            "https://x.com/WuBlockchain/status/2109282681393664487/photo/1"
+          ],
           "sources": [
-            "01-verify-users"
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "883476092832681984",
-          "url": "https://x.com/i/status/883476092832681984",
-          "author": null,
-          "author_name": null,
-          "time": "2017-07-08T00:01:29.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109491471657390554",
+          "url": "https://x.com/WuBlockchain/status/2109491471657390554",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-12T03:48:53.000Z",
+          "text_len": 31,
+          "summary": "Source:",
           "engagement": {
-            "like": 21470,
-            "score": 21470
+            "like": 2,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 2000,
+            "score": 3
           },
-          "links": [],
+          "links": [
+            "https://sosovalue.com/assets/etf/us-btc-spot"
+          ],
           "sources": [
-            "01-verify-users"
+            "10-watchlist-01"
           ],
           "topic": "other"
         },
         {
-          "id": "412587524",
-          "url": "https://x.com/i/status/412587524",
-          "author": null,
-          "author_name": null,
-          "time": "2011-11-14T22:25:13.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109198805258117465",
+          "url": "https://x.com/HashKeyInsights/status/2109198805258117465",
+          "author": "HashKeyInsights",
+          "author_name": "HashKey Insights",
+          "time": "2026-10-11T08:25:56.000Z",
+          "text_len": 300,
+          "summary": "Dr. Xiao Feng’s track record and HashKey’s foundation Dr. Xiao Feng moved from traditional Chinese finance into blockchain early. After co-founding and…",
           "engagement": {
-            "like": 20748,
-            "score": 20748
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 1,
+            "bookmark": 0,
+            "impression": 60,
+            "score": 3
           },
           "links": [],
           "sources": [
-            "01-verify-users"
+            "20-topic-hackathons",
+            "30-mentions"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109484100893503965",
+          "url": "https://x.com/AbdMuizAdeyemo/status/2109484100893503965",
+          "author": "AbdMuizAdeyemo",
+          "author_name": "Abdulmuiz Adeyemo",
+          "time": "2026-10-12T03:19:36.000Z",
+          "text_len": 304,
+          "summary": "$TCODE is the utility token for @talocode.",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 44,
+            "score": 3
+          },
+          "links": [
+            "https://jup.ag/tokens/6ptxwABxQz8zMhwhiPeVgRgWjGMdVcEBFBv8v8C3ory",
+            "https://x.com/AbdMuizAdeyemo/status/2109484100893503965/photo/1"
+          ],
+          "sources": [
+            "30-mentions"
           ],
           "topic": "other"
         },
         {
-          "id": "1044836083530452992",
-          "url": "https://x.com/i/status/1044836083530452992",
-          "author": null,
-          "author_name": null,
-          "time": "2018-09-26T06:28:29.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109530854435217859",
+          "url": "https://x.com/BenCrypz/status/2109530854435217859",
+          "author": "BenCrypz",
+          "author_name": "BenCrypz | ETHGas ⛽",
+          "time": "2026-10-12T06:25:23.000Z",
+          "text_len": 298,
+          "summary": "GM Web3 fam ☀️ Still looking for an opportunity to put your Web3 skills to work?",
           "engagement": {
-            "like": 16194,
-            "score": 16194
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 17,
+            "score": 2
           },
           "links": [],
           "sources": [
-            "01-verify-users"
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109296934879912198",
+          "url": "https://x.com/NCaleb34437/status/2109296934879912198",
+          "author": "NCaleb34437",
+          "author_name": "Caleb1_",
+          "time": "2026-10-11T14:55:52.000Z",
+          "text_len": 302,
+          "summary": "@RoyaltiesEarn makes the conversation more practical One part of the ecosystem that deserves attention is Earn.Royalties.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 3,
+            "score": 2
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109277120279069157",
+          "url": "https://x.com/ix_Serdhiq9/status/2109277120279069157",
+          "author": "ix_Serdhiq9",
+          "author_name": "Sadiq",
+          "time": "2026-10-11T13:37:08.000Z",
+          "text_len": 277,
+          "summary": "1/ 🧵 Your next opportunity in Web3 might be closer than you think.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 16,
+            "score": 2
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109369088359145756",
+          "url": "https://x.com/0xWeb3born/status/2109369088359145756",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-11T19:42:35.000Z",
+          "text_len": 297,
+          "summary": "Strategic Partnerships Can Change the Growth of Your Business.",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 13,
+            "score": 2
+          },
+          "links": [
+            "https://x.com/0xWeb3born/status/2109369088359145756/photo/1"
+          ],
+          "sources": [
+            "30-mentions"
           ],
           "topic": "other"
         },
         {
-          "id": "856446453157376003",
-          "url": "https://x.com/i/status/856446453157376003",
-          "author": null,
-          "author_name": null,
-          "time": "2017-04-24T09:55:21.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109185167336030577",
+          "url": "https://x.com/0xWeb3born/status/2109185167336030577",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-11T07:31:45.000Z",
+          "text_len": 299,
+          "summary": "The Real Web3 Alpha Might Be Understanding Users.",
           "engagement": {
-            "like": 15291,
-            "score": 15291
+            "like": 2,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 22,
+            "score": 2
           },
-          "links": [],
+          "links": [
+            "https://x.com/0xWeb3born/status/2109185167336030577/photo/1"
+          ],
           "sources": [
-            "01-verify-users"
+            "30-mentions"
           ],
           "topic": "other"
         },
         {
-          "id": "984188226826010624",
-          "url": "https://x.com/i/status/984188226826010624",
-          "author": null,
-          "author_name": null,
-          "time": "2018-04-11T21:55:33.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109193343968375130",
+          "url": "https://x.com/iiam_Akshay/status/2109193343968375130",
+          "author": "iiam_Akshay",
+          "author_name": "Akshay",
+          "time": "2026-10-11T08:04:14.000Z",
+          "text_len": 279,
+          "summary": "Open-source code doesn't automatically mean a project is safe.",
           "engagement": {
-            "like": 13963,
-            "score": 13963
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 489,
+            "score": 1
           },
           "links": [],
           "sources": [
-            "01-verify-users"
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109196217372549150",
+          "url": "https://x.com/akuwazir/status/2109196217372549150",
+          "author": "akuwazir",
+          "author_name": "Waziri ⛾",
+          "time": "2026-10-11T08:15:39.000Z",
+          "text_len": 290,
+          "summary": "• Bug bounty program management • Security awareness training for crypto teams • OTC desk operators • Exchange listing advisory • Onchain analytics and…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 60,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2109346090147365298",
+          "url": "https://x.com/0xWeb3born/status/2109346090147365298",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-11T18:11:12.000Z",
+          "text_len": 302,
+          "summary": "Web3 Needs Both Visibility and Evidence.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 20,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/0xWeb3born/status/2109346090147365298/photo/1"
+          ],
+          "sources": [
+            "30-mentions"
           ],
           "topic": "other"
         },
         {
-          "id": "1332033418088099843",
-          "url": "https://x.com/i/status/1332033418088099843",
-          "author": null,
-          "author_name": null,
-          "time": "2020-11-26T18:48:29.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109396211077624180",
+          "url": "https://x.com/0xWeb3born/status/2109396211077624180",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-11T21:30:22.000Z",
+          "text_len": 303,
+          "summary": "Artificial Intelligence or Super Intelligence?",
           "engagement": {
-            "like": 12586,
-            "score": 12586
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 23,
+            "score": 1
           },
-          "links": [],
+          "links": [
+            "https://x.com/0xWeb3born/status/2109396211077624180/photo/1"
+          ],
           "sources": [
-            "01-verify-users"
+            "30-mentions"
           ],
           "topic": "other"
         },
         {
-          "id": "295218901",
-          "url": "https://x.com/i/status/295218901",
-          "author": null,
-          "author_name": null,
-          "time": "2011-05-08T16:03:03.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109178206095884786",
+          "url": "https://x.com/0xWeb3born/status/2109178206095884786",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-11T07:04:05.000Z",
+          "text_len": 298,
+          "summary": "Web3 Needs More Researchers, Not Just Influencers.",
           "engagement": {
-            "like": 12088,
-            "score": 12088
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 21,
+            "score": 1
           },
-          "links": [],
+          "links": [
+            "https://x.com/0xWeb3born/status/2109178206095884786/photo/1"
+          ],
           "sources": [
-            "01-verify-users"
+            "30-mentions"
           ],
           "topic": "other"
         },
         {
-          "id": "898917341051965441",
-          "url": "https://x.com/i/status/898917341051965441",
-          "author": null,
-          "author_name": null,
-          "time": "2017-08-19T14:39:29.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109362077437775893",
+          "url": "https://x.com/0xWeb3born/status/2109362077437775893",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-11T19:14:43.000Z",
+          "text_len": 303,
+          "summary": "The Business Growth Strategy Many People Underestimate.",
           "engagement": {
-            "like": 11665,
-            "score": 11665
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 30,
+            "score": 1
           },
-          "links": [],
+          "links": [
+            "https://x.com/0xWeb3born/status/2109362077437775893/photo/1"
+          ],
           "sources": [
-            "01-verify-users"
+            "30-mentions"
           ],
           "topic": "other"
         },
         {
-          "id": "1438365197505232902",
-          "url": "https://x.com/i/status/1438365197505232902",
-          "author": null,
-          "author_name": null,
-          "time": "2021-09-16T04:53:09.000Z",
-          "text_len": 0,
-          "summary": "",
+          "id": "2109372144505532822",
+          "url": "https://x.com/0xWeb3born/status/2109372144505532822",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-11T19:54:44.000Z",
+          "text_len": 304,
+          "summary": "DAY 03/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT Understanding the Web3 Ecosystem Before You Start Selling You can't build meaningful business relationships…",
           "engagement": {
-            "like": 11481,
-            "score": 11481
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 21,
+            "score": 1
           },
-          "links": [],
-          "sources": [
-            "01-verify-users"
+          "links": [
+            "https://x.com/0xWeb3born/status/2109372144505532822/photo/1"
           ],
-          "topic": "other"
-        },
-        {
-          "id": "1333467482",
-          "url": "https://x.com/i/status/1333467482",
-          "author": null,
-          "author_name": null,
-          "time": "2013-04-07T07:50:08.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 10619,
-            "score": 10619
-          },
-          "links": [],
           "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "954957643445166080",
-          "url": "https://x.com/i/status/954957643445166080",
-          "author": null,
-          "author_name": null,
-          "time": "2018-01-21T06:03:39.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 9606,
-            "score": 9606
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "1311617716239900673",
-          "url": "https://x.com/i/status/1311617716239900673",
-          "author": null,
-          "author_name": null,
-          "time": "2020-10-01T10:45:17.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 8355,
-            "score": 8355
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "867100084248469505",
-          "url": "https://x.com/i/status/867100084248469505",
-          "author": null,
-          "author_name": null,
-          "time": "2017-05-23T19:29:04.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 7939,
-            "score": 7939
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "1628067904083181570",
-          "url": "https://x.com/i/status/1628067904083181570",
-          "author": null,
-          "author_name": null,
-          "time": "2023-02-21T16:26:04.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 7737,
-            "score": 7737
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "574032254",
-          "url": "https://x.com/i/status/574032254",
-          "author": null,
-          "author_name": null,
-          "time": "2012-05-07T23:06:31.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 6454,
-            "score": 6454
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "258480276",
-          "url": "https://x.com/i/status/258480276",
-          "author": null,
-          "author_name": null,
-          "time": "2011-02-27T20:34:12.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 6408,
-            "score": 6408
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "15837844",
-          "url": "https://x.com/i/status/15837844",
-          "author": null,
-          "author_name": null,
-          "time": "2008-08-13T15:21:25.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 6124,
-            "score": 6124
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
-          ],
-          "topic": "other"
-        },
-        {
-          "id": "1851849397979480064",
-          "url": "https://x.com/i/status/1851849397979480064",
-          "author": null,
-          "author_name": null,
-          "time": "2024-10-31T04:51:37.000Z",
-          "text_len": 0,
-          "summary": "",
-          "engagement": {
-            "like": 4538,
-            "score": 4538
-          },
-          "links": [],
-          "sources": [
-            "01-verify-users"
+            "30-mentions"
           ],
           "topic": "other"
         }
