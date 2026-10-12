@@ -132,7 +132,8 @@ def collect_posts(calls, wl):
         users = {u["id"]: u for u in (r.get("includes") or {}).get("users", [])}
         hint = name.split("20-topic-", 1)[1] if name.startswith("20-topic-") else None
         for p in r["data"]:
-            if "id" not in p:
+            # skip non-post payloads (e.g. get_users_by_usernames rows)
+            if "id" not in p or "text" not in p:
                 continue
             u = users.get(p.get("author_id"), {})
             handle = u.get("username") or ""
