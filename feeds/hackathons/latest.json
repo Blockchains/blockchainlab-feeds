@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T14:44:57Z",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:51:22Z",
   "baseline_run": false,
   "sources": [
     "devpost.com/api/hackathons (theme Blockchain, open+upcoming)",
@@ -13,7 +13,7 @@
   ],
   "errors": [],
   "count": 4,
-  "new_count": 1,
+  "new_count": 0,
   "items": [
     {
       "source": "devpost",
@@ -22,10 +22,10 @@
       "url": "https://all-you-can-do-with-ai.devpost.com/",
       "organizer": "Self",
       "dates": "Oct 07 - 12, 2026",
-      "state": "upcoming",
+      "state": "open",
       "prize": null,
       "location": "Online",
-      "registrations": 3,
+      "registrations": 72,
       "themes": [
         "Blockchain",
         "Databases",
@@ -33,7 +33,27 @@
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-10-04",
-      "new": true
+      "new": false
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-29114",
+      "title": "IEEE ClimateChain Global Hackathon",
+      "url": "https://ieee-climatechain-hack.devpost.com/",
+      "organizer": "IEEE Turkey",
+      "dates": "Oct 05 - 25, 2026",
+      "state": "open",
+      "prize": "$3,000",
+      "location": "Online",
+      "registrations": 727,
+      "themes": [
+        "Blockchain",
+        "Machine Learning/AI",
+        "Social Good"
+      ],
+      "verified": "listed on devpost.com API",
+      "first_seen": "2026-10-03",
+      "new": false
     },
     {
       "source": "devpost",
@@ -45,31 +65,11 @@
       "state": "upcoming",
       "prize": "$150,000",
       "location": "Block 45, Sharda University",
-      "registrations": 8,
+      "registrations": 20,
       "themes": [
         "Blockchain",
         "Cybersecurity",
         "IoT"
-      ],
-      "verified": "listed on devpost.com API",
-      "first_seen": "2026-10-03",
-      "new": false
-    },
-    {
-      "source": "devpost",
-      "id": "devpost-29114",
-      "title": "IEEE ClimateChain Global Hackathon",
-      "url": "https://ieee-climatechain-hack.devpost.com/",
-      "organizer": "IEEE Turkey",
-      "dates": "Oct 05 - 25, 2026",
-      "state": "upcoming",
-      "prize": "$3,000",
-      "location": "Online",
-      "registrations": 498,
-      "themes": [
-        "Blockchain",
-        "Machine Learning/AI",
-        "Social Good"
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-10-03",
@@ -93,5 +93,231 @@
       "new": false
     }
   ],
-  "x_leads": null
+  "x_leads": [
+    {
+      "id": "2109530854435217859",
+      "url": "https://x.com/BenCrypz/status/2109530854435217859",
+      "author": "BenCrypz",
+      "summary": "GM Web3 fam ☀️ Still looking for an opportunity to put your Web3 skills to work?",
+      "time": "2026-10-12T06:25:23.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109535589443752285",
+      "url": "https://x.com/Abdulkarim2/status/2109535589443752285",
+      "author": "Abdulkarim2",
+      "summary": "🚨 TOP 10 CRYPTO &amp; WEB3 UPDATES FOR OCTOBER 12, 2026 🚨 Today's themes: SUI × AI • HYPERLIQUID SECURITY • AI STABLECOIN PAYMENTS • BITCOIN ETFs • CRYPTO…",
+      "time": "2026-10-12T06:44:12.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109197080027680865",
+      "url": "https://x.com/Abdulkarim2/status/2109197080027680865",
+      "author": "Abdulkarim2",
+      "summary": "🚨 TOP 10 CRYPTO &amp; WEB3 UPDATES FOR OCTOBER 11, 2026 🚨 Today's themes: XRP LEDGER SECURITY • HARDWARE WALLET ALERT • BITCOIN &amp; ETH ETF OUTFLOWS • VISA…",
+      "time": "2026-10-11T08:19:05.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109198569894727768",
+      "url": "https://x.com/HashKeyInsights/status/2109198569894727768",
+      "author": "HashKeyInsights",
+      "summary": "Dr. Xiao Feng’s track record and HashKey’s foundation Dr. Xiao Feng moved from traditional Chinese finance into blockchain early. After co-founding and…",
+      "time": "2026-10-11T08:25:00.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109198805258117465",
+      "url": "https://x.com/HashKeyInsights/status/2109198805258117465",
+      "author": "HashKeyInsights",
+      "summary": "Dr. Xiao Feng’s track record and HashKey’s foundation Dr. Xiao Feng moved from traditional Chinese finance into blockchain early. After co-founding and…",
+      "time": "2026-10-11T08:25:56.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109358375104287005",
+      "url": "https://x.com/CreativityEngr/status/2109358375104287005",
+      "author": "CreativityEngr",
+      "summary": "Another week of big numbers and global activity across the @avax ecosystem.🔺 tokenized U.S.",
+      "time": "2026-10-11T19:00:01.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109236375908196420",
+      "url": "https://x.com/rubengarciaes/status/2109236375908196420",
+      "author": "rubengarciaes",
+      "summary": "We’re building Web3Rails on Solana for Colosseum’s hackathon: financial infrastructure connecting AI agents, Web2 business systems, and Web3 payments—with…",
+      "time": "2026-10-11T10:55:14.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109342546573083093",
+      "url": "https://x.com/MalikKashif1600/status/2109342546573083093",
+      "author": "MalikKashif1600",
+      "summary": "🚀 Excited to submit my project for the @DoraHacks Hackathon!",
+      "time": "2026-10-11T17:57:07.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109346254442344639",
+      "url": "https://x.com/Quintonlehy/status/2109346254442344639",
+      "author": "Quintonlehy",
+      "summary": "AI just flagged a decade-old XRPL bug that could have minted 18 trillion XRP in one shot.",
+      "time": "2026-10-11T18:11:51.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109521733007049149",
+      "url": "https://x.com/zavk_ou/status/2109521733007049149",
+      "author": "zavk_ou",
+      "summary": "Specialized in all recovery/ disabled accounts, Web3 developer, Spy 第一 Private Investigation, Tl's, Crypto recovery #spam #elsed #bist100 #hisse #dizipal…",
+      "time": "2026-10-12T05:49:08.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109410449196282227",
+      "url": "https://x.com/noytrix/status/2109410449196282227",
+      "author": "noytrix",
+      "summary": "🚀 Noytrix is officially submitted to the Colosseum Crypto World's Fair Hackathon — Superteam Ukraine Track!",
+      "time": "2026-10-11T22:26:56.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109310723692311010",
+      "url": "https://x.com/_iamrpr_/status/2109310723692311010",
+      "author": "_iamrpr_",
+      "summary": "Built GhostTab for @Colosseum’s Crypto World’s Fair hackathon 🔒👻 AI agents pay for APIs over x402, and every payment is public on-chain.",
+      "time": "2026-10-11T15:50:40.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109452572381847863",
+      "url": "https://x.com/BitBeginGlobal/status/2109452572381847863",
+      "author": "BitBeginGlobal",
+      "summary": "🛡️🔍 Can bug bounty programs help protect crypto traders?",
+      "time": "2026-10-12T01:14:19.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109193343968375130",
+      "url": "https://x.com/iiam_Akshay/status/2109193343968375130",
+      "author": "iiam_Akshay",
+      "summary": "Open-source code doesn't automatically mean a project is safe.",
+      "time": "2026-10-11T08:04:14.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109286595581050970",
+      "url": "https://x.com/BIT_CAPITAL123/status/2109286595581050970",
+      "author": "BIT_CAPITAL123",
+      "summary": "🚀📊 JUST DAO Security Audit Benchmark! Total bug bounty and security audit rewards distributed by JUST DAO broke through $2 million, reaching an all-time high!…",
+      "time": "2026-10-11T14:14:47.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109196217372549150",
+      "url": "https://x.com/akuwazir/status/2109196217372549150",
+      "author": "akuwazir",
+      "summary": "• Bug bounty program management • Security awareness training for crypto teams • OTC desk operators • Exchange listing advisory • Onchain analytics and…",
+      "time": "2026-10-11T08:15:39.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109423961130025458",
+      "url": "https://x.com/Buokminwf/status/2109423961130025458",
+      "author": "Buokminwf",
+      "summary": "Exploring @utsexchange ecosystem. Promising project in crypto! #UTS #Web3 #Bounty",
+      "time": "2026-10-11T23:20:38.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109296384881172773",
+      "url": "https://x.com/BIT_CAPITAL123/status/2109296384881172773",
+      "author": "BIT_CAPITAL123",
+      "summary": "🚀📊 BitTorrent Security Audit Benchmark! Total bug bounty rewards paid for BitTorrent Chain smart contract security audits broke through $2 million, reaching…",
+      "time": "2026-10-11T14:53:41.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109536539533246789",
+      "url": "https://x.com/DeltaYield_/status/2109536539533246789",
+      "author": "DeltaYield_",
+      "summary": "My crypto recap of the last 8 hours, because in crypto everything moves way too fast.",
+      "time": "2026-10-12T06:47:58.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109296934879912198",
+      "url": "https://x.com/NCaleb34437/status/2109296934879912198",
+      "author": "NCaleb34437",
+      "summary": "@RoyaltiesEarn makes the conversation more practical One part of the ecosystem that deserves attention is Earn.Royalties.",
+      "time": "2026-10-11T14:55:52.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109207030200177137",
+      "url": "https://x.com/Nonsokozen/status/2109207030200177137",
+      "author": "Nonsokozen",
+      "summary": "Google Maps is basically useless for literal robots.",
+      "time": "2026-10-11T08:58:37.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109277120279069157",
+      "url": "https://x.com/ix_Serdhiq9/status/2109277120279069157",
+      "author": "ix_Serdhiq9",
+      "summary": "1/ 🧵 Your next opportunity in Web3 might be closer than you think.",
+      "time": "2026-10-11T13:37:08.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109326307318530149",
+      "url": "https://x.com/BroosterWeb3/status/2109326307318530149",
+      "author": "BroosterWeb3",
+      "summary": "Good Evening Legends! 🔥 Before my GN, today's crypto highlights: - Bitcoin holds near $83,056 after being rejected from the $86,000 to $90,000 resistance…",
+      "time": "2026-10-11T16:52:35.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109525273095843844",
+      "url": "https://x.com/Neome_com/status/2109525273095843844",
+      "author": "Neome_com",
+      "summary": "CRYPTO BREAKING NEWS: Only the latest. No repeats 💙 • Lumia Nearly Doubled Over a Day and Has Given Back Only 8% of the Gain So Far • Bitcoin shrugs off ETF…",
+      "time": "2026-10-12T06:03:12.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2109283257774727545",
+      "url": "https://x.com/cocoolowo/status/2109283257774727545",
+      "author": "cocoolowo",
+      "summary": "7 creator bounties worth checking out this week 👀 I'm building too, so I'm sharing these opportunities for fellow creators.",
+      "time": "2026-10-11T14:01:31.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    }
+  ]
 }

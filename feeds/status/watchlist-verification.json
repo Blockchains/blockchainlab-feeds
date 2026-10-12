@@ -1,6 +1,206 @@
 {
-  "date": "2026-10-04",
-  "status": "not_checked",
-  "found": [],
-  "missing": []
+  "date": "2026-10-12",
+  "status": "checked",
+  "found": [
+    {
+      "handle": "VitalikButerin",
+      "id": "295218901",
+      "followers": 7989609
+    },
+    {
+      "handle": "ethereum",
+      "id": "2312333412",
+      "followers": 4551500
+    },
+    {
+      "handle": "ethereumfndn",
+      "id": "1529875152460193794",
+      "followers": 74409
+    },
+    {
+      "handle": "drakefjustin",
+      "id": "258480276",
+      "followers": 169757
+    },
+    {
+      "handle": "dankrad",
+      "id": "115069952",
+      "followers": 35790
+    },
+    {
+      "handle": "TimBeiko",
+      "id": "80722677",
+      "followers": 146859
+    },
+    {
+      "handle": "bitcoincoreorg",
+      "id": "4839528448",
+      "followers": 187149
+    },
+    {
+      "handle": "lopp",
+      "id": "23618940",
+      "followers": 531000
+    },
+    {
+      "handle": "adam3us",
+      "id": "213236426",
+      "followers": 973267
+    },
+    {
+      "handle": "hedera",
+      "id": "898917341051965441",
+      "followers": 464657
+    },
+    {
+      "handle": "hashgraph",
+      "id": "1816056972036173824",
+      "followers": 7579
+    },
+    {
+      "handle": "hashpack",
+      "id": "1443555910954127363",
+      "followers": 72396
+    },
+    {
+      "handle": "l2beat",
+      "id": "1413088055162978306",
+      "followers": 42298
+    },
+    {
+      "handle": "arbitrum",
+      "id": "1332033418088099843",
+      "followers": 1141278
+    },
+    {
+      "handle": "Optimism",
+      "id": "1044836083530452992",
+      "followers": 722036
+    },
+    {
+      "handle": "base",
+      "id": "1628067904083181570",
+      "followers": 1553828
+    },
+    {
+      "handle": "jessepollak",
+      "id": "18876842",
+      "followers": 356738
+    },
+    {
+      "handle": "zksync",
+      "id": "1191702416971968512",
+      "followers": 1440669
+    },
+    {
+      "handle": "Starknet",
+      "id": "1463071986515599362",
+      "followers": 352163
+    },
+    {
+      "handle": "0xPolygon",
+      "id": "914738730740715521",
+      "followers": 2049647
+    },
+    {
+      "handle": "DefiLlama",
+      "id": "1321585610654687241",
+      "followers": 369762
+    },
+    {
+      "handle": "aave",
+      "id": "867100084248469505",
+      "followers": 700817
+    },
+    {
+      "handle": "Uniswap",
+      "id": "984188226826010624",
+      "followers": 1484054
+    },
+    {
+      "handle": "LidoFinance",
+      "id": "1311617716239900673",
+      "followers": 227080
+    },
+    {
+      "handle": "circle",
+      "id": "2151686839",
+      "followers": 301283
+    },
+    {
+      "handle": "SECGov",
+      "id": "18481050",
+      "followers": 810682
+    },
+    {
+      "handle": "TheFCA",
+      "id": "169431716",
+      "followers": 72454
+    },
+    {
+      "handle": "ESMAComms",
+      "id": "573442111",
+      "followers": 21679
+    },
+    {
+      "handle": "bankofengland",
+      "id": "18938646",
+      "followers": 428195
+    },
+    {
+      "handle": "elizaOS",
+      "id": "1851849397979480064",
+      "followers": 138754
+    },
+    {
+      "handle": "virtuals_io",
+      "id": "1438365197505232902",
+      "followers": 292839
+    },
+    {
+      "handle": "coinbase",
+      "id": "574032254",
+      "followers": 7197126
+    },
+    {
+      "handle": "MessariCrypto",
+      "id": "412587524",
+      "followers": 1072350
+    },
+    {
+      "handle": "CoinDesk",
+      "id": "1333467482",
+      "followers": 4087381
+    },
+    {
+      "handle": "WuBlockchain",
+      "id": "111533746",
+      "followers": 557801
+    },
+    {
+      "handle": "ETHGlobal",
+      "id": "883476092832681984",
+      "followers": 107535
+    },
+    {
+      "handle": "DoraHacks",
+      "id": "954957643445166080",
+      "followers": 38780
+    },
+    {
+      "handle": "devpost",
+      "id": "15837844",
+      "followers": 21840
+    },
+    {
+      "handle": "gitcoin",
+      "id": "856446453157376003",
+      "followers": 214912
+    }
+  ],
+  "missing": [
+    "nic__carter",
+    "HBAR_foundation",
+    "TheBlock__"
+  ]
 }

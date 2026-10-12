@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T14:44:57Z",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:51:22Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
@@ -27,8 +27,8 @@
       "url": "https://ethglobal.com/events/pragma-mumbai",
       "organizer": "ETHGlobal",
       "type": "summit",
-      "start": "2026-11-04",
-      "end": "2026-11-04",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
       "medium": "physical",
       "verified": "listed in ethglobal.com/events page data"
     },
@@ -57,17 +57,6 @@
     },
     {
       "source": "devpost",
-      "id": "devpost-31534",
-      "title": "SUSTAIN-A-THON 2.0",
-      "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-      "organizer": "Sharda University Greater Noida",
-      "type": "hackathon",
-      "dates": "Oct 27 - 28, 2026",
-      "medium": "Block 45, Sharda University",
-      "verified": "listed on devpost.com API"
-    },
-    {
-      "source": "devpost",
       "id": "devpost-29114",
       "title": "IEEE ClimateChain Global Hackathon",
       "url": "https://ieee-climatechain-hack.devpost.com/",
@@ -75,6 +64,17 @@
       "type": "hackathon",
       "dates": "Oct 05 - 25, 2026",
       "medium": "Online",
+      "verified": "listed on devpost.com API"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31534",
+      "title": "SUSTAIN-A-THON 2.0",
+      "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
+      "organizer": "Sharda University Greater Noida",
+      "type": "hackathon",
+      "dates": "Oct 27 - 28, 2026",
+      "medium": "Block 45, Sharda University",
       "verified": "listed on devpost.com API"
     },
     {

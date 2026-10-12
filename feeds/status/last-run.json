@@ -1,26 +1,33 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T14:44:57Z",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:51:22Z",
   "x": {
-    "status": "unavailable",
-    "error": "Client Forbidden (client-not-enrolled)"
+    "status": "ok",
+    "ok_calls": 14
   },
   "x_errors": [
     {
       "call": "00-usage",
       "tool": "get_usage_credits",
-      "error": "Client Forbidden",
+      "error": "error",
       "reason": "client-not-enrolled",
-      "detail": "When authenticating requests to the X API v2 endpoints, you must use keys and tokens from a developer App that is attached to a Project. You can create a project via the developer portal."
+      "detail": "X won't turn on API access for this X account from its current sign-in. Sign out of X and sign back in to finish setting it up. (X: client-not-enrolled)"
+    },
+    {
+      "call": "99-usage-after",
+      "tool": "get_usage_credits",
+      "error": "error",
+      "reason": "client-not-enrolled",
+      "detail": "user-X connector blocked; public x namespace used for reads (no usage-credits API on public x)"
     }
   ],
   "usage": null,
   "web_errors": [],
   "counts": {
-    "posts": null,
-    "mentions": null,
-    "new_mentions": null,
+    "posts": 296,
+    "mentions": 11,
+    "new_mentions": 11,
     "hackathons": 4,
-    "briefing_drafts": 1
+    "briefing_drafts": 3
   }
 }
