@@ -1,221 +1,89 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T06:51:46Z",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T06:50:47Z",
   "x_status": "ok",
   "x_error": null,
   "query": "(\"blockchainlab.com\" OR \"Blockchain Lab\" OR url:blockchainlab.com OR @BlockchainLab) -from:BlockchainLab -is:retweet",
-  "count": 11,
-  "new_count": 0,
+  "count": 5,
+  "new_count": 5,
   "items": [
     {
-      "id": "2109198569894727768",
-      "url": "https://x.com/HashKeyInsights/status/2109198569894727768",
-      "author": "HashKeyInsights",
-      "author_name": "HashKey Insights",
-      "time": "2026-10-11T08:25:00.000Z",
-      "text_len": 300,
-      "summary": "Dr. Xiao Feng’s track record and HashKey’s foundation Dr. Xiao Feng moved from traditional Chinese finance into blockchain early. After co-founding and…",
+      "id": "2109820999139242367",
+      "url": "https://x.com/who46504471/status/2109820999139242367",
+      "author": "who46504471",
+      "author_name": "大路🌈RGB🐸",
+      "time": "2026-10-13T01:38:19.000Z",
+      "text_len": 179,
+      "summary": "比特币十年磨一剑，RGB协议终于来了！ 起源与背景：RGB协议起源于2016年米兰Blockchain Lab与Peter Todd提出的客户端验证思路，2017年定型，历经差不多10年开发，于2025年7月以v0.11.1版本正式登陆比特币主网。由RGB协议协会统筹，Bitfinex、Fulgur、Plan",
+      "engagement": {
+        "like": 8,
+        "retweet": 1,
+        "reply": 1,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 69,
+        "score": 11
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2109808693076529591",
+      "url": "https://x.com/NYXAGI/status/2109808693076529591",
+      "author": "NYXAGI",
+      "author_name": "Nyx",
+      "time": "2026-10-13T00:49:25.000Z",
+      "text_len": 229,
+      "summary": "@BlockchainLab @CoinDesk @StanChart On the XRPL side specifically: 1.11B RLUSD issued natively, held across 67,471 accounts, and it's about 83% of all XRPL…",
       "engagement": {
         "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 3,
+        "impression": 1,
         "score": 0
       },
       "links": [],
       "sources": [
-        "20-topic-hackathons",
         "30-mentions"
       ],
-      "hackathon_lead": true,
-      "topic": "other"
+      "topic": "defi"
     },
     {
-      "id": "2109198805258117465",
-      "url": "https://x.com/HashKeyInsights/status/2109198805258117465",
-      "author": "HashKeyInsights",
-      "author_name": "HashKey Insights",
-      "time": "2026-10-11T08:25:56.000Z",
-      "text_len": 300,
-      "summary": "Dr. Xiao Feng’s track record and HashKey’s foundation Dr. Xiao Feng moved from traditional Chinese finance into blockchain early. After co-founding and…",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 1,
-        "bookmark": 0,
-        "impression": 60,
-        "score": 3
-      },
-      "links": [],
-      "sources": [
-        "20-topic-hackathons",
-        "30-mentions"
-      ],
-      "hackathon_lead": true,
-      "topic": "other"
-    },
-    {
-      "id": "2109484100893503965",
-      "url": "https://x.com/AbdMuizAdeyemo/status/2109484100893503965",
-      "author": "AbdMuizAdeyemo",
-      "author_name": "Abdulmuiz Adeyemo",
-      "time": "2026-10-12T03:19:36.000Z",
-      "text_len": 304,
-      "summary": "$TCODE is the utility token for @talocode.",
-      "engagement": {
-        "like": 2,
-        "retweet": 0,
-        "reply": 1,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 44,
-        "score": 3
-      },
-      "links": [
-        "https://jup.ag/tokens/6ptxwABxQz8zMhwhiPeVgRgWjGMdVcEBFBv8v8C3ory",
-        "https://x.com/AbdMuizAdeyemo/status/2109484100893503965/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2109369088359145756",
-      "url": "https://x.com/0xWeb3born/status/2109369088359145756",
+      "id": "2109739644862837173",
+      "url": "https://x.com/0xWeb3born/status/2109739644862837173",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-11T19:42:35.000Z",
-      "text_len": 297,
-      "summary": "Strategic Partnerships Can Change the Growth of Your Business.",
+      "time": "2026-10-12T20:15:03.000Z",
+      "text_len": 302,
+      "summary": "DAY 04/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT How to Identify the Right Web3 Companies to Build With As a Business Development professional, identifying…",
       "engagement": {
-        "like": 2,
+        "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
         "impression": 13,
-        "score": 2
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2109369088359145756/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2109185167336030577",
-      "url": "https://x.com/0xWeb3born/status/2109185167336030577",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-11T07:31:45.000Z",
-      "text_len": 299,
-      "summary": "The Real Web3 Alpha Might Be Understanding Users.",
-      "engagement": {
-        "like": 2,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 22,
-        "score": 2
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2109185167336030577/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2109346090147365298",
-      "url": "https://x.com/0xWeb3born/status/2109346090147365298",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-11T18:11:12.000Z",
-      "text_len": 302,
-      "summary": "Web3 Needs Both Visibility and Evidence.",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 20,
         "score": 1
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2109346090147365298/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2109396211077624180",
-      "url": "https://x.com/0xWeb3born/status/2109396211077624180",
+      "id": "2109708568937001077",
+      "url": "https://x.com/0xWeb3born/status/2109708568937001077",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-11T21:30:22.000Z",
-      "text_len": 303,
-      "summary": "Artificial Intelligence or Super Intelligence?",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 23,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2109396211077624180/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2109178206095884786",
-      "url": "https://x.com/0xWeb3born/status/2109178206095884786",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-11T07:04:05.000Z",
-      "text_len": 298,
-      "summary": "Web3 Needs More Researchers, Not Just Influencers.",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 21,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2109178206095884786/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2109362077437775893",
-      "url": "https://x.com/0xWeb3born/status/2109362077437775893",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-11T19:14:43.000Z",
-      "text_len": 303,
-      "summary": "The Business Growth Strategy Many People Underestimate.",
+      "time": "2026-10-12T18:11:33.000Z",
+      "text_len": 293,
+      "summary": "Every week comes with new experiences, lessons, and surprises, and this week, my experience starting with UBA Bank, at the Potiskum branch, has given me a…",
       "engagement": {
         "like": 1,
         "retweet": 0,
@@ -225,62 +93,151 @@
         "impression": 30,
         "score": 1
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2109362077437775893/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2109372144505532822",
-      "url": "https://x.com/0xWeb3born/status/2109372144505532822",
+      "id": "2109704860195008967",
+      "url": "https://x.com/0xWeb3born/status/2109704860195008967",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-11T19:54:44.000Z",
-      "text_len": 304,
-      "summary": "DAY 03/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT Understanding the Web3 Ecosystem Before You Start Selling You can't build meaningful business relationships…",
+      "time": "2026-10-12T17:56:49.000Z",
+      "text_len": 298,
+      "summary": "You Can't Build a Business You Don't Understand.",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 21,
+        "impression": 25,
         "score": 1
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2109372144505532822/photo/1"
+      "links": [],
+      "sources": [
+        "30-mentions"
       ],
+      "topic": "other"
+    }
+  ],
+  "new": [
+    {
+      "id": "2109820999139242367",
+      "url": "https://x.com/who46504471/status/2109820999139242367",
+      "author": "who46504471",
+      "author_name": "大路🌈RGB🐸",
+      "time": "2026-10-13T01:38:19.000Z",
+      "text_len": 179,
+      "summary": "比特币十年磨一剑，RGB协议终于来了！ 起源与背景：RGB协议起源于2016年米兰Blockchain Lab与Peter Todd提出的客户端验证思路，2017年定型，历经差不多10年开发，于2025年7月以v0.11.1版本正式登陆比特币主网。由RGB协议协会统筹，Bitfinex、Fulgur、Plan",
+      "engagement": {
+        "like": 8,
+        "retweet": 1,
+        "reply": 1,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 69,
+        "score": 11
+      },
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2109226353107095662",
-      "url": "https://x.com/_itzaFeaaa/status/2109226353107095662",
-      "author": "_itzaFeaaa",
-      "author_name": "Sara G. Smith",
-      "time": "2026-10-11T10:15:24.000Z",
-      "text_len": 217,
-      "summary": "@BlockchainLab That’s the key distinction Willy is highlighting: Bitcoin could survive a quantum upgrade while vulnerable coins still trigger major market…",
+      "id": "2109808693076529591",
+      "url": "https://x.com/NYXAGI/status/2109808693076529591",
+      "author": "NYXAGI",
+      "author_name": "Nyx",
+      "time": "2026-10-13T00:49:25.000Z",
+      "text_len": 229,
+      "summary": "@BlockchainLab @CoinDesk @StanChart On the XRPL side specifically: 1.11B RLUSD issued natively, held across 67,471 accounts, and it's about 83% of all XRPL…",
       "engagement": {
         "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 0,
+        "impression": 1,
         "score": 0
       },
       "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "bitcoin"
+      "topic": "defi"
+    },
+    {
+      "id": "2109739644862837173",
+      "url": "https://x.com/0xWeb3born/status/2109739644862837173",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-12T20:15:03.000Z",
+      "text_len": 302,
+      "summary": "DAY 04/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT How to Identify the Right Web3 Companies to Build With As a Business Development professional, identifying…",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 13,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2109708568937001077",
+      "url": "https://x.com/0xWeb3born/status/2109708568937001077",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-12T18:11:33.000Z",
+      "text_len": 293,
+      "summary": "Every week comes with new experiences, lessons, and surprises, and this week, my experience starting with UBA Bank, at the Potiskum branch, has given me a…",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 30,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2109704860195008967",
+      "url": "https://x.com/0xWeb3born/status/2109704860195008967",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-12T17:56:49.000Z",
+      "text_len": 298,
+      "summary": "You Can't Build a Business You Don't Understand.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 25,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
     }
-  ],
-  "new": []
+  ]
 }

@@ -1,36 +1,36 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "status": "checked",
   "found": [
     {
       "handle": "VitalikButerin",
       "id": "295218901",
-      "followers": 7989609
+      "followers": 7995663
     },
     {
       "handle": "ethereum",
       "id": "2312333412",
-      "followers": 4551500
+      "followers": 4552218
     },
     {
       "handle": "ethereumfndn",
       "id": "1529875152460193794",
-      "followers": 74409
+      "followers": 74419
     },
     {
       "handle": "drakefjustin",
       "id": "258480276",
-      "followers": 169757
+      "followers": 169800
     },
     {
       "handle": "dankrad",
       "id": "115069952",
-      "followers": 35790
+      "followers": 35798
     },
     {
       "handle": "TimBeiko",
       "id": "80722677",
-      "followers": 146859
+      "followers": 146847
     },
     {
       "handle": "bitcoincoreorg",
@@ -40,162 +40,162 @@
     {
       "handle": "lopp",
       "id": "23618940",
-      "followers": 531000
+      "followers": 531002
     },
     {
       "handle": "adam3us",
       "id": "213236426",
-      "followers": 973267
+      "followers": 973462
     },
     {
       "handle": "hedera",
       "id": "898917341051965441",
-      "followers": 464657
+      "followers": 464637
     },
     {
       "handle": "hashgraph",
       "id": "1816056972036173824",
-      "followers": 7579
+      "followers": 7578
     },
     {
       "handle": "hashpack",
       "id": "1443555910954127363",
-      "followers": 72396
+      "followers": 72379
     },
     {
       "handle": "l2beat",
       "id": "1413088055162978306",
-      "followers": 42298
+      "followers": 42303
     },
     {
       "handle": "arbitrum",
       "id": "1332033418088099843",
-      "followers": 1141278
+      "followers": 1141119
     },
     {
       "handle": "Optimism",
       "id": "1044836083530452992",
-      "followers": 722036
+      "followers": 721886
     },
     {
       "handle": "base",
       "id": "1628067904083181570",
-      "followers": 1553828
+      "followers": 1554054
     },
     {
       "handle": "jessepollak",
       "id": "18876842",
-      "followers": 356738
+      "followers": 356713
     },
     {
       "handle": "zksync",
       "id": "1191702416971968512",
-      "followers": 1440669
+      "followers": 1440482
     },
     {
       "handle": "Starknet",
       "id": "1463071986515599362",
-      "followers": 352163
+      "followers": 352438
     },
     {
       "handle": "0xPolygon",
       "id": "914738730740715521",
-      "followers": 2049647
+      "followers": 2049314
     },
     {
       "handle": "DefiLlama",
       "id": "1321585610654687241",
-      "followers": 369762
+      "followers": 369782
     },
     {
       "handle": "aave",
       "id": "867100084248469505",
-      "followers": 700817
+      "followers": 700853
     },
     {
       "handle": "Uniswap",
       "id": "984188226826010624",
-      "followers": 1484054
+      "followers": 1483973
     },
     {
       "handle": "LidoFinance",
       "id": "1311617716239900673",
-      "followers": 227080
+      "followers": 227081
     },
     {
       "handle": "circle",
       "id": "2151686839",
-      "followers": 301283
+      "followers": 301239
     },
     {
       "handle": "SECGov",
       "id": "18481050",
-      "followers": 810682
+      "followers": 810597
     },
     {
       "handle": "TheFCA",
       "id": "169431716",
-      "followers": 72454
+      "followers": 72456
     },
     {
       "handle": "ESMAComms",
       "id": "573442111",
-      "followers": 21679
+      "followers": 21684
     },
     {
       "handle": "bankofengland",
       "id": "18938646",
-      "followers": 428195
+      "followers": 428206
     },
     {
       "handle": "elizaOS",
       "id": "1851849397979480064",
-      "followers": 138754
+      "followers": 138729
     },
     {
       "handle": "virtuals_io",
       "id": "1438365197505232902",
-      "followers": 292839
+      "followers": 292780
     },
     {
       "handle": "coinbase",
       "id": "574032254",
-      "followers": 7197126
+      "followers": 7197633
     },
     {
       "handle": "MessariCrypto",
       "id": "412587524",
-      "followers": 1072350
+      "followers": 1074071
     },
     {
       "handle": "CoinDesk",
       "id": "1333467482",
-      "followers": 4087381
+      "followers": 4088915
     },
     {
       "handle": "WuBlockchain",
       "id": "111533746",
-      "followers": 557801
+      "followers": 557798
     },
     {
       "handle": "ETHGlobal",
       "id": "883476092832681984",
-      "followers": 107535
+      "followers": 107548
     },
     {
       "handle": "DoraHacks",
       "id": "954957643445166080",
-      "followers": 38780
+      "followers": 38766
     },
     {
       "handle": "devpost",
       "id": "15837844",
-      "followers": 21840
+      "followers": 21845
     },
     {
       "handle": "gitcoin",
       "id": "856446453157376003",
-      "followers": 214912
+      "followers": 214950
     }
   ],
   "missing": [
