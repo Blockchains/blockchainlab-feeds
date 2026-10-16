@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T06:50:47Z",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T06:42:27Z",
   "x": {
     "status": "ok",
     "ok_calls": 14
@@ -18,13 +18,13 @@
       "tool": "get_usage_credits",
       "error": "error",
       "reason": "client-not-enrolled",
-      "detail": "user-X connector blocked; public x namespace used for reads (no usage-credits API on public x)"
+      "detail": "user-X connector blocked; public x namespace used for reads (no usage-credits API on public x). X reads left for this user: 26 of 30 this minute (resets at 2026-10-16T06:43:00.000Z), 986 of 1000 today (resets at 2026-10-17T00:00:00.000Z)."
     }
   ],
   "usage": null,
   "web_errors": [],
   "counts": {
-    "posts": 255,
+    "posts": 254,
     "mentions": 5,
     "new_mentions": 5,
     "hackathons": 3,

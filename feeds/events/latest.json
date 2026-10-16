@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T06:50:47Z",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T06:42:27Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
@@ -11,7 +11,7 @@
     {
       "source": "ethglobal",
       "id": "ethglobal-734",
-      "title": "Ethereum Stablecoin Summit",
+      "title": "Ethereum Stablecoin Summit @ Money20/20 Las Vegas",
       "url": "https://ethglobal.com/events/ethsummit-las-vegas",
       "organizer": "ETHGlobal",
       "type": "summit",
