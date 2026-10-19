@@ -1,132 +1,191 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T06:42:27Z",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T06:45:37Z",
   "x_status": "ok",
   "x_error": null,
   "query": "(\"blockchainlab.com\" OR \"Blockchain Lab\" OR url:blockchainlab.com OR @BlockchainLab) -from:BlockchainLab -is:retweet",
-  "count": 5,
-  "new_count": 5,
+  "count": 8,
+  "new_count": 8,
   "items": [
     {
-      "id": "2110859969490739462",
-      "url": "https://x.com/0xWeb3born/status/2110859969490739462",
+      "id": "2112062461134229893",
+      "url": "https://x.com/0xWeb3born/status/2112062461134229893",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T22:26:49.000Z",
-      "text_len": 302,
-      "summary": "Building Africa’s Next Technology Layer Building Africa’s next technology layer is not an easy journey.",
+      "time": "2026-10-19T06:05:05.000Z",
+      "text_len": 303,
+      "summary": "A New Week could be a New Opportunity. Starting a new week with motivation or without it, with a plan or without one, we all have to strive. Sometimes, what…",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 19,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111940581677035887",
+      "url": "https://x.com/0xWeb3born/status/2111940581677035887",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T22:00:47.000Z",
+      "text_len": 303,
+      "summary": "Day 10: Why Most BD DMs Get Ignored — And How to Fix Yours One of the biggest challenges in Web3 Business Development is reaching the right people.",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 1,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 21,
+        "score": 3
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111925911704465588",
+      "url": "https://x.com/grok/status/2111925911704465588",
+      "author": "grok",
+      "author_name": "Grok",
+      "time": "2026-10-18T21:02:29.000Z",
+      "text_len": 291,
+      "summary": "@0xWeb3born Afriplex Blockchain Lab is an early-stage African project focused on Web3 education, AI tools, and blockchain innovation.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 4,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111925782553801065",
+      "url": "https://x.com/0xWeb3born/status/2111925782553801065",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T21:01:58.000Z",
+      "text_len": 113,
+      "summary": "Hi @grok explain them what's Afriplex Blockchain Lab?",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 1,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 16,
+        "score": 2
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111910926240596476",
+      "url": "https://x.com/0xWeb3born/status/2111910926240596476",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T20:02:56.000Z",
+      "text_len": 299,
+      "summary": "The Questions I Ask Before Taking Any Web3 Project Seriously.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 19,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111908271112011937",
+      "url": "https://x.com/0xWeb3born/status/2111908271112011937",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T19:52:23.000Z",
+      "text_len": 300,
+      "summary": "Traders, Afriplex Is Building for You. Are you tired of looking at charts and struggling to understand what the market is telling you? At Afriplex Blockchain…",
       "engagement": {
         "like": 2,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 17,
+        "impression": 45,
         "score": 2
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110859969490739462/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2110839580085666056",
-      "url": "https://x.com/0xWeb3born/status/2110839580085666056",
+      "id": "2111878742704636228",
+      "url": "https://x.com/0xWeb3born/status/2111878742704636228",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T21:05:48.000Z",
-      "text_len": 302,
-      "summary": "DAY 07/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT The Difference Between a Lead, a Prospect, and a Real Opportunity In Web3 Business Development, not every…",
+      "time": "2026-10-18T17:55:03.000Z",
+      "text_len": 296,
+      "summary": "I asked BornAI, \"Can you teachme DEFI?\" and it replied with this screenshot that explains it with clarity.",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 24,
+        "score": 2
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "defi"
+    },
+    {
+      "id": "2111718644275171799",
+      "url": "https://x.com/0xWeb3born/status/2111718644275171799",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T07:18:53.000Z",
+      "text_len": 299,
+      "summary": "Let Me Tell You a Little About BornAI. BornAI is more than just another AI tool I'm building. It started with a mission: to make Web3 research easier and more…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 14,
+        "impression": 18,
         "score": 1
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110839580085666056/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2110794633085071825",
-      "url": "https://x.com/0xWeb3born/status/2110794633085071825",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T18:07:11.000Z",
-      "text_len": 301,
-      "summary": "Before You Connect Your Wallet, Do These 5 Things.",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 37,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110794633085071825/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2110784764483363118",
-      "url": "https://x.com/0xWeb3born/status/2110784764483363118",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T17:27:58.000Z",
-      "text_len": 304,
-      "summary": "I'm Researching Web3 Adoption in Northern Nigeria.",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 25,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110784764483363118/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2110731829494043051",
-      "url": "https://x.com/axmfield/status/2110731829494043051",
-      "author": "axmfield",
-      "author_name": "AXIOM FIELD",
-      "time": "2026-10-15T13:57:38.000Z",
-      "text_len": 291,
-      "summary": "The future isn't waited for—it's built. AXIOM FIELD is bridging the gap to tomorrow through our Super Intelligence &amp; Blockchain Lab. We believe in the…",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 11,
-        "score": 0
-      },
-      "links": [
-        "https://x.com/axmfield/status/2110731829494043051/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
@@ -135,125 +194,184 @@
   ],
   "new": [
     {
-      "id": "2110859969490739462",
-      "url": "https://x.com/0xWeb3born/status/2110859969490739462",
+      "id": "2112062461134229893",
+      "url": "https://x.com/0xWeb3born/status/2112062461134229893",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T22:26:49.000Z",
-      "text_len": 302,
-      "summary": "Building Africa’s Next Technology Layer Building Africa’s next technology layer is not an easy journey.",
+      "time": "2026-10-19T06:05:05.000Z",
+      "text_len": 303,
+      "summary": "A New Week could be a New Opportunity. Starting a new week with motivation or without it, with a plan or without one, we all have to strive. Sometimes, what…",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 19,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111940581677035887",
+      "url": "https://x.com/0xWeb3born/status/2111940581677035887",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T22:00:47.000Z",
+      "text_len": 303,
+      "summary": "Day 10: Why Most BD DMs Get Ignored — And How to Fix Yours One of the biggest challenges in Web3 Business Development is reaching the right people.",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 1,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 21,
+        "score": 3
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111925911704465588",
+      "url": "https://x.com/grok/status/2111925911704465588",
+      "author": "grok",
+      "author_name": "Grok",
+      "time": "2026-10-18T21:02:29.000Z",
+      "text_len": 291,
+      "summary": "@0xWeb3born Afriplex Blockchain Lab is an early-stage African project focused on Web3 education, AI tools, and blockchain innovation.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 4,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111925782553801065",
+      "url": "https://x.com/0xWeb3born/status/2111925782553801065",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T21:01:58.000Z",
+      "text_len": 113,
+      "summary": "Hi @grok explain them what's Afriplex Blockchain Lab?",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 1,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 16,
+        "score": 2
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111910926240596476",
+      "url": "https://x.com/0xWeb3born/status/2111910926240596476",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T20:02:56.000Z",
+      "text_len": 299,
+      "summary": "The Questions I Ask Before Taking Any Web3 Project Seriously.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 19,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2111908271112011937",
+      "url": "https://x.com/0xWeb3born/status/2111908271112011937",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T19:52:23.000Z",
+      "text_len": 300,
+      "summary": "Traders, Afriplex Is Building for You. Are you tired of looking at charts and struggling to understand what the market is telling you? At Afriplex Blockchain…",
       "engagement": {
         "like": 2,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 17,
+        "impression": 45,
         "score": 2
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110859969490739462/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2110839580085666056",
-      "url": "https://x.com/0xWeb3born/status/2110839580085666056",
+      "id": "2111878742704636228",
+      "url": "https://x.com/0xWeb3born/status/2111878742704636228",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T21:05:48.000Z",
-      "text_len": 302,
-      "summary": "DAY 07/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT The Difference Between a Lead, a Prospect, and a Real Opportunity In Web3 Business Development, not every…",
+      "time": "2026-10-18T17:55:03.000Z",
+      "text_len": 296,
+      "summary": "I asked BornAI, \"Can you teachme DEFI?\" and it replied with this screenshot that explains it with clarity.",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 24,
+        "score": 2
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "defi"
+    },
+    {
+      "id": "2111718644275171799",
+      "url": "https://x.com/0xWeb3born/status/2111718644275171799",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-18T07:18:53.000Z",
+      "text_len": 299,
+      "summary": "Let Me Tell You a Little About BornAI. BornAI is more than just another AI tool I'm building. It started with a mission: to make Web3 research easier and more…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 14,
+        "impression": 18,
         "score": 1
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110839580085666056/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2110794633085071825",
-      "url": "https://x.com/0xWeb3born/status/2110794633085071825",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T18:07:11.000Z",
-      "text_len": 301,
-      "summary": "Before You Connect Your Wallet, Do These 5 Things.",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 37,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110794633085071825/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2110784764483363118",
-      "url": "https://x.com/0xWeb3born/status/2110784764483363118",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-15T17:27:58.000Z",
-      "text_len": 304,
-      "summary": "I'm Researching Web3 Adoption in Northern Nigeria.",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 25,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2110784764483363118/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2110731829494043051",
-      "url": "https://x.com/axmfield/status/2110731829494043051",
-      "author": "axmfield",
-      "author_name": "AXIOM FIELD",
-      "time": "2026-10-15T13:57:38.000Z",
-      "text_len": 291,
-      "summary": "The future isn't waited for—it's built. AXIOM FIELD is bridging the gap to tomorrow through our Super Intelligence &amp; Blockchain Lab. We believe in the…",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 11,
-        "score": 0
-      },
-      "links": [
-        "https://x.com/axmfield/status/2110731829494043051/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
