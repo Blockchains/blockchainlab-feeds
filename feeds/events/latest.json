@@ -1,25 +1,13 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T06:45:37Z",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T07:47:41Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
   ],
   "errors": [],
-  "count": 7,
+  "count": 6,
   "items": [
-    {
-      "source": "ethglobal",
-      "id": "ethglobal-734",
-      "title": "Ethereum Stablecoin Summit @ Money20/20 Las Vegas",
-      "url": "https://ethglobal.com/events/ethsummit-las-vegas",
-      "organizer": "ETHGlobal",
-      "type": "summit",
-      "start": "2026-10-19",
-      "end": "2026-10-19",
-      "medium": "physical",
-      "verified": "listed in ethglobal.com/events page data"
-    },
     {
       "source": "ethglobal",
       "id": "ethglobal-530",
@@ -57,12 +45,12 @@
     },
     {
       "source": "devpost",
-      "id": "devpost-29114",
-      "title": "IEEE ClimateChain Global Hackathon",
-      "url": "https://ieee-climatechain-hack.devpost.com/",
-      "organizer": "IEEE Turkey",
+      "id": "devpost-26475",
+      "title": "Dakar Bitcoin Hack by BTrust",
+      "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+      "organizer": "Dakar Bitcoin Days",
       "type": "hackathon",
-      "dates": "Oct 05 - 25, 2026",
+      "dates": "Oct 26 - Nov 20, 2026",
       "medium": "Online",
       "verified": "listed on devpost.com API"
     },

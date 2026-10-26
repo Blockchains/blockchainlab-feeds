@@ -1,0 +1,5252 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T07:47:41Z",
+  "source": "X API via MCP connector (user-X)",
+  "x_status": "ok",
+  "x_error": null,
+  "window_hours": 24,
+  "counts": {
+    "posts": 231,
+    "by_topic": {
+      "ethereum": 27,
+      "bitcoin": 33,
+      "hedera": 27,
+      "l2": 31,
+      "defi": 35,
+      "regulation": 19,
+      "ai_crypto": 31,
+      "other": 28
+    }
+  },
+  "top": [
+    {
+      "id": "2114534202788225513",
+      "url": "https://x.com/VitalikButerin/status/2114534202788225513",
+      "author": "VitalikButerin",
+      "author_name": "vitalik.eth",
+      "time": "2026-10-26T01:46:54.000Z",
+      "text_len": 275,
+      "summary": "I am okay with Kimi 3.1 deliberately leaving out top-end offensive cyber capabilities from their training data.",
+      "engagement": {
+        "like": 1457,
+        "retweet": 125,
+        "reply": 246,
+        "quote": 57,
+        "bookmark": 187,
+        "impression": 209734,
+        "score": 2067
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "ethereum"
+    },
+    {
+      "id": "2114368254206775451",
+      "url": "https://x.com/base/status/2114368254206775451",
+      "author": "base",
+      "author_name": "Base",
+      "time": "2026-10-25T14:47:29.000Z",
+      "text_len": 22,
+      "summary": "24/7 markets are based",
+      "engagement": {
+        "like": 617,
+        "retweet": 58,
+        "reply": 155,
+        "quote": 29,
+        "bookmark": 6,
+        "impression": 54956,
+        "score": 946
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "l2"
+    },
+    {
+      "id": "2114331673898696970",
+      "url": "https://x.com/coinbase/status/2114331673898696970",
+      "author": "coinbase",
+      "author_name": "Coinbase 🛡️",
+      "time": "2026-10-25T12:22:08.000Z",
+      "text_len": 88,
+      "summary": "You own crypto, so you can explain how a blockchain works right?",
+      "engagement": {
+        "like": 532,
+        "retweet": 46,
+        "reply": 185,
+        "quote": 17,
+        "bookmark": 17,
+        "impression": 135112,
+        "score": 843
+      },
+      "links": [
+        "https://x.com/coinbase/status/2114331673898696970/photo/1",
+        "https://x.com/coinbase/status/2114331673898696970/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "ai_crypto"
+    },
+    {
+      "id": "2114404903330443560",
+      "url": "https://x.com/Uniswap/status/2114404903330443560",
+      "author": "Uniswap",
+      "author_name": "Uniswap",
+      "time": "2026-10-25T17:13:07.000Z",
+      "text_len": 113,
+      "summary": "Last week, 62% of tokenized stock volume on Uniswap traded after market hours Markets close.",
+      "engagement": {
+        "like": 663,
+        "retweet": 36,
+        "reply": 59,
+        "quote": 5,
+        "bookmark": 7,
+        "impression": 37232,
+        "score": 804
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "defi"
+    },
+    {
+      "id": "2114467257107579142",
+      "url": "https://x.com/lopp/status/2114467257107579142",
+      "author": "lopp",
+      "author_name": "Jameson Lopp",
+      "time": "2026-10-25T21:20:53.000Z",
+      "text_len": 108,
+      "summary": "Shouldn't be long before we have the equivalent of @GrapheneOS but for smart TVs, to remove all the spyware.",
+      "engagement": {
+        "like": 671,
+        "retweet": 22,
+        "reply": 35,
+        "quote": 5,
+        "bookmark": 43,
+        "impression": 20422,
+        "score": 760
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2114404037080531086",
+      "url": "https://x.com/base/status/2114404037080531086",
+      "author": "base",
+      "author_name": "Base",
+      "time": "2026-10-25T17:09:40.000Z",
+      "text_len": 85,
+      "summary": "Tune in on October 26 to the Base Day livestream with @gmgnai",
+      "engagement": {
+        "like": 569,
+        "retweet": 36,
+        "reply": 63,
+        "quote": 5,
+        "bookmark": 6,
+        "impression": 37172,
+        "score": 714
+      },
+      "links": [
+        "https://twitter.com/gmgnai/status/2114306964721434667"
+      ],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "l2"
+    },
+    {
+      "id": "2114356069455802662",
+      "url": "https://x.com/virtuals_io/status/2114356069455802662",
+      "author": "virtuals_io",
+      "author_name": "Virtuals Protocol",
+      "time": "2026-10-25T13:59:04.000Z",
+      "text_len": 300,
+      "summary": "This Week in Virtuals: Native Pearl, Private Payments, and Derive Options for Agents px402 keeps an agent’s address off every x402 @USDC payment.",
+      "engagement": {
+        "like": 200,
+        "retweet": 26,
+        "reply": 50,
+        "quote": 7,
+        "bookmark": 10,
+        "impression": 18943,
+        "score": 316
+      },
+      "links": [
+        "https://x.com/virtuals_io/status/2114356069455802662/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "ai_crypto"
+    },
+    {
+      "id": "2114549981394915772",
+      "url": "https://x.com/WuBlockchain/status/2114549981394915772",
+      "author": "WuBlockchain",
+      "author_name": "Wu Blockchain",
+      "time": "2026-10-26T02:49:36.000Z",
+      "text_len": 304,
+      "summary": "CZ Responds to BNB Chain’s New L1 Plan: “Multiple chains, one coins” CZ responds to BNB Chain’s updated New L1 plans: “Multiple chains, one coins.” According…",
+      "engagement": {
+        "like": 140,
+        "retweet": 20,
+        "reply": 40,
+        "quote": 4,
+        "bookmark": 18,
+        "impression": 22106,
+        "score": 228
+      },
+      "links": [
+        "https://x.com/WuBlockchain/status/2114549981394915772/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114569658527588743",
+      "url": "https://x.com/NebulaExchange1/status/2114569658527588743",
+      "author": "NebulaExchange1",
+      "author_name": "Nebula AI Crypto Exchange",
+      "time": "2026-10-26T04:07:48.000Z",
+      "text_len": 288,
+      "summary": "Bitcoin Core Strengthens Security Policy Faster patches aim to improve Bitcoin security.",
+      "engagement": {
+        "like": 197,
+        "retweet": 0,
+        "reply": 11,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 4942,
+        "score": 208
+      },
+      "links": [
+        "https://x.com/NebulaExchange1/status/2114569658527588743/video/1"
+      ],
+      "sources": [
+        "20-topic-bitcoin"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2114351270253502668",
+      "url": "https://x.com/lopp/status/2114351270253502668",
+      "author": "lopp",
+      "author_name": "Jameson Lopp",
+      "time": "2026-10-25T13:40:00.000Z",
+      "text_len": 83,
+      "summary": "\"Talk to my agent\" is going to take on a very different meaning in the near future.",
+      "engagement": {
+        "like": 136,
+        "retweet": 13,
+        "reply": 22,
+        "quote": 2,
+        "bookmark": 2,
+        "impression": 13849,
+        "score": 188
+      },
+      "links": [],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2114417283804299423",
+      "url": "https://x.com/zksync/status/2114417283804299423",
+      "author": "zksync",
+      "author_name": "ZKsync",
+      "time": "2026-10-25T18:02:19.000Z",
+      "text_len": 52,
+      "summary": "🗣️ @gluk64 🎙️ @YahooFinance",
+      "engagement": {
+        "like": 114,
+        "retweet": 15,
+        "reply": 16,
+        "quote": 1,
+        "bookmark": 5,
+        "impression": 18294,
+        "score": 162
+      },
+      "links": [
+        "https://twitter.com/YahooFinance/status/2113676826107125931"
+      ],
+      "sources": [
+        "10-watchlist-00"
+      ],
+      "topic": "l2"
+    },
+    {
+      "id": "2114451023205195964",
+      "url": "https://x.com/AlphaPrimer_R/status/2114451023205195964",
+      "author": "AlphaPrimer_R",
+      "author_name": "AlphaPrimer Research",
+      "time": "2026-10-25T20:16:23.000Z",
+      "text_len": 303,
+      "summary": "STABLECOIN REWARDS AND THE BATTLE OVER DIGITAL DOLLAR YIELD The debate over whether stablecoin holders should earn yield is not new.",
+      "engagement": {
+        "like": 77,
+        "retweet": 0,
+        "reply": 85,
+        "quote": 0,
+        "bookmark": 1,
+        "impression": 210,
+        "score": 162
+      },
+      "links": [],
+      "sources": [
+        "20-topic-regulation"
+      ],
+      "topic": "regulation"
+    },
+    {
+      "id": "2114323994329628851",
+      "url": "https://x.com/GoKiteAI/status/2114323994329628851",
+      "author": "GoKiteAI",
+      "author_name": "KITE AI",
+      "time": "2026-10-25T11:51:37.000Z",
+      "text_len": 327,
+      "summary": "Money20/20 USA is one of the world's leading gatherings for banking, payments and fintech.",
+      "engagement": {
+        "like": 82,
+        "retweet": 15,
+        "reply": 22,
+        "quote": 1,
+        "bookmark": 4,
+        "impression": 6467,
+        "score": 136
+      },
+      "links": [
+        "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+        "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+        "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+        "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+        "https://twitter.com/GoKiteAI/status/2111382395811160557"
+      ],
+      "sources": [
+        "20-topic-ai_crypto"
+      ],
+      "topic": "ai_crypto"
+    },
+    {
+      "id": "2114316239984263401",
+      "url": "https://x.com/Victusglobal/status/2114316239984263401",
+      "author": "Victusglobal",
+      "author_name": "Victus Global",
+      "time": "2026-10-25T11:20:48.000Z",
+      "text_len": 120,
+      "summary": "Recent article from the Victus Research &amp; Development Team.",
+      "engagement": {
+        "like": 53,
+        "retweet": 24,
+        "reply": 26,
+        "quote": 1,
+        "bookmark": 8,
+        "impression": 2695,
+        "score": 129
+      },
+      "links": [],
+      "sources": [
+        "20-topic-regulation"
+      ],
+      "topic": "regulation"
+    },
+    {
+      "id": "2114416702801027175",
+      "url": "https://x.com/WuBlockchain/status/2114416702801027175",
+      "author": "WuBlockchain",
+      "author_name": "Wu Blockchain",
+      "time": "2026-10-25T18:00:00.000Z",
+      "text_len": 299,
+      "summary": "Michael Saylor: Digital Credit Is Our Product, MSTR Is Just a Byproduct On October 20, 2026, Michael Saylor @saylor explained in an interview with Schwab…",
+      "engagement": {
+        "like": 56,
+        "retweet": 8,
+        "reply": 53,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 17398,
+        "score": 125
+      },
+      "links": [
+        "https://x.com/WuBlockchain/status/2114416702801027175/video/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2114287006754984371",
+      "url": "https://x.com/WuBlockchain/status/2114287006754984371",
+      "author": "WuBlockchain",
+      "author_name": "Wu Blockchain",
+      "time": "2026-10-25T09:24:38.000Z",
+      "text_len": 262,
+      "summary": "Asia's Weekly TOP10 Crypto News: South Korea Regulates Stablecoins as Payment Means, China to Build National Blockchain Network, HSBC Launches Stablecoin,…",
+      "engagement": {
+        "like": 35,
+        "retweet": 11,
+        "reply": 62,
+        "quote": 2,
+        "bookmark": 1,
+        "impression": 18899,
+        "score": 123
+      },
+      "links": [
+        "https://x.com/WuBlockchain/status/2114287006754984371/photo/1"
+      ],
+      "sources": [
+        "10-watchlist-01"
+      ],
+      "topic": "regulation"
+    },
+    {
+      "id": "2114407258688016768",
+      "url": "https://x.com/brezshares/status/2114407258688016768",
+      "author": "brezshares",
+      "author_name": "⏢brianbreslow",
+      "time": "2026-10-25T17:22:28.000Z",
+      "text_len": 295,
+      "summary": "Nipping this one in the bud right away. Pearl is a fair launch L1. There is no equity / token split. Pearl Research Labs is an equity business AI lab,…",
+      "engagement": {
+        "like": 90,
+        "retweet": 8,
+        "reply": 12,
+        "quote": 1,
+        "bookmark": 18,
+        "impression": 7098,
+        "score": 120
+      },
+      "links": [
+        "https://twitter.com/immutablejacob/status/2114389342470668799"
+      ],
+      "sources": [
+        "20-topic-bitcoin"
+      ],
+      "topic": "bitcoin"
+    },
+    {
+      "id": "2114578108993118563",
+      "url": "https://x.com/yourfriendSOMMI/status/2114578108993118563",
+      "author": "yourfriendSOMMI",
+      "author_name": "yourfriendSOMMI ❤️💛💚💙",
+      "time": "2026-10-26T04:41:22.000Z",
+      "text_len": 86,
+      "summary": "❤️💛💚💙 🚨 JUST IN 🚨 Ethereum Foundation is dumping ETH again.",
+      "engagement": {
+        "like": 92,
+        "retweet": 8,
+        "reply": 8,
+        "quote": 1,
+        "bookmark": 0,
+        "impression": 3442,
+        "score": 118
+      },
+      "links": [
+        "https://x.com/yourfriendSOMMI/status/2114578108993118563/photo/1",
+        "https://x.com/yourfriendSOMMI/status/2114578108993118563/photo/1"
+      ],
+      "sources": [
+        "20-topic-ethereum"
+      ],
+      "topic": "ethereum"
+    },
+    {
+      "id": "2114481541342712193",
+      "url": "https://x.com/theweb3alert/status/2114481541342712193",
+      "author": "theweb3alert",
+      "author_name": "Web3Alert",
+      "time": "2026-10-25T22:17:39.000Z",
+      "text_len": 302,
+      "summary": "$NEAR n $HBAR are tackling AI from opposite ends NEAR builds where agents act Hedera builds why we can trust them Both are essential towards the future of AI…",
+      "engagement": {
+        "like": 88,
+        "retweet": 13,
+        "reply": 1,
+        "quote": 1,
+        "bookmark": 6,
+        "impression": 2536,
+        "score": 117
+      },
+      "links": [
+        "https://x.com/theweb3alert/status/2114481541342712193/photo/1"
+      ],
+      "sources": [
+        "20-topic-hedera"
+      ],
+      "topic": "hedera"
+    },
+    {
+      "id": "2114276213099290647",
+      "url": "https://x.com/Amstarlighter/status/2114276213099290647",
+      "author": "Amstarlighter",
+      "author_name": "Star",
+      "time": "2026-10-25T08:41:45.000Z",
+      "text_len": 299,
+      "summary": "Been reading up on Ethereum's quantum plan and the timeline is the part people skip.",
+      "engagement": {
+        "like": 51,
+        "retweet": 5,
+        "reply": 41,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 306,
+        "score": 102
+      },
+      "links": [
+        "https://twitter.com/Amstarlighter/status/2113908123253575975"
+      ],
+      "sources": [
+        "20-topic-ethereum"
+      ],
+      "topic": "ethereum"
+    }
+  ],
+  "clusters": {
+    "ethereum": {
+      "label": "Ethereum",
+      "posts": [
+        {
+          "id": "2114534202788225513",
+          "url": "https://x.com/VitalikButerin/status/2114534202788225513",
+          "author": "VitalikButerin",
+          "author_name": "vitalik.eth",
+          "time": "2026-10-26T01:46:54.000Z",
+          "text_len": 275,
+          "summary": "I am okay with Kimi 3.1 deliberately leaving out top-end offensive cyber capabilities from their training data.",
+          "engagement": {
+            "like": 1457,
+            "retweet": 125,
+            "reply": 246,
+            "quote": 57,
+            "bookmark": 187,
+            "impression": 209734,
+            "score": 2067
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114578108993118563",
+          "url": "https://x.com/yourfriendSOMMI/status/2114578108993118563",
+          "author": "yourfriendSOMMI",
+          "author_name": "yourfriendSOMMI ❤️💛💚💙",
+          "time": "2026-10-26T04:41:22.000Z",
+          "text_len": 86,
+          "summary": "❤️💛💚💙 🚨 JUST IN 🚨 Ethereum Foundation is dumping ETH again.",
+          "engagement": {
+            "like": 92,
+            "retweet": 8,
+            "reply": 8,
+            "quote": 1,
+            "bookmark": 0,
+            "impression": 3442,
+            "score": 118
+          },
+          "links": [
+            "https://x.com/yourfriendSOMMI/status/2114578108993118563/photo/1",
+            "https://x.com/yourfriendSOMMI/status/2114578108993118563/photo/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114276213099290647",
+          "url": "https://x.com/Amstarlighter/status/2114276213099290647",
+          "author": "Amstarlighter",
+          "author_name": "Star",
+          "time": "2026-10-25T08:41:45.000Z",
+          "text_len": 299,
+          "summary": "Been reading up on Ethereum's quantum plan and the timeline is the part people skip.",
+          "engagement": {
+            "like": 51,
+            "retweet": 5,
+            "reply": 41,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 306,
+            "score": 102
+          },
+          "links": [
+            "https://twitter.com/Amstarlighter/status/2113908123253575975"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114557248085356659",
+          "url": "https://x.com/OnchainLens/status/2114557248085356659",
+          "author": "OnchainLens",
+          "author_name": "Onchain Lens",
+          "time": "2026-10-26T03:18:29.000Z",
+          "text_len": 193,
+          "summary": "ETHEREUM FOUNDATION SELLS $6.42M $ETH The Ethereum Foundation sold 2,785 $ETH (~$6.42M) for $USDS through @CoWSwap ADDRESS:…",
+          "engagement": {
+            "like": 47,
+            "retweet": 7,
+            "reply": 4,
+            "quote": 2,
+            "bookmark": 9,
+            "impression": 4140,
+            "score": 69
+          },
+          "links": [
+            "https://x.com/OnchainLens/status/2114557248085356659/photo/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114603112078233904",
+          "url": "https://x.com/TheMoneyApe/status/2114603112078233904",
+          "author": "TheMoneyApe",
+          "author_name": "TMA | The Money Ape",
+          "time": "2026-10-26T06:20:44.000Z",
+          "text_len": 230,
+          "summary": "🚨 IS ETHEREUM FOUNDATION SELLING ETH ? A wallet tied to the Ethereum Foundation sold 2,785 $ETH worth $6.42 Million for USDS through @CoWSwap. This is the…",
+          "engagement": {
+            "like": 34,
+            "retweet": 8,
+            "reply": 7,
+            "quote": 1,
+            "bookmark": 5,
+            "impression": 1642,
+            "score": 59
+          },
+          "links": [
+            "https://x.com/TheMoneyApe/status/2114603112078233904/video/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114536519033913376",
+          "url": "https://x.com/VitalikButerin/status/2114536519033913376",
+          "author": "VitalikButerin",
+          "author_name": "vitalik.eth",
+          "time": "2026-10-26T01:56:06.000Z",
+          "text_len": 32,
+          "summary": "@loid0x Yes of course they will.",
+          "engagement": {
+            "like": 36,
+            "retweet": 0,
+            "reply": 8,
+            "quote": 1,
+            "bookmark": 1,
+            "impression": 6524,
+            "score": 46
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114594351611539590",
+          "url": "https://x.com/TheMoonShow/status/2114594351611539590",
+          "author": "TheMoonShow",
+          "author_name": "The Moon Show",
+          "time": "2026-10-26T05:45:55.000Z",
+          "text_len": 173,
+          "summary": "Fresh selling pressure? A wallet tied to the Ethereum Foundation just offloaded 2,785 $ETH worth $6.42M. This follows a similar move two weeks ago.",
+          "engagement": {
+            "like": 9,
+            "retweet": 2,
+            "reply": 6,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 960,
+            "score": 19
+          },
+          "links": [
+            "https://x.com/TheMoonShow/status/2114594351611539590/photo/1",
+            "https://x.com/TheMoonShow/status/2114594351611539590/photo/1",
+            "https://x.com/TheMoonShow/status/2114594351611539590/photo/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114585043914129918",
+          "url": "https://x.com/Eveningtraders/status/2114585043914129918",
+          "author": "Eveningtraders",
+          "author_name": "Evening Trader Group",
+          "time": "2026-10-26T05:08:56.000Z",
+          "text_len": 265,
+          "summary": "IS THE ETHEREUM FOUNDATION SELLING $ETH?",
+          "engagement": {
+            "like": 2,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 1236,
+            "score": 4
+          },
+          "links": [
+            "https://x.com/Eveningtraders/status/2114585043914129918/photo/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114320819887517890",
+          "url": "https://x.com/idaehye09819729/status/2114320819887517890",
+          "author": "idaehye09819729",
+          "author_name": "AlphaHunter",
+          "time": "2026-10-25T11:39:00.000Z",
+          "text_len": 277,
+          "summary": "Why Wall Street Institutions Are Obsessed With Privacy Technology As Wall Street financial firms like JPMorgan and BlackRock move assets onto open blockchains…",
+          "engagement": {
+            "like": 2,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 132,
+            "score": 4
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114561632248685034",
+          "url": "https://x.com/hashminutes/status/2114561632248685034",
+          "author": "hashminutes",
+          "author_name": "Hash minutes ⚡",
+          "time": "2026-10-26T03:35:54.000Z",
+          "text_len": 64,
+          "summary": "JUST IN: ETHEREUM FOUNDATION IS SELLING $ETH AGAIN: ONCHAIN LENS",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 79,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114566140630540752",
+          "url": "https://x.com/CryptoChartSage/status/2114566140630540752",
+          "author": "CryptoChartSage",
+          "author_name": "ChartSage",
+          "time": "2026-10-26T03:53:49.000Z",
+          "text_len": 183,
+          "summary": "The Ethereum Foundation sold 2,785 ethereum:native for about $6.42M.",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 22,
+            "score": 2
+          },
+          "links": [
+            "https://x.com/CryptoChartSage/status/2114566140630540752/photo/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114603307172036784",
+          "url": "https://x.com/0xumarkhatab/status/2114603307172036784",
+          "author": "0xumarkhatab",
+          "author_name": "Umar",
+          "time": "2026-10-26T06:21:30.000Z",
+          "text_len": 277,
+          "summary": "catch { failed[id] = true; } stops being safe under Glamsterdam.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 24,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114603859930660977",
+          "url": "https://x.com/Inbal_Sande/status/2114603859930660977",
+          "author": "Inbal_Sande",
+          "author_name": "Sanders",
+          "time": "2026-10-26T06:23:42.000Z",
+          "text_len": 100,
+          "summary": "@TheMoneyApe @CoWSwap Ethereum Foundation says HODL, wallet says take profit",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 8,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/Inbal_Sande/status/2114603859930660977/photo/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114559902244831585",
+          "url": "https://x.com/pepeanalyst/status/2114559902244831585",
+          "author": "pepeanalyst",
+          "author_name": "Detective Pepe",
+          "time": "2026-10-26T03:29:01.000Z",
+          "text_len": 235,
+          "summary": "Is the Ethereum Foundation dumping $ETH again?",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 19,
+            "score": 1
+          },
+          "links": [
+            "https://arkm.com/explorer/address/0x5CBC6299faB3320E7758ac97fd4CA45E5B722059",
+            "https://x.com/pepeanalyst/status/2114559902244831585/photo/1"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114606881977102789",
+          "url": "https://x.com/dankrad/status/2114606881977102789",
+          "author": "dankrad",
+          "author_name": "Dankrad Feist",
+          "time": "2026-10-26T06:35:42.000Z",
+          "text_len": 289,
+          "summary": "@alz_zyd_ Could be that people don't make rational choices about their individual bookings.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 21,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114280809595314239",
+          "url": "https://x.com/EvryEthereum/status/2114280809595314239",
+          "author": "EvryEthereum",
+          "author_name": "Everything Ethereum",
+          "time": "2026-10-25T09:00:01.000Z",
+          "text_len": 325,
+          "summary": "Lido opens 2,048 ETH validators to anyone @LidoFinance launched 0x02 CSM on Oct 23.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 30,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/EvryEthereum/status/2114280809595314239/photo/1",
+            "https://twitter.com/EvryEthereum/status/2113905054604460320"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114602937544736769",
+          "url": "https://x.com/0xumarkhatab/status/2114602937544736769",
+          "author": "0xumarkhatab",
+          "author_name": "Umar",
+          "time": "2026-10-26T06:20:02.000Z",
+          "text_len": 277,
+          "summary": "catch { failed[id] = true; } stops being safe under Glamsterdam.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 5,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114331063808139600",
+          "url": "https://x.com/erbas321/status/2114331063808139600",
+          "author": "erbas321",
+          "author_name": "Erbas 👑",
+          "time": "2026-10-25T12:19:42.000Z",
+          "text_len": 62,
+          "summary": "@vinayvasanji Signal plus an Ethereum Foundation link is quite",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 1,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114327243707281722",
+          "url": "https://x.com/Nexora_iQ/status/2114327243707281722",
+          "author": "Nexora_iQ",
+          "author_name": "𝓝𝓮𝓧𝓸𝓻𝓪_𝓲𝓠",
+          "time": "2026-10-25T12:04:31.000Z",
+          "text_len": 81,
+          "summary": "@vinayvasanji Handy knowing you’re on Signal through the Ethereum Foundation page",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114618459950846166",
+          "url": "https://x.com/CryptoRebateX/status/2114618459950846166",
+          "author": "CryptoRebateX",
+          "author_name": "CryptoRebateX | 交易成本审计 & 返佣计算器⁠（互fo）",
+          "time": "2026-10-26T07:21:43.000Z",
+          "text_len": 94,
+          "summary": "@lookonchain ethereum foundation treating retail like an unlimited atm on every single dip lol",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114566609708941581",
+          "url": "https://x.com/hialdu_/status/2114566609708941581",
+          "author": "hialdu_",
+          "author_name": "Hialdu",
+          "time": "2026-10-26T03:55:41.000Z",
+          "text_len": 105,
+          "summary": "@lookonchain ethereum foundation selling $ETH every two weeks like a subscription.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 98,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114598300666204233",
+          "url": "https://x.com/FeeOtter/status/2114598300666204233",
+          "author": "FeeOtter",
+          "author_name": "Fee Otter | Crypto fee rebates",
+          "time": "2026-10-26T06:01:36.000Z",
+          "text_len": 127,
+          "summary": "The Ethereum Foundation sold 2,785 Ether (ETH), worth about $6.42 million, through CoWSwap for USDS, according to Onchain Lens.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 0,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114578352132505961",
+          "url": "https://x.com/ShifterCrypto/status/2114578352132505961",
+          "author": "ShifterCrypto",
+          "author_name": "Crypto Shifter",
+          "time": "2026-10-26T04:42:20.000Z",
+          "text_len": 123,
+          "summary": "ethereum foundation sold again 2,785 eth at 2,304 last time they sold, eth dropped 9% after fading eth or buying the dip",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 128,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114399513582686500",
+          "url": "https://x.com/BOSs_NFT__/status/2114399513582686500",
+          "author": "BOSs_NFT__",
+          "author_name": "ボス-NFT ALL CHAIN GIVEAWAY🇯🇵",
+          "time": "2026-10-25T16:51:42.000Z",
+          "text_len": 85,
+          "summary": "@EthereumJesus Super Ethereum Foundation sounds like the Doomers’ worst nightmare lol",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 4,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        },
+        {
+          "id": "2114573480981332225",
+          "url": "https://x.com/mooddyor/status/2114573480981332225",
+          "author": "mooddyor",
+          "author_name": "Mood",
+          "time": "2026-10-26T04:22:59.000Z",
+          "text_len": 120,
+          "summary": "@lookonchain ethereum foundation sold 2785 eth in one hour again they treat the treasury like an atm with no daily limit",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 46,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ethereum"
+        }
+      ]
+    },
+    "bitcoin": {
+      "label": "Bitcoin",
+      "posts": [
+        {
+          "id": "2114467257107579142",
+          "url": "https://x.com/lopp/status/2114467257107579142",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T21:20:53.000Z",
+          "text_len": 108,
+          "summary": "Shouldn't be long before we have the equivalent of @GrapheneOS but for smart TVs, to remove all the spyware.",
+          "engagement": {
+            "like": 671,
+            "retweet": 22,
+            "reply": 35,
+            "quote": 5,
+            "bookmark": 43,
+            "impression": 20422,
+            "score": 760
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114569658527588743",
+          "url": "https://x.com/NebulaExchange1/status/2114569658527588743",
+          "author": "NebulaExchange1",
+          "author_name": "Nebula AI Crypto Exchange",
+          "time": "2026-10-26T04:07:48.000Z",
+          "text_len": 288,
+          "summary": "Bitcoin Core Strengthens Security Policy Faster patches aim to improve Bitcoin security.",
+          "engagement": {
+            "like": 197,
+            "retweet": 0,
+            "reply": 11,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 4942,
+            "score": 208
+          },
+          "links": [
+            "https://x.com/NebulaExchange1/status/2114569658527588743/video/1"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114351270253502668",
+          "url": "https://x.com/lopp/status/2114351270253502668",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T13:40:00.000Z",
+          "text_len": 83,
+          "summary": "\"Talk to my agent\" is going to take on a very different meaning in the near future.",
+          "engagement": {
+            "like": 136,
+            "retweet": 13,
+            "reply": 22,
+            "quote": 2,
+            "bookmark": 2,
+            "impression": 13849,
+            "score": 188
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114416702801027175",
+          "url": "https://x.com/WuBlockchain/status/2114416702801027175",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-25T18:00:00.000Z",
+          "text_len": 299,
+          "summary": "Michael Saylor: Digital Credit Is Our Product, MSTR Is Just a Byproduct On October 20, 2026, Michael Saylor @saylor explained in an interview with Schwab…",
+          "engagement": {
+            "like": 56,
+            "retweet": 8,
+            "reply": 53,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 17398,
+            "score": 125
+          },
+          "links": [
+            "https://x.com/WuBlockchain/status/2114416702801027175/video/1"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114407258688016768",
+          "url": "https://x.com/brezshares/status/2114407258688016768",
+          "author": "brezshares",
+          "author_name": "⏢brianbreslow",
+          "time": "2026-10-25T17:22:28.000Z",
+          "text_len": 295,
+          "summary": "Nipping this one in the bud right away. Pearl is a fair launch L1. There is no equity / token split. Pearl Research Labs is an equity business AI lab,…",
+          "engagement": {
+            "like": 90,
+            "retweet": 8,
+            "reply": 12,
+            "quote": 1,
+            "bookmark": 18,
+            "impression": 7098,
+            "score": 120
+          },
+          "links": [
+            "https://twitter.com/immutablejacob/status/2114389342470668799"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114387947105522115",
+          "url": "https://x.com/lopp/status/2114387947105522115",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T16:05:44.000Z",
+          "text_len": 86,
+          "summary": "Give me a large enough model and compute to run it upon and I shall rewrite the world.",
+          "engagement": {
+            "like": 49,
+            "retweet": 4,
+            "reply": 4,
+            "quote": 1,
+            "bookmark": 3,
+            "impression": 12054,
+            "score": 63
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114541790984651060",
+          "url": "https://x.com/LarryPureLabs/status/2114541790984651060",
+          "author": "LarryPureLabs",
+          "author_name": "Larry@purewallet",
+          "time": "2026-10-26T02:17:03.000Z",
+          "text_len": 299,
+          "summary": "🔐 Quantum computing is coming for crypto's signatures.",
+          "engagement": {
+            "like": 18,
+            "retweet": 11,
+            "reply": 10,
+            "quote": 0,
+            "bookmark": 4,
+            "impression": 646,
+            "score": 50
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114334731298869657",
+          "url": "https://x.com/lopp/status/2114334731298869657",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T12:34:17.000Z",
+          "text_len": 88,
+          "summary": "You really Can See Everything. I saw a couple of sociopaths with delusions of grandeur.",
+          "engagement": {
+            "like": 36,
+            "retweet": 1,
+            "reply": 9,
+            "quote": 0,
+            "bookmark": 2,
+            "impression": 14338,
+            "score": 47
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114494543018291647",
+          "url": "https://x.com/RazMI_Sol/status/2114494543018291647",
+          "author": "RazMI_Sol",
+          "author_name": "𝐑𝐀𝐙/Sol",
+          "time": "2026-10-25T23:09:19.000Z",
+          "text_len": 327,
+          "summary": "Bitcoin has become too conservative to upgrade.",
+          "engagement": {
+            "like": 10,
+            "retweet": 9,
+            "reply": 6,
+            "quote": 1,
+            "bookmark": 4,
+            "impression": 135,
+            "score": 36
+          },
+          "links": [
+            "https://x.com/RazMI_Sol/status/2114494543018291647/photo/1",
+            "https://twitter.com/Vladcostea/status/2114143180564095464"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114478029405893068",
+          "url": "https://x.com/lopp/status/2114478029405893068",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T22:03:41.000Z",
+          "text_len": 67,
+          "summary": "@Quillfiller @GrapheneOS Seeing some folks already looking into it.",
+          "engagement": {
+            "like": 23,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 637,
+            "score": 23
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114284787384861157",
+          "url": "https://x.com/spinebitcoin/status/2114284787384861157",
+          "author": "spinebitcoin",
+          "author_name": "WEAPON",
+          "time": "2026-10-25T09:15:49.000Z",
+          "text_len": 71,
+          "summary": "@thesalvare @alistairmilne Bitcoin core on a laptop without networkcard",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 37,
+            "score": 4
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114388127997374742",
+          "url": "https://x.com/lopp/status/2114388127997374742",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T16:06:27.000Z",
+          "text_len": 51,
+          "summary": "@ottoasks They'll have to pass some tests for sure.",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 122,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114425873868935447",
+          "url": "https://x.com/SinghKanwa17682/status/2114425873868935447",
+          "author": "SinghKanwa17682",
+          "author_name": "Troller",
+          "time": "2026-10-25T18:36:27.000Z",
+          "text_len": 54,
+          "summary": "@DelCrxpto Every? Bitcoin core wallets also? Litecoin?",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 279,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114269018714447961",
+          "url": "https://x.com/spinebitcoin/status/2114269018714447961",
+          "author": "spinebitcoin",
+          "author_name": "WEAPON",
+          "time": "2026-10-25T08:13:09.000Z",
+          "text_len": 81,
+          "summary": "@sesi_the_man Why trust some unknown firmware when you can just run bitcoin core?",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 30,
+            "score": 2
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114289785434939751",
+          "url": "https://x.com/bignykofficial/status/2114289785434939751",
+          "author": "bignykofficial",
+          "author_name": "BigNyk",
+          "time": "2026-10-25T09:35:41.000Z",
+          "text_len": 141,
+          "summary": "I think he’s right. The #bitcoin core is a bunch of limp dicks. Their incontinence will be the downfall of bitcoin.",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 48,
+            "score": 2
+          },
+          "links": [
+            "https://twitter.com/coinbureau/status/2114069420826108326"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114350156476830162",
+          "url": "https://x.com/BASEGEMSLLC/status/2114350156476830162",
+          "author": "BASEGEMSLLC",
+          "author_name": "UNAPOLOGETIC TRADER",
+          "time": "2026-10-25T13:35:34.000Z",
+          "text_len": 323,
+          "summary": "$BTC $ETH $IMU IMU TOKEN #1 CYBERSECURITY THREAT •Anchorage Digital (March 2026): Anchorage Digital (America's first federally chartered crypto bank) made a…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 1,
+            "bookmark": 1,
+            "impression": 467,
+            "score": 2
+          },
+          "links": [
+            "https://x.com/BASEGEMSLLC/status/2114350156476830162/photo/1",
+            "https://twitter.com/basegemsllc/status/2114247240361361753"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114329040211558579",
+          "url": "https://x.com/CryptoMoneyLife/status/2114329040211558579",
+          "author": "CryptoMoneyLife",
+          "author_name": "Crypto Catalyst",
+          "time": "2026-10-25T12:11:40.000Z",
+          "text_len": 295,
+          "summary": "Bitcoin Core is ending long embargoes for bugs AI can easily rediscover.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 28,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/CryptoMoneyLife/status/2114329040211558579/photo/1"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114492715773890586",
+          "url": "https://x.com/lopp/status/2114492715773890586",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T23:02:03.000Z",
+          "text_len": 80,
+          "summary": "@purraclysmic Not everyone is a moron, just the ones inaccurately noting the OP.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 54,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114380588098752653",
+          "url": "https://x.com/lopp/status/2114380588098752653",
+          "author": "lopp",
+          "author_name": "Jameson Lopp",
+          "time": "2026-10-25T15:36:30.000Z",
+          "text_len": 56,
+          "summary": "@craigowes the only podcast I listen to is @hellmoneypod",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 249,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114376435817189648",
+          "url": "https://x.com/mercationcom/status/2114376435817189648",
+          "author": "mercationcom",
+          "author_name": "Mercation",
+          "time": "2026-10-25T15:20:00.000Z",
+          "text_len": 205,
+          "summary": "Bitcoin Core Revamps Security Policy in Response to AI Threats Bitcoin Core updates its security policy to respond to vulnerabilities easily detected by AI,…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 10,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114423054201925766",
+          "url": "https://x.com/134_Atlas/status/2114423054201925766",
+          "author": "134_Atlas",
+          "author_name": "134 Atlas",
+          "time": "2026-10-25T18:25:14.000Z",
+          "text_len": 302,
+          "summary": "Bitcoin Core Speeds Up Security Fixes as 44% of Nodes Run Unsupported Versions Bitcoin Core has accelerated its process for delivering security fixes in the…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 42,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/134_Atlas/status/2114423054201925766/photo/1"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114563088787910860",
+          "url": "https://x.com/Saveo_pro/status/2114563088787910860",
+          "author": "Saveo_pro",
+          "author_name": "Saveo",
+          "time": "2026-10-26T03:41:41.000Z",
+          "text_len": 47,
+          "summary": "@eightlends @coinbureau You trust Bitcoin Core?",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 13,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114618927984910455",
+          "url": "https://x.com/Magnum21BTC/status/2114618927984910455",
+          "author": "Magnum21BTC",
+          "author_name": "Magnum",
+          "time": "2026-10-26T07:23:34.000Z",
+          "text_len": 63,
+          "summary": "@NeilJacobs Is bitcoin core any different to fiat currency now?",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 3,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114563248444063948",
+          "url": "https://x.com/Saveo_pro/status/2114563248444063948",
+          "author": "Saveo_pro",
+          "author_name": "Saveo",
+          "time": "2026-10-26T03:42:19.000Z",
+          "text_len": 82,
+          "summary": "@SatoshiDropsHQ @coinbureau Only update if you trust Bitcoin Core.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 12,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        },
+        {
+          "id": "2114622065655574987",
+          "url": "https://x.com/Magnum21BTC/status/2114622065655574987",
+          "author": "Magnum21BTC",
+          "author_name": "Magnum",
+          "time": "2026-10-26T07:36:02.000Z",
+          "text_len": 58,
+          "summary": "@MichaelDunwort1 Bitcoin core is getting worse by the day.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 15,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "bitcoin"
+        }
+      ]
+    },
+    "hedera": {
+      "label": "Hedera",
+      "posts": [
+        {
+          "id": "2114481541342712193",
+          "url": "https://x.com/theweb3alert/status/2114481541342712193",
+          "author": "theweb3alert",
+          "author_name": "Web3Alert",
+          "time": "2026-10-25T22:17:39.000Z",
+          "text_len": 302,
+          "summary": "$NEAR n $HBAR are tackling AI from opposite ends NEAR builds where agents act Hedera builds why we can trust them Both are essential towards the future of AI…",
+          "engagement": {
+            "like": 88,
+            "retweet": 13,
+            "reply": 1,
+            "quote": 1,
+            "bookmark": 6,
+            "impression": 2536,
+            "score": 117
+          },
+          "links": [
+            "https://x.com/theweb3alert/status/2114481541342712193/photo/1"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114323275195228608",
+          "url": "https://x.com/hederahbro/status/2114323275195228608",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:48:45.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 12,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 194,
+            "score": 13
+          },
+          "links": [
+            "https://twitter.com/Gilmore_Estates/status/2114117918367613381"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114321550610686166",
+          "url": "https://x.com/hederahbro/status/2114321550610686166",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:41:54.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 11,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 170,
+            "score": 13
+          },
+          "links": [
+            "https://twitter.com/_hederian/status/2113872495367561619"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114343182527848616",
+          "url": "https://x.com/hederahbro/status/2114343182527848616",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T13:07:51.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 8,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 131,
+            "score": 8
+          },
+          "links": [
+            "https://twitter.com/thehbarbull/status/2114338915398107375"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114343427055739108",
+          "url": "https://x.com/hederahbro/status/2114343427055739108",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T13:08:50.000Z",
+          "text_len": 74,
+          "summary": "💯 hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 5,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 115,
+            "score": 5
+          },
+          "links": [
+            "https://twitter.com/InvertedSchiff/status/2114335515948294600"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114320920563331518",
+          "url": "https://x.com/hederahbro/status/2114320920563331518",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:39:24.000Z",
+          "text_len": 85,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph $DOVU $TRUST",
+          "engagement": {
+            "like": 2,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 29,
+            "score": 4
+          },
+          "links": [
+            "https://twitter.com/dovuofficial/status/2114178535669563633"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114484275332735178",
+          "url": "https://x.com/hashpack/status/2114484275332735178",
+          "author": "hashpack",
+          "author_name": "HashPack Wallet",
+          "time": "2026-10-25T22:28:31.000Z",
+          "text_len": 57,
+          "summary": "@TimelessTurts @filhetu @SentX_io",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 125,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/hashpack/status/2114484275332735178/photo/1"
+          ],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114418163807039634",
+          "url": "https://x.com/birdseyeball/status/2114418163807039634",
+          "author": "birdseyeball",
+          "author_name": "bird.ℏ",
+          "time": "2026-10-25T18:05:48.000Z",
+          "text_len": 190,
+          "summary": "@JayTxV @Steph_iscrypto They announced “Verifiable Compute” a framework that leverages the Hedera Consensus Service to create an immutable ledger of AI…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 92,
+            "score": 1
+          },
+          "links": [
+            "https://hedera.com/blog/eqty-labs-verifiable-compute-brings-trust-to-ai-with-hedera/"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114457735123100059",
+          "url": "https://x.com/hederahbro/status/2114457735123100059",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T20:43:03.000Z",
+          "text_len": 79,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph $IVYFI",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 96,
+            "score": 1
+          },
+          "links": [
+            "https://twitter.com/IvyFi_io/status/2114369614230458773"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114524241400152495",
+          "url": "https://x.com/hashpack/status/2114524241400152495",
+          "author": "hashpack",
+          "author_name": "HashPack Wallet",
+          "time": "2026-10-26T01:07:19.000Z",
+          "text_len": 28,
+          "summary": "@gibfather @EyeOpenXr_p 🤜🏼🤛🏼",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 55,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114536989005582518",
+          "url": "https://x.com/Scooby_Sgobs/status/2114536989005582518",
+          "author": "Scooby_Sgobs",
+          "author_name": "Sgooby69 🦅 💫 💚",
+          "time": "2026-10-26T01:57:59.000Z",
+          "text_len": 297,
+          "summary": "@ChartNerdTA $hbar NASA exploration of Hedera centers heavily on utilizing Hedera Consensus Service to build highly efficient ultrasecure architecture for…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 47,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114454306988359958",
+          "url": "https://x.com/hederahbro/status/2114454306988359958",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T20:29:26.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 25,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/RealAllinCrypto/status/2114417164404891922"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114321991700455543",
+          "url": "https://x.com/hederahbro/status/2114321991700455543",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:43:39.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 18,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/leeky_k_crypt/status/2114046763653112113"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114459978551464058",
+          "url": "https://x.com/hederahbro/status/2114459978551464058",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T20:51:58.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 30,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/Peter2293912898/status/2114375180067762514"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114324177586962634",
+          "url": "https://x.com/hederahbro/status/2114324177586962634",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:52:20.000Z",
+          "text_len": 76,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph $GC",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 22,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/Gilmore_Estates/status/2114096062042640842"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114321817519501705",
+          "url": "https://x.com/hederahbro/status/2114321817519501705",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:42:58.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 10,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/HederaIntern/status/2114159703093563666"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114327537073492397",
+          "url": "https://x.com/hederahbro/status/2114327537073492397",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T12:05:41.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 23,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/TimelessTurts/status/2114037939659538737"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114358447856562410",
+          "url": "https://x.com/hederahbro/status/2114358447856562410",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T14:08:31.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 28,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/RealAllinCrypto/status/2114356392228172043"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114325066033115493",
+          "url": "https://x.com/hederahbro/status/2114325066033115493",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:55:52.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 17,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/HederaCommunity/status/2114077683638215133"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114322243065094594",
+          "url": "https://x.com/hederahbro/status/2114322243065094594",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:44:39.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 19,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/Freki_OG/status/2114094655210172556"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114320710764306935",
+          "url": "https://x.com/hederahbro/status/2114320710764306935",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:38:34.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 11,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/chainspect_app/status/2114175109275550011"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114455726315749385",
+          "url": "https://x.com/hederahbro/status/2114455726315749385",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T20:35:04.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 34,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/gandreou007/status/2114356305775526128"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114322463291330670",
+          "url": "https://x.com/hederahbro/status/2114322463291330670",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T11:45:32.000Z",
+          "text_len": 76,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph $GC",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 21,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/Gilmore_Estates/status/2114134473465819422"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114457443426083078",
+          "url": "https://x.com/hederahbro/status/2114457443426083078",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T20:41:53.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 32,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/MarcoSalzmann80/status/2114347289166729650"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        },
+        {
+          "id": "2114455567939092568",
+          "url": "https://x.com/hederahbro/status/2114455567939092568",
+          "author": "hederahbro",
+          "author_name": "Hbro | #FreeMarla",
+          "time": "2026-10-25T20:34:26.000Z",
+          "text_len": 72,
+          "summary": "hedera-hashgraph:native #hbar #hedera #hashgraph",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 28,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/HederaCommunity/status/2114399072668848151"
+          ],
+          "sources": [
+            "20-topic-hedera"
+          ],
+          "topic": "hedera"
+        }
+      ]
+    },
+    "l2": {
+      "label": "L2s",
+      "posts": [
+        {
+          "id": "2114368254206775451",
+          "url": "https://x.com/base/status/2114368254206775451",
+          "author": "base",
+          "author_name": "Base",
+          "time": "2026-10-25T14:47:29.000Z",
+          "text_len": 22,
+          "summary": "24/7 markets are based",
+          "engagement": {
+            "like": 617,
+            "retweet": 58,
+            "reply": 155,
+            "quote": 29,
+            "bookmark": 6,
+            "impression": 54956,
+            "score": 946
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114404037080531086",
+          "url": "https://x.com/base/status/2114404037080531086",
+          "author": "base",
+          "author_name": "Base",
+          "time": "2026-10-25T17:09:40.000Z",
+          "text_len": 85,
+          "summary": "Tune in on October 26 to the Base Day livestream with @gmgnai",
+          "engagement": {
+            "like": 569,
+            "retweet": 36,
+            "reply": 63,
+            "quote": 5,
+            "bookmark": 6,
+            "impression": 37172,
+            "score": 714
+          },
+          "links": [
+            "https://twitter.com/gmgnai/status/2114306964721434667"
+          ],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114417283804299423",
+          "url": "https://x.com/zksync/status/2114417283804299423",
+          "author": "zksync",
+          "author_name": "ZKsync",
+          "time": "2026-10-25T18:02:19.000Z",
+          "text_len": 52,
+          "summary": "🗣️ @gluk64 🎙️ @YahooFinance",
+          "engagement": {
+            "like": 114,
+            "retweet": 15,
+            "reply": 16,
+            "quote": 1,
+            "bookmark": 5,
+            "impression": 18294,
+            "score": 162
+          },
+          "links": [
+            "https://twitter.com/YahooFinance/status/2113676826107125931"
+          ],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114404039932916165",
+          "url": "https://x.com/base/status/2114404039932916165",
+          "author": "base",
+          "author_name": "Base",
+          "time": "2026-10-25T17:09:41.000Z",
+          "text_len": 165,
+          "summary": "This contest is owned and operated by GMGN.",
+          "engagement": {
+            "like": 23,
+            "retweet": 2,
+            "reply": 5,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 4950,
+            "score": 32
+          },
+          "links": [
+            "https://x.com/gmgnai/status/2114376018798793175?s=20"
+          ],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114453494048637306",
+          "url": "https://x.com/jessepollak/status/2114453494048637306",
+          "author": "jessepollak",
+          "author_name": "jesse.base.eth",
+          "time": "2026-10-25T20:26:12.000Z",
+          "text_len": 25,
+          "summary": "@luigidemeo @aave @base 📈",
+          "engagement": {
+            "like": 13,
+            "retweet": 0,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 1307,
+            "score": 15
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-00"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114390880958201990",
+          "url": "https://x.com/FairHatch/status/2114390880958201990",
+          "author": "FairHatch",
+          "author_name": "FairHatch | Fair Launchpad on Robinhood Chain",
+          "time": "2026-10-25T16:17:24.000Z",
+          "text_len": 206,
+          "summary": "Robinhood Chain in 10 facts: gas, speed, transaction order, bridging, stock tokens and the risks most people skip.",
+          "engagement": {
+            "like": 3,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 177,
+            "score": 6
+          },
+          "links": [
+            "https://x.com/i/article/2114390472940519425"
+          ],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114374489786233321",
+          "url": "https://x.com/0x_zeeme/status/2114374489786233321",
+          "author": "0x_zeeme",
+          "author_name": "Zeeme ⚡ | On-Chain Research",
+          "time": "2026-10-25T15:12:16.000Z",
+          "text_len": 275,
+          "summary": "🚨 2026: Crypto projects dying every week But these have REAL products — not just tokens.",
+          "engagement": {
+            "like": 1,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 104,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114316654687527274",
+          "url": "https://x.com/Kingfinity/status/2114316654687527274",
+          "author": "Kingfinity",
+          "author_name": "Kingfinity - Beyond the Limit",
+          "time": "2026-10-25T11:22:27.000Z",
+          "text_len": 301,
+          "summary": "What happens when an Ethereum Layer 2 removes transaction signatures from the Layer 2 itself?",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 30,
+            "score": 2
+          },
+          "links": [
+            "https://x.com/Kingfinity/status/2114316654687527274/photo/1"
+          ],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114329782439625032",
+          "url": "https://x.com/joejossy_12/status/2114329782439625032",
+          "author": "joejossy_12",
+          "author_name": "Joe Joe",
+          "time": "2026-10-25T12:14:37.000Z",
+          "text_len": 233,
+          "summary": "𝗪𝗕𝗧𝗖 𝗼𝗻 𝗔𝗿𝗯𝗶𝘁𝗿𝘂𝗺 𝗼𝗳𝗳𝗲𝗿𝗲𝗱 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗰𝗵𝗲𝗮𝗽𝗲𝘀𝘁 𝗹𝗮𝗿𝗴𝗲 𝗕𝗶𝘁𝗰𝗼𝗶𝗻 𝗯𝗼𝗿𝗿𝗼𝘄𝗶𝗻𝗴 𝗺𝗮𝗿𝗸𝗲𝘁𝘀 𝗶𝗻 𝗗𝗲𝗙𝗶.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 49,
+            "score": 2
+          },
+          "links": [
+            "https://x.com/joejossy_12/status/2114329782439625032/photo/1"
+          ],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114311897386226151",
+          "url": "https://x.com/Neome_com/status/2114311897386226151",
+          "author": "Neome_com",
+          "author_name": "Neome.com",
+          "time": "2026-10-25T11:03:33.000Z",
+          "text_len": 299,
+          "summary": "CRYPTO BREAKING NEWS: Only the latest. No repeats 💙 • Another Big Pi Network Update Is Live: Here’s What Pioneers Need to Know • Arbitrum’s ARB drops 24% in…",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 122,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/Neome_com/status/2114311897386226151/video/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "l2"
+        },
+        {
+          "id": "2114401308384121174",
+          "url": "https://x.com/Beaver_dextf/status/2114401308384121174",
+          "author": "Beaver_dextf",
+          "author_name": "Beaver.dextf",
+          "time": "2026-10-25T16:58:50.000Z",
+          "text_len": 100,
+          "summary": "@MrCartmill @SMQKEDQG I think they will launch on a layer 2....",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 28,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114605621265736061",
+          "url": "https://x.com/web3l0var/status/2114605621265736061",
+          "author": "web3l0var",
+          "author_name": "web3lovar ❤️ 💜",
+          "time": "2026-10-26T06:30:42.000Z",
+          "text_len": 254,
+          "summary": "𝗙𝗥𝗢𝗠 𝗘𝗖𝗢𝗦𝗬𝗦𝗧𝗘𝗠 𝗦𝗖𝗔𝗟𝗘 𝗗𝗢𝗪𝗡 𝗧𝗢 𝗧𝗪𝗢 𝗞𝗘𝗬𝗦 𝗘𝗖𝗢𝗦𝗬𝗦𝗧𝗘𝗠 𝗟𝗘𝗩𝗘𝗟 The October 2026 BitTorrent plan describes one ecosystem with three product lines.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 5,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/web3l0var/status/2114605621265736061/photo/1"
+          ],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114389447177322818",
+          "url": "https://x.com/realNatalieFort/status/2114389447177322818",
+          "author": "realNatalieFort",
+          "author_name": "natalie",
+          "time": "2026-10-25T16:11:42.000Z",
+          "text_len": 54,
+          "summary": "@1CrypticPoet @base base chain doing base chain things",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 21,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114613000867049883",
+          "url": "https://x.com/_TokenHunter/status/2114613000867049883",
+          "author": "_TokenHunter",
+          "author_name": "TokenHunter",
+          "time": "2026-10-26T07:00:01.000Z",
+          "text_len": 249,
+          "summary": "📊 TOP LAYER 2 (L2) COINS BY MARKET CAP 🚀 🥇 @okx — MC $2.25B 🥈 @Mantle_Official — MC $1.69B 🥉 @arbitrum — MC $1.14B 4️⃣ @0xPolygon — MC $942M 5️⃣ @Stacks — MC…",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 723,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/_TokenHunter/status/2114613000867049883/photo/1"
+          ],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114395693213241587",
+          "url": "https://x.com/0xDarkrider/status/2114395693213241587",
+          "author": "0xDarkrider",
+          "author_name": "darkrider",
+          "time": "2026-10-25T16:36:31.000Z",
+          "text_len": 314,
+          "summary": "@ed_ashford @jumperapp @arjunnchand I’m only referring to airdrop criteria, whether Project X or Project Y.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 99,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114319820338684321",
+          "url": "https://x.com/Patrik717217/status/2114319820338684321",
+          "author": "Patrik717217",
+          "author_name": "Fox",
+          "time": "2026-10-25T11:35:01.000Z",
+          "text_len": 235,
+          "summary": "Galactica is an Arbitrum Orbit Layer 2 focused on privacy-preserving identity, reputation (Soul Scores), zkCertificates, and compliant DeFi/DeSoc applications.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114347362265280664",
+          "url": "https://x.com/Patrik717217/status/2114347362265280664",
+          "author": "Patrik717217",
+          "author_name": "Fox",
+          "time": "2026-10-25T13:24:28.000Z",
+          "text_len": 271,
+          "summary": "1/ What is Galactica? Galactica is a Layer 2 blockchain (built with Arbitrum Orbit) focused on privacy-preserving identity and reputation.2/ Its core tech…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114408283964371089",
+          "url": "https://x.com/StormYYYCalmYYY/status/2114408283964371089",
+          "author": "StormYYYCalmYYY",
+          "author_name": "StormY Crypto Tabi 🟧 (Ø,G) .ink 🍚 ⛓ (✧ᴗ✧) 🪞",
+          "time": "2026-10-25T17:26:33.000Z",
+          "text_len": 276,
+          "summary": "🏰 2/3 — $STRK: STARKNET UNDER PRESSURE $STRK printed around $0.0459, down 6.91% in one Oct 25 snapshot.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 7,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114288814051201198",
+          "url": "https://x.com/CryptoMkIntel/status/2114288814051201198",
+          "author": "CryptoMkIntel",
+          "author_name": "Crypto Market Intel",
+          "time": "2026-10-25T09:31:49.000Z",
+          "text_len": 187,
+          "summary": "Swell went from ~$978M in liquid-staking TVL → launching an L2 → shutting the L2 → building a $249/mo AI trading terminal for Hyperliquid.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 9,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114307425734119470",
+          "url": "https://x.com/MrDegenMax/status/2114307425734119470",
+          "author": "MrDegenMax",
+          "author_name": "MrDegenMax",
+          "time": "2026-10-25T10:45:46.000Z",
+          "text_len": 89,
+          "summary": "@0x_Donatello Working on optimizing our Layer‑2 rollup for lower gas and faster finality.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 1,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114521901745979579",
+          "url": "https://x.com/cryptob28811588/status/2114521901745979579",
+          "author": "cryptob28811588",
+          "author_name": "Mr. Hunter",
+          "time": "2026-10-26T00:58:01.000Z",
+          "text_len": 59,
+          "summary": "@NKLinhzk @Starknet Starknet is future layer 2 is come back",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 22,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114467114388279500",
+          "url": "https://x.com/cyrus_cook63759/status/2114467114388279500",
+          "author": "cyrus_cook63759",
+          "author_name": "Cyrus Cook",
+          "time": "2026-10-25T21:20:19.000Z",
+          "text_len": 59,
+          "summary": "Layer 2 solutions like Optimism reduce Ethereum congestion.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114475898036744364",
+          "url": "https://x.com/ad_upp/status/2114475898036744364",
+          "author": "ad_upp",
+          "author_name": "adil",
+          "time": "2026-10-25T21:55:13.000Z",
+          "text_len": 59,
+          "summary": "Layer 2 solutions like Optimism reduce Ethereum congestion.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114392667362918799",
+          "url": "https://x.com/Vivaldi100x/status/2114392667362918799",
+          "author": "Vivaldi100x",
+          "author_name": "Vivaldi",
+          "time": "2026-10-25T16:24:30.000Z",
+          "text_len": 134,
+          "summary": "@D_BULLRUN What happens when a Layer 2’s rollup gets stuck midupdate and the main chain has to bail it out, who pays the gas for that?",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 3,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        },
+        {
+          "id": "2114400227587489848",
+          "url": "https://x.com/Raven_slb/status/2114400227587489848",
+          "author": "Raven_slb",
+          "author_name": "RAVEN.fi ✦",
+          "time": "2026-10-25T16:54:32.000Z",
+          "text_len": 126,
+          "summary": "@Linhphuong111 @Starknet Real-world projects will reveal whether Starknet's layer-2 performance keeps pace with user demand 🛰️",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 1,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-l2"
+          ],
+          "topic": "l2"
+        }
+      ]
+    },
+    "defi": {
+      "label": "DeFi",
+      "posts": [
+        {
+          "id": "2114404903330443560",
+          "url": "https://x.com/Uniswap/status/2114404903330443560",
+          "author": "Uniswap",
+          "author_name": "Uniswap",
+          "time": "2026-10-25T17:13:07.000Z",
+          "text_len": 113,
+          "summary": "Last week, 62% of tokenized stock volume on Uniswap traded after market hours Markets close.",
+          "engagement": {
+            "like": 663,
+            "retweet": 36,
+            "reply": 59,
+            "quote": 5,
+            "bookmark": 7,
+            "impression": 37232,
+            "score": 804
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114608146438111556",
+          "url": "https://x.com/thechulprecious/status/2114608146438111556",
+          "author": "thechulprecious",
+          "author_name": "CHUL🦋",
+          "time": "2026-10-26T06:40:44.000Z",
+          "text_len": 299,
+          "summary": "I think one of the more interesting developments in the RWA market is how tokenized assets are starting to create demand for themselves through onchain…",
+          "engagement": {
+            "like": 24,
+            "retweet": 2,
+            "reply": 21,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 113,
+            "score": 49
+          },
+          "links": [
+            "https://x.com/thechulprecious/status/2114608146438111556/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114503154851340691",
+          "url": "https://x.com/Uniswap/status/2114503154851340691",
+          "author": "Uniswap",
+          "author_name": "Uniswap",
+          "time": "2026-10-25T23:43:32.000Z",
+          "text_len": 24,
+          "summary": "@ponsdotfamily Pons 🤝 v4",
+          "engagement": {
+            "like": 29,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 1780,
+            "score": 29
+          },
+          "links": [],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114402243621364150",
+          "url": "https://x.com/Em3rald4U/status/2114402243621364150",
+          "author": "Em3rald4U",
+          "author_name": "Emerald-4U",
+          "time": "2026-10-25T17:02:33.000Z",
+          "text_len": 299,
+          "summary": "Primus Lab has actively attended major Web3 events in 2025–2026 to push privacy and verifiable data.",
+          "engagement": {
+            "like": 19,
+            "retweet": 1,
+            "reply": 6,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 222,
+            "score": 27
+          },
+          "links": [
+            "https://x.com/Em3rald4U/status/2114402243621364150/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "defi"
+        },
+        {
+          "id": "2114360115717353850",
+          "url": "https://x.com/pharosmazi/status/2114360115717353850",
+          "author": "pharosmazi",
+          "author_name": "Mazi 🌊",
+          "time": "2026-10-25T14:15:09.000Z",
+          "text_len": 237,
+          "summary": "stPROS is Faroo’s liquid staking token for $PROS on Pharos.",
+          "engagement": {
+            "like": 9,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 91,
+            "score": 9
+          },
+          "links": [
+            "https://x.com/pharosmazi/status/2114360115717353850/photo/1",
+            "https://twitter.com/Farooxyz/status/2114348859006857538"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114529375550918846",
+          "url": "https://x.com/ThisEmmy_1/status/2114529375550918846",
+          "author": "ThisEmmy_1",
+          "author_name": "Emmy 🦠",
+          "time": "2026-10-26T01:27:43.000Z",
+          "text_len": 300,
+          "summary": "GM! DeFi gets more interesting when you spend less time managing the process and more time thinking about your strategy. The JUST ecosystem brings several…",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 29,
+            "score": 4
+          },
+          "links": [
+            "https://twitter.com/defi_just/status/2109472371895849108"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114285166843535701",
+          "url": "https://x.com/0xPain__/status/2114285166843535701",
+          "author": "0xPain__",
+          "author_name": "0xPain",
+          "time": "2026-10-25T09:17:19.000Z",
+          "text_len": 321,
+          "summary": ". @HaedalProtocol the Yield Products Keep Running 🦦🌊 Haedal continues to operate its liquid staking and yield products on @SuiNetwork.",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 947,
+            "score": 3
+          },
+          "links": [
+            "https://x.com/0xPain__/status/2114285166843535701/photo/1",
+            "https://x.com/0xPain__/status/2114285166843535701/photo/1",
+            "https://x.com/0xPain__/status/2114285166843535701/photo/1",
+            "https://x.com/0xPain__/status/2114285166843535701/photo/1",
+            "https://twitter.com/0xPain__/status/2110358397878989236"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114281067708350473",
+          "url": "https://x.com/mcmacky5/status/2114281067708350473",
+          "author": "mcmacky5",
+          "author_name": "Anthonyinnocent199",
+          "time": "2026-10-25T09:01:02.000Z",
+          "text_len": 303,
+          "summary": "*WEB3 EDUCATION PART 2 SEQUENCE OF CRYPTO EDUCATION: DeFi &amp; STAKING 1/ WEB3 EDUCATION PART 2: DeFi &amp; STAKING — How Your Crypto Makes You Money While…",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 64,
+            "score": 3
+          },
+          "links": [
+            "https://x.com/mcmacky5/status/2114281067708350473/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114600397155246171",
+          "url": "https://x.com/_CBMedia/status/2114600397155246171",
+          "author": "_CBMedia",
+          "author_name": "CurrentBlock Media",
+          "time": "2026-10-26T06:09:56.000Z",
+          "text_len": 303,
+          "summary": "📰 CURRENTBLOCK DAILY WATCH | OCT. 26, 2026 Monday; Institutional Finance Goes Onchain as AI Reshapes Crypto What’s Coming Up Today... AVIVA INVESTORS…",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 1,
+            "bookmark": 0,
+            "impression": 71,
+            "score": 3
+          },
+          "links": [
+            "https://x.com/_CBMedia/status/2114600397155246171/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "defi"
+        },
+        {
+          "id": "2114579612747317577",
+          "url": "https://x.com/AaronRDay/status/2114579612747317577",
+          "author": "AaronRDay",
+          "author_name": "Aaron Day",
+          "time": "2026-10-26T04:47:21.000Z",
+          "text_len": 193,
+          "summary": "Trump pardoned Binance's founder after Binance took $2B from a UAE fund in Trump's family stablecoin.",
+          "engagement": {
+            "like": 0,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 312,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114597437050388500",
+          "url": "https://x.com/CryptoLensd/status/2114597437050388500",
+          "author": "CryptoLensd",
+          "author_name": "Crypto Lens",
+          "time": "2026-10-26T05:58:10.000Z",
+          "text_len": 208,
+          "summary": "According to Onchain Lens, the Ethereum Foundation exchanged 2,785 ETHs into USDS stablecoins through CoW Swap.",
+          "engagement": {
+            "like": 0,
+            "retweet": 1,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 6,
+            "score": 2
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114590277268582684",
+          "url": "https://x.com/AaronRDay/status/2114590277268582684",
+          "author": "AaronRDay",
+          "author_name": "Aaron Day",
+          "time": "2026-10-26T05:29:43.000Z",
+          "text_len": 193,
+          "summary": "Trump pardoned Binance's founder after Binance took $2B from a UAE fund in Trump's family stablecoin.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 158,
+            "score": 2
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114274409259450494",
+          "url": "https://x.com/Meektender/status/2114274409259450494",
+          "author": "Meektender",
+          "author_name": "Isa mrmeek",
+          "time": "2026-10-25T08:34:35.000Z",
+          "text_len": 249,
+          "summary": "Galaxy campaign 🌌 Today’s exploration, tomorrow’s possibilities.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 26,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/Meektender/status/2114274409259450494/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114357567023698344",
+          "url": "https://x.com/Pi_Buying/status/2114357567023698344",
+          "author": "Pi_Buying",
+          "author_name": "ONPOINT CRYPTO EXCHANGE SERVICES",
+          "time": "2026-10-25T14:05:01.000Z",
+          "text_len": 208,
+          "summary": "blockchain isn't just about pure speculation anymore.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 14,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114510591633113219",
+          "url": "https://x.com/llama/status/2114510591633113219",
+          "author": "llama",
+          "author_name": "Llama",
+          "time": "2026-10-26T00:13:05.000Z",
+          "text_len": 293,
+          "summary": "@llamareceipts ZIGChain has $4.8M base TVL (9th of 40 Cosmos chains pulled), but DefiLlama has no transaction or active-user data for it, so there's no 30-day…",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 16,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114586739851362405",
+          "url": "https://x.com/AaronRDay/status/2114586739851362405",
+          "author": "AaronRDay",
+          "author_name": "Aaron Day",
+          "time": "2026-10-26T05:15:40.000Z",
+          "text_len": 193,
+          "summary": "Trump pardoned Binance's founder after Binance took $2B from a UAE fund in Trump's family stablecoin.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 179,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114430424113955238",
+          "url": "https://x.com/0xWeb3born/status/2114430424113955238",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-25T18:54:31.000Z",
+          "text_len": 300,
+          "summary": "Solana went from launching in 2020 to becoming one of the biggest names in crypto.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 28,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "30-mentions"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114593113268248577",
+          "url": "https://x.com/KC_GMI/status/2114593113268248577",
+          "author": "KC_GMI",
+          "author_name": "KC GMI 🐝",
+          "time": "2026-10-26T05:41:00.000Z",
+          "text_len": 256,
+          "summary": "𝗟𝗶𝗾𝘂𝗶𝗱 𝗦𝘁𝗮𝗸𝗶𝗻𝗴 𝗘𝘅𝗽𝗮𝗻𝗱𝘀 𝗪𝗵𝗮𝘁 𝗦𝘁𝗮𝗸𝗲𝗱 𝗔𝘀𝘀𝗲𝘁𝘀 𝗖𝗮𝗻 𝗗𝗼 𝗶𝗻 𝗗𝗲𝗙𝗶 Staking allows users to contribute to blockchain network security while earning rewards.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 13,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/KC_GMI/status/2114593113268248577/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114593496074010846",
+          "url": "https://x.com/KC_GMI/status/2114593496074010846",
+          "author": "KC_GMI",
+          "author_name": "KC GMI 🐝",
+          "time": "2026-10-26T05:42:31.000Z",
+          "text_len": 251,
+          "summary": "𝗪𝗵𝘆 𝗟𝗶𝗾𝘂𝗶𝗱 𝗦𝘁𝗮𝗸𝗶𝗻𝗴 𝗜𝘀 𝗖𝗵𝗮𝗻𝗴𝗶𝗻𝗴 𝗛𝗼𝘄 𝗨𝘀𝗲𝗿𝘀 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵 𝗗𝗲𝗙𝗶 One of the biggest challenges in staking is balancing long-term rewards with the need to keep assets…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 15,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/KC_GMI/status/2114593496074010846/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114293738079912017",
+          "url": "https://x.com/HypedLaunches/status/2114293738079912017",
+          "author": "HypedLaunches",
+          "author_name": "HypedLaunches",
+          "time": "2026-10-25T09:51:23.000Z",
+          "text_len": 288,
+          "summary": "Hyperliquid DeFi TVL has reached $1.2 BILLION.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 77,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/HypedLaunches/status/2114293738079912017/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114589690644869326",
+          "url": "https://x.com/Yulancrypto/status/2114589690644869326",
+          "author": "Yulancrypto",
+          "author_name": "Yulan 兰",
+          "time": "2026-10-26T05:27:24.000Z",
+          "text_len": 234,
+          "summary": "𝗝𝗨𝗦𝗧: 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 𝗔 𝗠𝗢𝗥𝗘 𝗨𝗦𝗘𝗙𝗨𝗟 𝗗𝗘𝗙𝗜 𝗘𝗖𝗢𝗦𝗬𝗦𝗧𝗘𝗠 𝗢𝗡 𝗧𝗥𝗢𝗡 𝗗𝗲𝗙𝗶 𝗜𝘀 𝗠𝗼𝗿𝗲 𝗧𝗵𝗮𝗻 𝗧𝗼𝗸𝗲𝗻 𝗦𝘄𝗮𝗽𝘀 Decentralized finance becomes more useful when people can do more with their…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 6,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/Yulancrypto/status/2114589690644869326/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114549963631845525",
+          "url": "https://x.com/R99338Ruckle/status/2114549963631845525",
+          "author": "R99338Ruckle",
+          "author_name": "Valencia Ruckle",
+          "time": "2026-10-26T02:49:32.000Z",
+          "text_len": 274,
+          "summary": "Liquid staking controls $58B+ in TVL, beating standard DeFi lending pools.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 12,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114593643415601589",
+          "url": "https://x.com/KC_GMI/status/2114593643415601589",
+          "author": "KC_GMI",
+          "author_name": "KC GMI 🐝",
+          "time": "2026-10-26T05:43:06.000Z",
+          "text_len": 257,
+          "summary": "𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗦𝘁𝗮𝗸𝗶𝗻𝗴 𝗜𝗻𝘁𝗼 𝗮 𝗠𝗼𝗿𝗲 𝗙𝗹𝗲𝘅𝗶𝗯𝗹𝗲 𝗗𝗲𝗙𝗶 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝘆 Staking and liquidity do not always go hand in hand.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 14,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/KC_GMI/status/2114593643415601589/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114359435808378976",
+          "url": "https://x.com/RyanAtOpen/status/2114359435808378976",
+          "author": "RyanAtOpen",
+          "author_name": "Ryan",
+          "time": "2026-10-25T14:12:27.000Z",
+          "text_len": 276,
+          "summary": "Before investing in altcoins, know which sector they belong to.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 28,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        },
+        {
+          "id": "2114586943841243284",
+          "url": "https://x.com/Preetiboi_Ray/status/2114586943841243284",
+          "author": "Preetiboi_Ray",
+          "author_name": "👑",
+          "time": "2026-10-26T05:16:29.000Z",
+          "text_len": 255,
+          "summary": "𝗦𝗧𝗥𝗫 𝗶𝗹𝗹𝘂𝘀𝘁𝗿𝗮𝘁𝗲𝘀 𝘄𝗵𝘆 𝗹𝗶𝗾𝘂𝗶𝗱 𝘀𝘁𝗮𝗸𝗶𝗻𝗴 𝗶𝘀 𝗮 𝗗𝗲𝗙𝗶 𝗽𝗿𝗶𝗺𝗶𝘁𝗶𝘃𝗲.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 52,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/Preetiboi_Ray/status/2114586943841243284/photo/1"
+          ],
+          "sources": [
+            "20-topic-defi"
+          ],
+          "topic": "defi"
+        }
+      ]
+    },
+    "regulation": {
+      "label": "Regulation",
+      "posts": [
+        {
+          "id": "2114451023205195964",
+          "url": "https://x.com/AlphaPrimer_R/status/2114451023205195964",
+          "author": "AlphaPrimer_R",
+          "author_name": "AlphaPrimer Research",
+          "time": "2026-10-25T20:16:23.000Z",
+          "text_len": 303,
+          "summary": "STABLECOIN REWARDS AND THE BATTLE OVER DIGITAL DOLLAR YIELD The debate over whether stablecoin holders should earn yield is not new.",
+          "engagement": {
+            "like": 77,
+            "retweet": 0,
+            "reply": 85,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 210,
+            "score": 162
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114316239984263401",
+          "url": "https://x.com/Victusglobal/status/2114316239984263401",
+          "author": "Victusglobal",
+          "author_name": "Victus Global",
+          "time": "2026-10-25T11:20:48.000Z",
+          "text_len": 120,
+          "summary": "Recent article from the Victus Research &amp; Development Team.",
+          "engagement": {
+            "like": 53,
+            "retweet": 24,
+            "reply": 26,
+            "quote": 1,
+            "bookmark": 8,
+            "impression": 2695,
+            "score": 129
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114287006754984371",
+          "url": "https://x.com/WuBlockchain/status/2114287006754984371",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-25T09:24:38.000Z",
+          "text_len": 262,
+          "summary": "Asia's Weekly TOP10 Crypto News: South Korea Regulates Stablecoins as Payment Means, China to Build National Blockchain Network, HSBC Launches Stablecoin,…",
+          "engagement": {
+            "like": 35,
+            "retweet": 11,
+            "reply": 62,
+            "quote": 2,
+            "bookmark": 1,
+            "impression": 18899,
+            "score": 123
+          },
+          "links": [
+            "https://x.com/WuBlockchain/status/2114287006754984371/photo/1"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114293705737642202",
+          "url": "https://x.com/Mr_BONI_/status/2114293705737642202",
+          "author": "Mr_BONI_",
+          "author_name": "Mr BONI base.eth 🐂🀄️",
+          "time": "2026-10-25T09:51:15.000Z",
+          "text_len": 303,
+          "summary": "Why WalletConnect Pay is not yet available in every country?",
+          "engagement": {
+            "like": 53,
+            "retweet": 2,
+            "reply": 7,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 377,
+            "score": 64
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114425421299073217",
+          "url": "https://x.com/Cryptocode_nl/status/2114425421299073217",
+          "author": "Cryptocode_nl",
+          "author_name": "Cryptocodes",
+          "time": "2026-10-25T18:34:39.000Z",
+          "text_len": 280,
+          "summary": "France wants a stricter MiCA, and an explicit ban on non-MiCA stablecoins is on its list.",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 173,
+            "score": 4
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114343416763142481",
+          "url": "https://x.com/MixinMessenger/status/2114343416763142481",
+          "author": "MixinMessenger",
+          "author_name": "Mixin",
+          "time": "2026-10-25T13:08:47.000Z",
+          "text_len": 271,
+          "summary": "The weekend in 30 seconds: Macro: Oil pushed back above $100/bbl (Brent ≈$111) on Middle East supply risk and US evacuations, dragging risk assets lower.",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 352,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114410752312324590",
+          "url": "https://x.com/NoahBPerlman/status/2114410752312324590",
+          "author": "NoahBPerlman",
+          "author_name": "Noah Perlman",
+          "time": "2026-10-25T17:36:21.000Z",
+          "text_len": 279,
+          "summary": "The UK FCA is putting crypto tracing on notice.",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 285,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114377285570617518",
+          "url": "https://x.com/pymtexecutive/status/2114377285570617518",
+          "author": "pymtexecutive",
+          "author_name": "PaymentExecutive",
+          "time": "2026-10-25T15:23:22.000Z",
+          "text_len": 280,
+          "summary": "⚖️ Reg/Policy | Three regulatory deadlines that matter more than any Money20/20 panel Happy Halloween.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 26,
+            "score": 2
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114372025519140875",
+          "url": "https://x.com/ChainLucid_/status/2114372025519140875",
+          "author": "ChainLucid_",
+          "author_name": "ChainLucid",
+          "time": "2026-10-25T15:02:28.000Z",
+          "text_len": 242,
+          "summary": "They support euro stablecoins and tokenised bank deposits.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114264707020288191",
+          "url": "https://x.com/succeed_chandra/status/2114264707020288191",
+          "author": "succeed_chandra",
+          "author_name": "Chandramani",
+          "time": "2026-10-25T07:56:01.000Z",
+          "text_len": 303,
+          "summary": "On 19 October 2026 Auditchain Labs AG filed a comment with the U.S.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 24,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114343425143357947",
+          "url": "https://x.com/MixinMessenger/status/2114343425143357947",
+          "author": "MixinMessenger",
+          "author_name": "Mixin",
+          "time": "2026-10-25T13:08:49.000Z",
+          "text_len": 271,
+          "summary": "The weekend in 30 seconds: Macro: Oil pushed back above $100/bbl (Brent ≈$111) on Middle East supply risk and US evacuations, dragging risk assets lower.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 91,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114330349136212335",
+          "url": "https://x.com/grok/status/2114330349136212335",
+          "author": "grok",
+          "author_name": "Grok",
+          "time": "2026-10-25T12:16:52.000Z",
+          "text_len": 298,
+          "summary": "@Blueliberals @RRyanMalk eVTOL launch fares projected at $3-8 per mile for short urban hops, comparable to premium rideshares, falling to $1-2 with scale and…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 10,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114377269326065994",
+          "url": "https://x.com/pymtexecutive/status/2114377269326065994",
+          "author": "pymtexecutive",
+          "author_name": "PaymentExecutive",
+          "time": "2026-10-25T15:23:18.000Z",
+          "text_len": 277,
+          "summary": "📊 Payments Pulse | The OCC just issued the first federal stablecoin rule under the GENIUS Act — here's exactly what it does Rule issued: October 21, 2026.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 14,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114322269468045379",
+          "url": "https://x.com/BullishMarktCap/status/2114322269468045379",
+          "author": "BullishMarktCap",
+          "author_name": "BullishMarketCap",
+          "time": "2026-10-25T11:44:45.000Z",
+          "text_len": 299,
+          "summary": "🗞 CRYPTO DAILY BRIEF · OCT 25 Mood: MIXED (2 bullish · 1 neutral · 3 bearish) 🟢 The SEC cleared Volatility Shares 3x Bitcoin and Ether ETFs.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 149,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114396181245866249",
+          "url": "https://x.com/Zbojtless/status/2114396181245866249",
+          "author": "Zbojtless",
+          "author_name": "StructuredCrypto",
+          "time": "2026-10-25T16:38:27.000Z",
+          "text_len": 278,
+          "summary": "$200 million. For life. That is the most a crypto project could ever raise from the public under \"Regulation Crypto,\" the registration exemption written into…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 9,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114330868747514196",
+          "url": "https://x.com/grok/status/2114330868747514196",
+          "author": "grok",
+          "author_name": "Grok",
+          "time": "2026-10-25T12:18:56.000Z",
+          "text_len": 280,
+          "summary": "@Blueliberals @RRyanMalk Time will tell.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 8,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114383244149829921",
+          "url": "https://x.com/Cryptofocus_NL/status/2114383244149829921",
+          "author": "Cryptofocus_NL",
+          "author_name": "Cryptofocus",
+          "time": "2026-10-25T15:47:03.000Z",
+          "text_len": 265,
+          "summary": "Holders see none of it. MiCA bans interest on e-money tokens in the EU, and the US GENIUS Act bars issuer-paid yield from 18 January 2027 at the latest. With…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 6,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114377289869779166",
+          "url": "https://x.com/pymtexecutive/status/2114377289869779166",
+          "author": "pymtexecutive",
+          "author_name": "PaymentExecutive",
+          "time": "2026-10-25T15:23:23.000Z",
+          "text_len": 277,
+          "summary": "📚 Educational Saturday | The 2026 Payments Stack: what Money20/20 proved is now permanently assembled Every year, Money20/20 USA signals what the industry's…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 20,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        },
+        {
+          "id": "2114384537698345220",
+          "url": "https://x.com/Donald_tuk/status/2114384537698345220",
+          "author": "Donald_tuk",
+          "author_name": "Donald",
+          "time": "2026-10-25T15:52:11.000Z",
+          "text_len": 297,
+          "summary": "UK banks face 10,000 crypto complaints in 90 days 10,092 gripes from 9,800 Britons: Lloyds 2,297, Barclays 1,569, NatWest 1,278.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 43,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "regulation"
+        }
+      ]
+    },
+    "ai_crypto": {
+      "label": "AI x crypto",
+      "posts": [
+        {
+          "id": "2114331673898696970",
+          "url": "https://x.com/coinbase/status/2114331673898696970",
+          "author": "coinbase",
+          "author_name": "Coinbase 🛡️",
+          "time": "2026-10-25T12:22:08.000Z",
+          "text_len": 88,
+          "summary": "You own crypto, so you can explain how a blockchain works right?",
+          "engagement": {
+            "like": 532,
+            "retweet": 46,
+            "reply": 185,
+            "quote": 17,
+            "bookmark": 17,
+            "impression": 135112,
+            "score": 843
+          },
+          "links": [
+            "https://x.com/coinbase/status/2114331673898696970/photo/1",
+            "https://x.com/coinbase/status/2114331673898696970/photo/1"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114356069455802662",
+          "url": "https://x.com/virtuals_io/status/2114356069455802662",
+          "author": "virtuals_io",
+          "author_name": "Virtuals Protocol",
+          "time": "2026-10-25T13:59:04.000Z",
+          "text_len": 300,
+          "summary": "This Week in Virtuals: Native Pearl, Private Payments, and Derive Options for Agents px402 keeps an agent’s address off every x402 @USDC payment.",
+          "engagement": {
+            "like": 200,
+            "retweet": 26,
+            "reply": 50,
+            "quote": 7,
+            "bookmark": 10,
+            "impression": 18943,
+            "score": 316
+          },
+          "links": [
+            "https://x.com/virtuals_io/status/2114356069455802662/photo/1"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114323994329628851",
+          "url": "https://x.com/GoKiteAI/status/2114323994329628851",
+          "author": "GoKiteAI",
+          "author_name": "KITE AI",
+          "time": "2026-10-25T11:51:37.000Z",
+          "text_len": 327,
+          "summary": "Money20/20 USA is one of the world's leading gatherings for banking, payments and fintech.",
+          "engagement": {
+            "like": 82,
+            "retweet": 15,
+            "reply": 22,
+            "quote": 1,
+            "bookmark": 4,
+            "impression": 6467,
+            "score": 136
+          },
+          "links": [
+            "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+            "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+            "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+            "https://x.com/GoKiteAI/status/2114323994329628851/photo/1",
+            "https://twitter.com/GoKiteAI/status/2111382395811160557"
+          ],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114447457799000123",
+          "url": "https://x.com/edinsoncode/status/2114447457799000123",
+          "author": "edinsoncode",
+          "author_name": "Edinson Carranza",
+          "time": "2026-10-25T20:02:13.000Z",
+          "text_len": 239,
+          "summary": "Ethereum is entering a new era. AI agents, zero-knowledge proofs, smarter wallets, and autonomous economies could redefine blockchain by 2027. Explore the…",
+          "engagement": {
+            "like": 6,
+            "retweet": 4,
+            "reply": 3,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 344,
+            "score": 17
+          },
+          "links": [
+            "https://x.com/i/article/2114446432380018688"
+          ],
+          "sources": [
+            "20-topic-ethereum"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114544458989756686",
+          "url": "https://x.com/Clipboardpete/status/2114544458989756686",
+          "author": "Clipboardpete",
+          "author_name": "Clipboard Peter",
+          "time": "2026-10-26T02:27:40.000Z",
+          "text_len": 270,
+          "summary": "Big crypto week incoming. MONDAY FuzzyCon TUESDAY — SWELL DAY 1 Brad Garlinghouse opens Swell WEDNESDAY — SWELL DAY 2 David Schwartz + Ayo Akinyele on what’s…",
+          "engagement": {
+            "like": 5,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 172,
+            "score": 8
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114416932396953842",
+          "url": "https://x.com/CodeWith_Erick/status/2114416932396953842",
+          "author": "CodeWith_Erick",
+          "author_name": "Erick || Web3 Explainer.",
+          "time": "2026-10-25T18:00:55.000Z",
+          "text_len": 301,
+          "summary": "@Concordium @rukky_003 3/ The window to be early on this isn't infinite.",
+          "engagement": {
+            "like": 6,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 2,
+            "impression": 23,
+            "score": 7
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114355763431063892",
+          "url": "https://x.com/imfaziiii/status/2114355763431063892",
+          "author": "imfaziiii",
+          "author_name": "faizan",
+          "time": "2026-10-25T13:57:51.000Z",
+          "text_len": 131,
+          "summary": "WhatsApp to WhatsApp agentic payments powered by stablecoins could be a huge breakthrough for cross border payments in coming years",
+          "engagement": {
+            "like": 6,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 165,
+            "score": 7
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114423672530260257",
+          "url": "https://x.com/SanadSquad/status/2114423672530260257",
+          "author": "SanadSquad",
+          "author_name": "Sanad Squad",
+          "time": "2026-10-25T18:27:42.000Z",
+          "text_len": 149,
+          "summary": "We audit x402 facilitators and servers against these rules, check by check, on EVM and Solana.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 15,
+            "score": 2
+          },
+          "links": [
+            "https://sanadsquad.com"
+          ],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114379205488349491",
+          "url": "https://x.com/descoutxyz/status/2114379205488349491",
+          "author": "descoutxyz",
+          "author_name": "Descout",
+          "time": "2026-10-25T15:31:00.000Z",
+          "text_len": 270,
+          "summary": "Base's latest posts pair two items: Mastercard bringing agentic payments onto x402 rails, settled in USDC on Base, and Aave letting eligible investors borrow…",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 66,
+            "score": 2
+          },
+          "links": [
+            "https://x.com/descoutxyz/status/2114379205488349491/photo/1"
+          ],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114305172109496779",
+          "url": "https://x.com/hung030299/status/2114305172109496779",
+          "author": "hung030299",
+          "author_name": "Leo",
+          "time": "2026-10-25T10:36:49.000Z",
+          "text_len": 77,
+          "summary": "@Whitelist1Media @EthenaPay @avici @wirex_one agentic payments going crazy fr",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 14,
+            "score": 2
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114432965380043172",
+          "url": "https://x.com/themachinemoney/status/2114432965380043172",
+          "author": "themachinemoney",
+          "author_name": "Machine Money",
+          "time": "2026-10-25T19:04:37.000Z",
+          "text_len": 179,
+          "summary": "1/8 Agentic payments, week of Oct 19-25.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 11,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/themachinemoney/status/2114432965380043172/photo/1"
+          ],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114330211122831812",
+          "url": "https://x.com/Rose88DW/status/2114330211122831812",
+          "author": "Rose88DW",
+          "author_name": "Rose时间玫瑰",
+          "time": "2026-10-25T12:16:19.000Z",
+          "text_len": 257,
+          "summary": "@GoKiteAI Just read the latest Money20/20 recap.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 36,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114587104248303715",
+          "url": "https://x.com/chychyorjhy/status/2114587104248303715",
+          "author": "chychyorjhy",
+          "author_name": "ChyChyTheMagnificent",
+          "time": "2026-10-26T05:17:07.000Z",
+          "text_len": 74,
+          "summary": "@darmilarey069 Spending limits would make agentic payments more practical.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 3,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114597402770653618",
+          "url": "https://x.com/EmmyWss/status/2114597402770653618",
+          "author": "EmmyWss",
+          "author_name": "Emmy🧡",
+          "time": "2026-10-26T05:58:02.000Z",
+          "text_len": 80,
+          "summary": "If it isn’t AI and agentic payments I don’t know what is",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 84,
+            "score": 1
+          },
+          "links": [
+            "https://twitter.com/czbinanceprd/status/2114324741414965416"
+          ],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114342321814999524",
+          "url": "https://x.com/Geralt239411/status/2114342321814999524",
+          "author": "Geralt239411",
+          "author_name": "ShanShan 珊珊",
+          "time": "2026-10-25T13:04:26.000Z",
+          "text_len": 126,
+          "summary": "@GoKiteAI @Visa @Mastercard @AmericanExpress @PayPal @stripe @Google @OpenAI @money2020 agentic payments are getting real fast",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 28,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114417682183303335",
+          "url": "https://x.com/JaceCrypto/status/2114417682183303335",
+          "author": "JaceCrypto",
+          "author_name": "Jason Tucker-Feltham",
+          "time": "2026-10-25T18:03:54.000Z",
+          "text_len": 138,
+          "summary": "@enriquecripto Good point. Agentic payments will almost certainly lead to significant operational losses without such mechanisms in place.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 10,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114286302795378953",
+          "url": "https://x.com/Halifa070/status/2114286302795378953",
+          "author": "Halifa070",
+          "author_name": "ALIYU",
+          "time": "2026-10-25T09:21:50.000Z",
+          "text_len": 115,
+          "summary": "@Concordium Reliable agentic payments need both smooth transactions and verifiable identity to build lasting trust.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 13,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114274209983856990",
+          "url": "https://x.com/goldendotx/status/2114274209983856990",
+          "author": "goldendotx",
+          "author_name": "Golden.X",
+          "time": "2026-10-25T08:33:47.000Z",
+          "text_len": 286,
+          "summary": "Mastercard is bringing AI agent payments on-chain.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 36,
+            "score": 1
+          },
+          "links": [
+            "https://twitter.com/base/status/2113738900577677706"
+          ],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114277550998646936",
+          "url": "https://x.com/2425247/status/2114277550998646936",
+          "author": "2425247",
+          "author_name": "Diablofire",
+          "time": "2026-10-25T08:47:04.000Z",
+          "text_len": 275,
+          "summary": "This week, Bitcoin Core — the software most of the Bitcoin network runs — changed how it handles security flaws.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 123,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/i/article/2114275196966461440"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114275782851809562",
+          "url": "https://x.com/tsnmediahub/status/2114275782851809562",
+          "author": "tsnmediahub",
+          "author_name": "tsn_hub",
+          "time": "2026-10-25T08:40:02.000Z",
+          "text_len": 255,
+          "summary": "🩹 Bitcoin Core changed its security policy: bugs a simple LLM prompt could find now get fixed point releases for every maintained version straight away, not…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 10,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/tsnmediahub/status/2114275782851809562/photo/1"
+          ],
+          "sources": [
+            "20-topic-bitcoin"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114329683856621927",
+          "url": "https://x.com/grok/status/2114329683856621927",
+          "author": "grok",
+          "author_name": "Grok",
+          "time": "2026-10-25T12:14:13.000Z",
+          "text_len": 305,
+          "summary": "@Blueliberals @RRyanMalk Regulation has already increased substantially.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 6,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "20-topic-regulation"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114592834443460833",
+          "url": "https://x.com/0x_saintsultan/status/2114592834443460833",
+          "author": "0x_saintsultan",
+          "author_name": "Sultan 👳🏾",
+          "time": "2026-10-26T05:39:53.000Z",
+          "text_len": 101,
+          "summary": "@vanillacrusz Agentic payments need predictable costs, fast finality, and reliable spending controls.",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 4,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114376555782668406",
+          "url": "https://x.com/Mxr_dnl/status/2114376555782668406",
+          "author": "Mxr_dnl",
+          "author_name": "Danny",
+          "time": "2026-10-25T15:20:28.000Z",
+          "text_len": 76,
+          "summary": "@nuelll_sol @bot @PayBox agentic payments is truly the next wave of finances",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 4,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114277742271455634",
+          "url": "https://x.com/Kaola8881/status/2114277742271455634",
+          "author": "Kaola8881",
+          "author_name": "Cayla考拉🐨",
+          "time": "2026-10-25T08:47:49.000Z",
+          "text_len": 57,
+          "summary": "@EricCLFung agentic payments angle could be fun to unpack",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 8,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        },
+        {
+          "id": "2114344575087325340",
+          "url": "https://x.com/Samxweb3og/status/2114344575087325340",
+          "author": "Samxweb3og",
+          "author_name": "Sam",
+          "time": "2026-10-25T13:13:23.000Z",
+          "text_len": 67,
+          "summary": "@Smithcrypy @RialoHQ Big move bruh Agentic payments are the future",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 8,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-ai_crypto"
+          ],
+          "topic": "ai_crypto"
+        }
+      ]
+    },
+    "other": {
+      "label": "Other",
+      "posts": [
+        {
+          "id": "2114549981394915772",
+          "url": "https://x.com/WuBlockchain/status/2114549981394915772",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-26T02:49:36.000Z",
+          "text_len": 304,
+          "summary": "CZ Responds to BNB Chain’s New L1 Plan: “Multiple chains, one coins” CZ responds to BNB Chain’s updated New L1 plans: “Multiple chains, one coins.” According…",
+          "engagement": {
+            "like": 140,
+            "retweet": 20,
+            "reply": 40,
+            "quote": 4,
+            "bookmark": 18,
+            "impression": 22106,
+            "score": 228
+          },
+          "links": [
+            "https://x.com/WuBlockchain/status/2114549981394915772/photo/1"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "other"
+        },
+        {
+          "id": "2114486906712953214",
+          "url": "https://x.com/oot2k1/status/2114486906712953214",
+          "author": "oot2k1",
+          "author_name": "oot2k",
+          "time": "2026-10-25T22:38:58.000Z",
+          "text_len": 280,
+          "summary": "Recently I went to a local cyber security meetup.",
+          "engagement": {
+            "like": 58,
+            "retweet": 0,
+            "reply": 7,
+            "quote": 0,
+            "bookmark": 3,
+            "impression": 2488,
+            "score": 65
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114412883350016445",
+          "url": "https://x.com/iamsuperflly/status/2114412883350016445",
+          "author": "iamsuperflly",
+          "author_name": "Superfly🦅",
+          "time": "2026-10-25T17:44:49.000Z",
+          "text_len": 304,
+          "summary": "Submitted IPIN to the Arc Microgrants: Built with Arc Studio hackathon.",
+          "engagement": {
+            "like": 13,
+            "retweet": 5,
+            "reply": 6,
+            "quote": 0,
+            "bookmark": 2,
+            "impression": 268,
+            "score": 29
+          },
+          "links": [
+            "https://x.com/iamsuperflly/status/2114412883350016445/video/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114398636289507523",
+          "url": "https://x.com/SamyaakJain/status/2114398636289507523",
+          "author": "SamyaakJain",
+          "author_name": "Samyaak Jain🔜 Devcon 8 🇮🇳",
+          "time": "2026-10-25T16:48:13.000Z",
+          "text_len": 231,
+          "summary": "writing the web3 problem statements for a 24h hackathon at my college this week 2L+ prize pool, and I am the one answering doubts on the blockchain track last…",
+          "engagement": {
+            "like": 15,
+            "retweet": 1,
+            "reply": 4,
+            "quote": 1,
+            "bookmark": 1,
+            "impression": 500,
+            "score": 23
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114612785103679764",
+          "url": "https://x.com/WuBlockchain/status/2114612785103679764",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-26T06:59:10.000Z",
+          "text_len": 295,
+          "summary": "WuBlockchain Weekly Outlook: Cloud revenue is soaring.",
+          "engagement": {
+            "like": 9,
+            "retweet": 0,
+            "reply": 13,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 8509,
+            "score": 22
+          },
+          "links": [
+            "https://x.com/WuBlockchain/status/2114612785103679764/photo/1"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "other"
+        },
+        {
+          "id": "2114377810861011455",
+          "url": "https://x.com/tom_piskule/status/2114377810861011455",
+          "author": "tom_piskule",
+          "author_name": "Tomas Piskule",
+          "time": "2026-10-25T15:25:28.000Z",
+          "text_len": 300,
+          "summary": "For the first time, @colosseum opened its hackathon to every blockchain 🎡 So how did the Crypto World’s Fair go?",
+          "engagement": {
+            "like": 10,
+            "retweet": 3,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 2,
+            "impression": 351,
+            "score": 18
+          },
+          "links": [
+            "https://x.com/tom_piskule/status/2114377810861011455/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114287025734267173",
+          "url": "https://x.com/WuBlockchain/status/2114287025734267173",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-25T09:24:43.000Z",
+          "text_len": 103,
+          "summary": "For the complete article and weekly curated reports, subscribe to our Substack:",
+          "engagement": {
+            "like": 4,
+            "retweet": 1,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 1,
+            "impression": 3807,
+            "score": 8
+          },
+          "links": [
+            "https://wublock.substack.com/p/asias-weekly-top10-crypto-news-south-ae5?r=jbpop&utm_campaign=post&utm_medium=web"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "other"
+        },
+        {
+          "id": "2114377756288962620",
+          "url": "https://x.com/Lukayooma/status/2114377756288962620",
+          "author": "Lukayooma",
+          "author_name": "Luka",
+          "time": "2026-10-25T15:25:14.000Z",
+          "text_len": 189,
+          "summary": "Day 1 at the HackMeridian Hackathon in Lisbon, Portugal!",
+          "engagement": {
+            "like": 5,
+            "retweet": 1,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 83,
+            "score": 8
+          },
+          "links": [
+            "https://x.com/Lukayooma/status/2114377756288962620/photo/1",
+            "https://x.com/Lukayooma/status/2114377756288962620/photo/1",
+            "https://x.com/Lukayooma/status/2114377756288962620/photo/1",
+            "https://x.com/Lukayooma/status/2114377756288962620/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114464476674310539",
+          "url": "https://x.com/00TATTS/status/2114464476674310539",
+          "author": "00TATTS",
+          "author_name": "👨🏿‍🚀00TATT$🚀",
+          "time": "2026-10-25T21:09:50.000Z",
+          "text_len": 161,
+          "summary": "At an @xrpl hackathon 💯...I'm learning more and more about Web3 and Crypto 😎 love to see other brothers of the culture doin the same!",
+          "engagement": {
+            "like": 6,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 120,
+            "score": 7
+          },
+          "links": [
+            "https://twitter.com/CloudpayX_/status/2114463863252856983"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114611381421150591",
+          "url": "https://x.com/web3cook/status/2114611381421150591",
+          "author": "web3cook",
+          "author_name": "Rohit",
+          "time": "2026-10-26T06:53:35.000Z",
+          "text_len": 94,
+          "summary": "Follow along to experience Devcon through the lens of a Volunteer Lead",
+          "engagement": {
+            "like": 7,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 142,
+            "score": 7
+          },
+          "links": [
+            "https://x.com/i/article/2114594745502879744"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114387566845997137",
+          "url": "https://x.com/carelessdept/status/2114387566845997137",
+          "author": "carelessdept",
+          "author_name": "Careless",
+          "time": "2026-10-25T16:04:14.000Z",
+          "text_len": 274,
+          "summary": "Hey @X Algorithm and @grok ! 👀🚀 I'm looking to #CONNECT with passionate developers, founders, creators, innovators, and tech enthusiasts from around the…",
+          "engagement": {
+            "like": 2,
+            "retweet": 0,
+            "reply": 4,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 35,
+            "score": 6
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114513139782000738",
+          "url": "https://x.com/WuBlockchain/status/2114513139782000738",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-26T00:23:12.000Z",
+          "text_len": 31,
+          "summary": "Source:",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 2,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2558,
+            "score": 5
+          },
+          "links": [
+            "https://www.youtube.com/watch?v=BhltoFxmVs8"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "other"
+        },
+        {
+          "id": "2114321188012831111",
+          "url": "https://x.com/crypto_vazima/status/2114321188012831111",
+          "author": "crypto_vazima",
+          "author_name": "Allweb3jobs by Crypto Vazima",
+          "time": "2026-10-25T11:40:28.000Z",
+          "text_len": 325,
+          "summary": "🔄 8 fresh Web3 internships, junior &amp; entry-level opportunities, including hackathons, found today (October 25, 2026): 🏆 MST Blockchain BUILDATHON…",
+          "engagement": {
+            "like": 4,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 749,
+            "score": 5
+          },
+          "links": [
+            "https://x.com/crypto_vazima/status/2114321188012831111/photo/1",
+            "https://x.com/crypto_vazima/status/2114032171253952801"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114475623976436075",
+          "url": "https://x.com/oot2k1/status/2114475623976436075",
+          "author": "oot2k1",
+          "author_name": "oot2k",
+          "time": "2026-10-25T21:54:08.000Z",
+          "text_len": 277,
+          "summary": "Recently I went to a local cyber security meetup.",
+          "engagement": {
+            "like": 4,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 143,
+            "score": 5
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114548318932238611",
+          "url": "https://x.com/VngQuangVinh10/status/2114548318932238611",
+          "author": "VngQuangVinh10",
+          "author_name": "Vương Quang Vinh(❖,❖)",
+          "time": "2026-10-26T02:43:00.000Z",
+          "text_len": 301,
+          "summary": "🚀 Optimum at TUM Blockchain Conference 2026 Munich This Thursday, October 29, Dr.",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 44,
+            "score": 4
+          },
+          "links": [
+            "https://x.com/VngQuangVinh10/status/2114548318932238611/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114428759482982540",
+          "url": "https://x.com/0xWeb3born/status/2114428759482982540",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-25T18:47:55.000Z",
+          "text_len": 299,
+          "summary": "Web3 Has Too Many Speculators and Not Enough Builders.",
+          "engagement": {
+            "like": 3,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 36,
+            "score": 3
+          },
+          "links": [],
+          "sources": [
+            "30-mentions"
+          ],
+          "topic": "other"
+        },
+        {
+          "id": "2114392997106171905",
+          "url": "https://x.com/Raph_GMI/status/2114392997106171905",
+          "author": "Raph_GMI",
+          "author_name": "Raph_GMI",
+          "time": "2026-10-25T16:25:48.000Z",
+          "text_len": 217,
+          "summary": "𝗧𝗥𝗢𝗡: 𝗪𝗵𝘆 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗦𝗺𝗮𝗿𝘁 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗜𝗻 𝗪𝗲𝗯𝟯, 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗶𝘀 𝗻𝗲𝘃𝗲𝗿 𝗮 𝗳𝗶𝗻𝗶𝘀𝗵𝗲𝗱 𝘁𝗮𝘀𝗸.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 1,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 30,
+            "score": 2
+          },
+          "links": [
+            "https://x.com/Raph_GMI/status/2114392997106171905/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114612899440419132",
+          "url": "https://x.com/WuBlockchain/status/2114612899440419132",
+          "author": "WuBlockchain",
+          "author_name": "Wu Blockchain",
+          "time": "2026-10-26T06:59:37.000Z",
+          "text_len": 34,
+          "summary": "Read more:",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 1042,
+            "score": 1
+          },
+          "links": [
+            "https://www.wublockchain.xyz/articles/wu-weekly-outlook-microsoft-google-earnings-fed-ecb-boj-decisions-1980"
+          ],
+          "sources": [
+            "10-watchlist-01"
+          ],
+          "topic": "other"
+        },
+        {
+          "id": "2114264768026423296",
+          "url": "https://x.com/crypto_vazima/status/2114264768026423296",
+          "author": "crypto_vazima",
+          "author_name": "Allweb3jobs by Crypto Vazima",
+          "time": "2026-10-25T07:56:16.000Z",
+          "text_len": 320,
+          "summary": "🚀 Hiring: MST Blockchain BUILDATHON Participant - MST Blockchain 📍 Hybrid (Online + Pune office) | 💼 Hackathon | 🧑‍💻 Blockchain / Web3 | 💰 ₹25,000 +…",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 203,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/crypto_vazima/status/2114264768026423296/photo/1",
+            "https://x.com/crypto_vazima/status/2114032171253952801"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114376690990563390",
+          "url": "https://x.com/LVnAn93220295/status/2114376690990563390",
+          "author": "LVnAn93220295",
+          "author_name": "Kakasuki102.grvt🍏",
+          "time": "2026-10-25T15:21:01.000Z",
+          "text_len": 294,
+          "summary": "🎨 The Mystery of the Missing Tesla, and Why Web3 is the Ultimate Art Detective Picture this: It’s Art Basel Miami, 2010.",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 2009,
+            "score": 1
+          },
+          "links": [
+            "https://x.com/LVnAn93220295/status/2114376690990563390/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114416301791752486",
+          "url": "https://x.com/0xWeb3born/status/2114416301791752486",
+          "author": "0xWeb3born",
+          "author_name": "Yahaya Abdurrahman | Web3 BD",
+          "time": "2026-10-25T17:58:24.000Z",
+          "text_len": 293,
+          "summary": "The Problem Is Not AI. It's Your Understanding of AI. You didn't sit down to learn what AI is. You just sat down to guess what people are doing with it. You…",
+          "engagement": {
+            "like": 1,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 23,
+            "score": 1
+          },
+          "links": [],
+          "sources": [
+            "30-mentions"
+          ],
+          "topic": "other"
+        },
+        {
+          "id": "2114609907001401525",
+          "url": "https://x.com/crypto_vazima/status/2114609907001401525",
+          "author": "crypto_vazima",
+          "author_name": "Allweb3jobs by Crypto Vazima",
+          "time": "2026-10-26T06:47:44.000Z",
+          "text_len": 319,
+          "summary": "🚀 Hiring: Participant - hackCBS 9.0 (SSCBS, University of Delhi) 📍 On-site - SSCBS, University of Delhi | 💼 24-hour offline hackathon | 🧑‍💻 AI / Web3 /…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 109,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/crypto_vazima/status/2114609907001401525/photo/1",
+            "https://x.com/crypto_vazima/status/2114321188012831111"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114411681816215951",
+          "url": "https://x.com/boboseun4991/status/2114411681816215951",
+          "author": "boboseun4991",
+          "author_name": "boboseun",
+          "time": "2026-10-25T17:40:03.000Z",
+          "text_len": 274,
+          "summary": "🚀 WEB3 HACKATHON: FROM IDEA TO MVP IN 48 HOURS My practical module assignment is focused on preparing for a Web3 hackathon and learning how to turn an idea…",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 26,
+            "score": 0
+          },
+          "links": [],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114566464720253438",
+          "url": "https://x.com/0xDoTran/status/2114566464720253438",
+          "author": "0xDoTran",
+          "author_name": "0x Độ",
+          "time": "2026-10-26T03:55:06.000Z",
+          "text_len": 299,
+          "summary": "Optimum will be at the TUM Blockchain Conference 26 in Munich this Thursday (October 29).",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 8,
+            "score": 0
+          },
+          "links": [
+            "https://twitter.com/get_optimum/status/2114522459991052509"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        },
+        {
+          "id": "2114373054637949152",
+          "url": "https://x.com/BIT_CAPITAL123/status/2114373054637949152",
+          "author": "BIT_CAPITAL123",
+          "author_name": "BIT CAPITAL🌸 | EarnHTX",
+          "time": "2026-10-25T15:06:34.000Z",
+          "text_len": 298,
+          "summary": "🚀📊 TRON DAO Security Audit &amp; Bug Bounty Pool!",
+          "engagement": {
+            "like": 0,
+            "retweet": 0,
+            "reply": 0,
+            "quote": 0,
+            "bookmark": 0,
+            "impression": 17701,
+            "score": 0
+          },
+          "links": [
+            "https://x.com/BIT_CAPITAL123/status/2114373054637949152/photo/1"
+          ],
+          "sources": [
+            "20-topic-hackathons"
+          ],
+          "hackathon_lead": true,
+          "topic": "other"
+        }
+      ]
+    }
+  }
+}
