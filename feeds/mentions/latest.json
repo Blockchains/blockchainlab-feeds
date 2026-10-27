@@ -1,51 +1,28 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T07:47:41Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T07:42:11Z",
   "x_status": "ok",
   "x_error": null,
   "query": "(\"blockchainlab.com\" OR \"Blockchain Lab\" OR url:blockchainlab.com OR @BlockchainLab) -from:BlockchainLab -is:retweet",
-  "count": 3,
-  "new_count": 3,
+  "count": 5,
+  "new_count": 5,
   "items": [
     {
-      "id": "2114430424113955238",
-      "url": "https://x.com/0xWeb3born/status/2114430424113955238",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-25T18:54:31.000Z",
-      "text_len": 300,
-      "summary": "Solana went from launching in 2020 to becoming one of the biggest names in crypto.",
+      "id": "2114953868480332157",
+      "url": "https://x.com/Candy_Drops__/status/2114953868480332157",
+      "author": "Candy_Drops__",
+      "author_name": "Candy Drops",
+      "time": "2026-10-27T05:34:30.000Z",
+      "text_len": 23,
+      "summary": "",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 28,
+        "impression": 2186,
         "score": 1
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "defi"
-    },
-    {
-      "id": "2114428759482982540",
-      "url": "https://x.com/0xWeb3born/status/2114428759482982540",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-25T18:47:55.000Z",
-      "text_len": 299,
-      "summary": "Web3 Has Too Many Speculators and Not Enough Builders.",
-      "engagement": {
-        "like": 3,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 36,
-        "score": 3
       },
       "links": [],
       "sources": [
@@ -54,13 +31,59 @@
       "topic": "other"
     },
     {
-      "id": "2114416301791752486",
-      "url": "https://x.com/0xWeb3born/status/2114416301791752486",
+      "id": "2114849450262749295",
+      "url": "https://x.com/0xWeb3born/status/2114849450262749295",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-25T17:58:24.000Z",
-      "text_len": 293,
-      "summary": "The Problem Is Not AI. It's Your Understanding of AI. You didn't sit down to learn what AI is. You just sat down to guess what people are doing with it. You…",
+      "time": "2026-10-26T22:39:35.000Z",
+      "text_len": 298,
+      "summary": "DAY 16/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT NEGOTIATION: KNOWING WHAT TO ASK FOR AND WHAT TO GIVE Negotiation isn't about getting everything you want.",
+      "engagement": {
+        "like": 0,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 10,
+        "score": 0
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114844564586729510",
+      "url": "https://x.com/0xWeb3born/status/2114844564586729510",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-26T22:20:10.000Z",
+      "text_len": 303,
+      "summary": "Uniswap helped turn decentralised trading into a multibillion-dollar industry.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 20,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114812058893955231",
+      "url": "https://x.com/0xWeb3born/status/2114812058893955231",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-26T20:11:00.000Z",
+      "text_len": 301,
+      "summary": "I can design and execute strategic campaigns for your company that drive user acquisition, increase brand awareness, boost community engagement, and…",
       "engagement": {
         "like": 1,
         "retweet": 0,
@@ -69,6 +92,29 @@
         "bookmark": 0,
         "impression": 23,
         "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114628288446369978",
+      "url": "https://x.com/0xWeb3born/status/2114628288446369978",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-26T08:00:46.000Z",
+      "text_len": 299,
+      "summary": "NEW WEEK ALERT! What's that one thing you've been postponing? Is it a project you promised yourself you'd start? A skill you've been meaning to learn? Or an…",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 36,
+        "score": 2
       },
       "links": [],
       "sources": [
@@ -79,44 +125,21 @@
   ],
   "new": [
     {
-      "id": "2114430424113955238",
-      "url": "https://x.com/0xWeb3born/status/2114430424113955238",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-25T18:54:31.000Z",
-      "text_len": 300,
-      "summary": "Solana went from launching in 2020 to becoming one of the biggest names in crypto.",
+      "id": "2114953868480332157",
+      "url": "https://x.com/Candy_Drops__/status/2114953868480332157",
+      "author": "Candy_Drops__",
+      "author_name": "Candy Drops",
+      "time": "2026-10-27T05:34:30.000Z",
+      "text_len": 23,
+      "summary": "",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 28,
+        "impression": 2186,
         "score": 1
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "defi"
-    },
-    {
-      "id": "2114428759482982540",
-      "url": "https://x.com/0xWeb3born/status/2114428759482982540",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-25T18:47:55.000Z",
-      "text_len": 299,
-      "summary": "Web3 Has Too Many Speculators and Not Enough Builders.",
-      "engagement": {
-        "like": 3,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 36,
-        "score": 3
       },
       "links": [],
       "sources": [
@@ -125,13 +148,59 @@
       "topic": "other"
     },
     {
-      "id": "2114416301791752486",
-      "url": "https://x.com/0xWeb3born/status/2114416301791752486",
+      "id": "2114849450262749295",
+      "url": "https://x.com/0xWeb3born/status/2114849450262749295",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-25T17:58:24.000Z",
-      "text_len": 293,
-      "summary": "The Problem Is Not AI. It's Your Understanding of AI. You didn't sit down to learn what AI is. You just sat down to guess what people are doing with it. You…",
+      "time": "2026-10-26T22:39:35.000Z",
+      "text_len": 298,
+      "summary": "DAY 16/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT NEGOTIATION: KNOWING WHAT TO ASK FOR AND WHAT TO GIVE Negotiation isn't about getting everything you want.",
+      "engagement": {
+        "like": 0,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 10,
+        "score": 0
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114844564586729510",
+      "url": "https://x.com/0xWeb3born/status/2114844564586729510",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-26T22:20:10.000Z",
+      "text_len": 303,
+      "summary": "Uniswap helped turn decentralised trading into a multibillion-dollar industry.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 20,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114812058893955231",
+      "url": "https://x.com/0xWeb3born/status/2114812058893955231",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-26T20:11:00.000Z",
+      "text_len": 301,
+      "summary": "I can design and execute strategic campaigns for your company that drive user acquisition, increase brand awareness, boost community engagement, and…",
       "engagement": {
         "like": 1,
         "retweet": 0,
@@ -140,6 +209,29 @@
         "bookmark": 0,
         "impression": 23,
         "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114628288446369978",
+      "url": "https://x.com/0xWeb3born/status/2114628288446369978",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-26T08:00:46.000Z",
+      "text_len": 299,
+      "summary": "NEW WEEK ALERT! What's that one thing you've been postponing? Is it a project you promised yourself you'd start? A skill you've been meaning to learn? Or an…",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 36,
+        "score": 2
       },
       "links": [],
       "sources": [

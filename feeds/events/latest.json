@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T07:47:41Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T07:42:11Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
@@ -34,23 +34,23 @@
     },
     {
       "source": "devpost",
-      "id": "devpost-31664",
-      "title": "Herhack",
-      "url": "https://herhack.devpost.com/",
-      "organizer": "Echelon institute of technology",
-      "type": "hackathon",
-      "dates": "Oct 17 - Nov 10, 2026",
-      "medium": "Online",
-      "verified": "listed on devpost.com API"
-    },
-    {
-      "source": "devpost",
       "id": "devpost-26475",
       "title": "Dakar Bitcoin Hack by BTrust",
       "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
       "organizer": "Dakar Bitcoin Days",
       "type": "hackathon",
       "dates": "Oct 26 - Nov 20, 2026",
+      "medium": "Online",
+      "verified": "listed on devpost.com API"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31664",
+      "title": "Herhack",
+      "url": "https://herhack.devpost.com/",
+      "organizer": "Echelon institute of technology",
+      "type": "hackathon",
+      "dates": "Oct 17 - Nov 10, 2026",
       "medium": "Online",
       "verified": "listed on devpost.com API"
     },
