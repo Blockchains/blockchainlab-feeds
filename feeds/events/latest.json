@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T07:42:11Z",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T07:44:30Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
   ],
   "errors": [],
-  "count": 6,
+  "count": 8,
   "items": [
     {
       "source": "ethglobal",
@@ -31,6 +31,17 @@
       "end": "2027-06-16",
       "medium": "physical",
       "verified": "listed in ethglobal.com/events page data"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31910",
+      "title": "Code-con",
+      "url": "https://code-con.devpost.com/",
+      "organizer": "Telem AI",
+      "type": "hackathon",
+      "dates": "Oct 28 - 30, 2026",
+      "medium": "Online",
+      "verified": "listed on devpost.com API"
     },
     {
       "source": "devpost",
@@ -63,6 +74,17 @@
       "type": "hackathon",
       "dates": "Oct 27 - 28, 2026",
       "medium": "Block 45, Sharda University",
+      "verified": "listed on devpost.com API"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31903",
+      "title": "Bharat Builds Tour",
+      "url": "https://bharat-builds-tour.devpost.com/",
+      "organizer": "Hackers Unity",
+      "type": "hackathon",
+      "dates": "Nov 16 - 17, 2026",
+      "medium": "jaipur",
       "verified": "listed on devpost.com API"
     },
     {

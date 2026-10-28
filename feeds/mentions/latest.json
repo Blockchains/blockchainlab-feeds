@@ -1,120 +1,246 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T07:42:11Z",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T07:44:30Z",
   "x_status": "ok",
   "x_error": null,
   "query": "(\"blockchainlab.com\" OR \"Blockchain Lab\" OR url:blockchainlab.com OR @BlockchainLab) -from:BlockchainLab -is:retweet",
-  "count": 5,
-  "new_count": 5,
+  "count": 10,
+  "new_count": 10,
   "items": [
     {
-      "id": "2114953868480332157",
-      "url": "https://x.com/Candy_Drops__/status/2114953868480332157",
-      "author": "Candy_Drops__",
-      "author_name": "Candy Drops",
-      "time": "2026-10-27T05:34:30.000Z",
-      "text_len": 23,
-      "summary": "",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 2186,
-        "score": 1
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2114849450262749295",
-      "url": "https://x.com/0xWeb3born/status/2114849450262749295",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T22:39:35.000Z",
-      "text_len": 298,
-      "summary": "DAY 16/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT NEGOTIATION: KNOWING WHAT TO ASK FOR AND WHAT TO GIVE Negotiation isn't about getting everything you want.",
+      "id": "2115337576261562532",
+      "url": "https://x.com/Jorgew1eo/status/2115337576261562532",
+      "author": "Jorgew1eo",
+      "author_name": "Jorge",
+      "time": "2026-10-28T06:59:13.000Z",
+      "text_len": 114,
+      "summary": "@Kurtishkzq @BlockchainLab @hedera a $30 test wallet beats finding the missing budget check with your main balance",
       "engagement": {
         "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 10,
+        "impression": 1,
         "score": 0
       },
       "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "hedera"
     },
     {
-      "id": "2114844564586729510",
-      "url": "https://x.com/0xWeb3born/status/2114844564586729510",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T22:20:10.000Z",
-      "text_len": 303,
-      "summary": "Uniswap helped turn decentralised trading into a multibillion-dollar industry.",
+      "id": "2115326034690310490",
+      "url": "https://x.com/durefishatc30/status/2115326034690310490",
+      "author": "durefishatc30",
+      "author_name": "durefisha",
+      "time": "2026-10-28T06:13:22.000Z",
+      "text_len": 231,
+      "summary": "@Kurtishkzq @BlockchainLab @hedera that cap won't cover repeated calls.",
       "engagement": {
-        "like": 1,
+        "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 20,
-        "score": 1
+        "impression": 1,
+        "score": 0
       },
       "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "hedera"
     },
     {
-      "id": "2114812058893955231",
-      "url": "https://x.com/0xWeb3born/status/2114812058893955231",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T20:11:00.000Z",
-      "text_len": 301,
-      "summary": "I can design and execute strategic campaigns for your company that drive user acquisition, increase brand awareness, boost community engagement, and…",
+      "id": "2115310200819421239",
+      "url": "https://x.com/ItzSumaiya12451/status/2115310200819421239",
+      "author": "ItzSumaiya12451",
+      "author_name": "Ítz ẞumãiyå",
+      "time": "2026-10-28T05:10:27.000Z",
+      "text_len": 188,
+      "summary": "@Kurtishkzq @BlockchainLab @hedera what stops the agent sending ten $10 transfers though?",
       "engagement": {
-        "like": 1,
+        "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 23,
-        "score": 1
+        "impression": 3,
+        "score": 0
       },
       "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "hedera"
     },
     {
-      "id": "2114628288446369978",
-      "url": "https://x.com/0xWeb3born/status/2114628288446369978",
+      "id": "2115285987106660490",
+      "url": "https://x.com/Kurtishkzq/status/2115285987106660490",
+      "author": "Kurtishkzq",
+      "author_name": "Kurtish",
+      "time": "2026-10-28T03:34:14.000Z",
+      "text_len": 237,
+      "summary": "@BlockchainLab @hedera controlled access is the part that matters.",
+      "engagement": {
+        "like": 0,
+        "retweet": 0,
+        "reply": 3,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 158,
+        "score": 3
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "hedera"
+    },
+    {
+      "id": "2115198885899411790",
+      "url": "https://x.com/0xWeb3born/status/2115198885899411790",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T08:00:46.000Z",
-      "text_len": 299,
-      "summary": "NEW WEEK ALERT! What's that one thing you've been postponing? Is it a project you promised yourself you'd start? A skill you've been meaning to learn? Or an…",
+      "time": "2026-10-27T21:48:07.000Z",
+      "text_len": 302,
+      "summary": "EXCITING NEWS! I'M OFFICIALLY A BITUNIX AFFILIATE PARTNER! I'm excited to announce that I've officially partnered with @BitunixOfficial Exchange as an…",
       "engagement": {
         "like": 2,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 36,
+        "impression": 29,
         "score": 2
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1",
+        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2115194980222591243",
+      "url": "https://x.com/0xWeb3born/status/2115194980222591243",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-27T21:32:36.000Z",
+      "text_len": 300,
+      "summary": "DAY 17/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT HANDLING “WE’RE NOT INTERESTED” WITHOUT BURNING THE RELATIONSHIP In Business Development, not every…",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 19,
+        "score": 2
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115194980222591243/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2115176466434404625",
+      "url": "https://x.com/0xWeb3born/status/2115176466434404625",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-27T20:19:02.000Z",
+      "text_len": 301,
+      "summary": "In 2021, an NFT artwork sold for $69.3 MILLION.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 24,
+        "score": 1
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115176466434404625/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "ethereum"
+    },
+    {
+      "id": "2115171806881382549",
+      "url": "https://x.com/0xWeb3born/status/2115171806881382549",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-27T20:00:31.000Z",
+      "text_len": 306,
+      "summary": "From 0 to 2,000+ on LinkedIn, A Journey of Learning, Building &amp; Growing Today, I’m celebrating a milestone: 2,000+ followers on LinkedIn!",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 17,
+        "score": 1
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115171806881382549/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2115096612611735903",
+      "url": "https://x.com/yumehayakawa/status/2115096612611735903",
+      "author": "yumehayakawa",
+      "author_name": "早川周作@プロスポーツ経営論",
+      "time": "2026-10-27T15:01:43.000Z",
+      "text_len": 178,
+      "summary": "🔥【開催まであと30日】🔥 ASTEEDA Executive Salon 2026 in 沖縄 登壇者をご紹介します。 株式会社メディロム 代表取締役CEO 江口 康二氏 Toyota Blockchain Lab Analyst 上野 直彦氏 富士通株式会社 シニアエバンジェリスト 松本 国一氏",
+      "engagement": {
+        "like": 17,
+        "retweet": 1,
+        "reply": 2,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 729,
+        "score": 21
+      },
+      "links": [
+        "https://x.com/yumehayakawa/status/2115096612611735903/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114994160088272984",
+      "url": "https://x.com/cryptostocks247/status/2114994160088272984",
+      "author": "cryptostocks247",
+      "author_name": "Berkan",
+      "time": "2026-10-27T08:14:37.000Z",
+      "text_len": 280,
+      "summary": "MIDNIMO ACADEMY Blockchain Lab – Baro, Tijaabi, Dhis!",
+      "engagement": {
+        "like": 10,
+        "retweet": 3,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 2,
+        "impression": 954,
+        "score": 16
       },
       "links": [],
       "sources": [
@@ -125,113 +251,239 @@
   ],
   "new": [
     {
-      "id": "2114953868480332157",
-      "url": "https://x.com/Candy_Drops__/status/2114953868480332157",
-      "author": "Candy_Drops__",
-      "author_name": "Candy Drops",
-      "time": "2026-10-27T05:34:30.000Z",
-      "text_len": 23,
-      "summary": "",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 2186,
-        "score": 1
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2114849450262749295",
-      "url": "https://x.com/0xWeb3born/status/2114849450262749295",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T22:39:35.000Z",
-      "text_len": 298,
-      "summary": "DAY 16/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT NEGOTIATION: KNOWING WHAT TO ASK FOR AND WHAT TO GIVE Negotiation isn't about getting everything you want.",
+      "id": "2115337576261562532",
+      "url": "https://x.com/Jorgew1eo/status/2115337576261562532",
+      "author": "Jorgew1eo",
+      "author_name": "Jorge",
+      "time": "2026-10-28T06:59:13.000Z",
+      "text_len": 114,
+      "summary": "@Kurtishkzq @BlockchainLab @hedera a $30 test wallet beats finding the missing budget check with your main balance",
       "engagement": {
         "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 10,
+        "impression": 1,
         "score": 0
       },
       "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "hedera"
     },
     {
-      "id": "2114844564586729510",
-      "url": "https://x.com/0xWeb3born/status/2114844564586729510",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T22:20:10.000Z",
-      "text_len": 303,
-      "summary": "Uniswap helped turn decentralised trading into a multibillion-dollar industry.",
+      "id": "2115326034690310490",
+      "url": "https://x.com/durefishatc30/status/2115326034690310490",
+      "author": "durefishatc30",
+      "author_name": "durefisha",
+      "time": "2026-10-28T06:13:22.000Z",
+      "text_len": 231,
+      "summary": "@Kurtishkzq @BlockchainLab @hedera that cap won't cover repeated calls.",
       "engagement": {
-        "like": 1,
+        "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 20,
-        "score": 1
+        "impression": 1,
+        "score": 0
       },
       "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "hedera"
     },
     {
-      "id": "2114812058893955231",
-      "url": "https://x.com/0xWeb3born/status/2114812058893955231",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T20:11:00.000Z",
-      "text_len": 301,
-      "summary": "I can design and execute strategic campaigns for your company that drive user acquisition, increase brand awareness, boost community engagement, and…",
+      "id": "2115310200819421239",
+      "url": "https://x.com/ItzSumaiya12451/status/2115310200819421239",
+      "author": "ItzSumaiya12451",
+      "author_name": "Ítz ẞumãiyå",
+      "time": "2026-10-28T05:10:27.000Z",
+      "text_len": 188,
+      "summary": "@Kurtishkzq @BlockchainLab @hedera what stops the agent sending ten $10 transfers though?",
       "engagement": {
-        "like": 1,
+        "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 23,
-        "score": 1
+        "impression": 3,
+        "score": 0
       },
       "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "hedera"
     },
     {
-      "id": "2114628288446369978",
-      "url": "https://x.com/0xWeb3born/status/2114628288446369978",
+      "id": "2115285987106660490",
+      "url": "https://x.com/Kurtishkzq/status/2115285987106660490",
+      "author": "Kurtishkzq",
+      "author_name": "Kurtish",
+      "time": "2026-10-28T03:34:14.000Z",
+      "text_len": 237,
+      "summary": "@BlockchainLab @hedera controlled access is the part that matters.",
+      "engagement": {
+        "like": 0,
+        "retweet": 0,
+        "reply": 3,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 158,
+        "score": 3
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "hedera"
+    },
+    {
+      "id": "2115198885899411790",
+      "url": "https://x.com/0xWeb3born/status/2115198885899411790",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-26T08:00:46.000Z",
-      "text_len": 299,
-      "summary": "NEW WEEK ALERT! What's that one thing you've been postponing? Is it a project you promised yourself you'd start? A skill you've been meaning to learn? Or an…",
+      "time": "2026-10-27T21:48:07.000Z",
+      "text_len": 302,
+      "summary": "EXCITING NEWS! I'M OFFICIALLY A BITUNIX AFFILIATE PARTNER! I'm excited to announce that I've officially partnered with @BitunixOfficial Exchange as an…",
       "engagement": {
         "like": 2,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 36,
+        "impression": 29,
         "score": 2
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1",
+        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2115194980222591243",
+      "url": "https://x.com/0xWeb3born/status/2115194980222591243",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-27T21:32:36.000Z",
+      "text_len": 300,
+      "summary": "DAY 17/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT HANDLING “WE’RE NOT INTERESTED” WITHOUT BURNING THE RELATIONSHIP In Business Development, not every…",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 19,
+        "score": 2
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115194980222591243/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2115176466434404625",
+      "url": "https://x.com/0xWeb3born/status/2115176466434404625",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-27T20:19:02.000Z",
+      "text_len": 301,
+      "summary": "In 2021, an NFT artwork sold for $69.3 MILLION.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 24,
+        "score": 1
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115176466434404625/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "ethereum"
+    },
+    {
+      "id": "2115171806881382549",
+      "url": "https://x.com/0xWeb3born/status/2115171806881382549",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-10-27T20:00:31.000Z",
+      "text_len": 306,
+      "summary": "From 0 to 2,000+ on LinkedIn, A Journey of Learning, Building &amp; Growing Today, I’m celebrating a milestone: 2,000+ followers on LinkedIn!",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 17,
+        "score": 1
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2115171806881382549/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2115096612611735903",
+      "url": "https://x.com/yumehayakawa/status/2115096612611735903",
+      "author": "yumehayakawa",
+      "author_name": "早川周作@プロスポーツ経営論",
+      "time": "2026-10-27T15:01:43.000Z",
+      "text_len": 178,
+      "summary": "🔥【開催まであと30日】🔥 ASTEEDA Executive Salon 2026 in 沖縄 登壇者をご紹介します。 株式会社メディロム 代表取締役CEO 江口 康二氏 Toyota Blockchain Lab Analyst 上野 直彦氏 富士通株式会社 シニアエバンジェリスト 松本 国一氏",
+      "engagement": {
+        "like": 17,
+        "retweet": 1,
+        "reply": 2,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 729,
+        "score": 21
+      },
+      "links": [
+        "https://x.com/yumehayakawa/status/2115096612611735903/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2114994160088272984",
+      "url": "https://x.com/cryptostocks247/status/2114994160088272984",
+      "author": "cryptostocks247",
+      "author_name": "Berkan",
+      "time": "2026-10-27T08:14:37.000Z",
+      "text_len": 280,
+      "summary": "MIDNIMO ACADEMY Blockchain Lab – Baro, Tijaabi, Dhis!",
+      "engagement": {
+        "like": 10,
+        "retweet": 3,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 2,
+        "impression": 954,
+        "score": 16
       },
       "links": [],
       "sources": [
