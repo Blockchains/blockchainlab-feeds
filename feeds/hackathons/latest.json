@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T07:44:30Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:47:32Z",
   "baseline_run": false,
   "sources": [
     "devpost.com/api/hackathons (theme Blockchain, open+upcoming)",
@@ -12,8 +12,8 @@
     "gitcoin (indexer not reachable from the box)"
   ],
   "errors": [],
-  "count": 6,
-  "new_count": 2,
+  "count": 5,
+  "new_count": 0,
   "items": [
     {
       "source": "devpost",
@@ -25,7 +25,7 @@
       "state": "open",
       "prize": "₹ 0",
       "location": "Online",
-      "registrations": 1,
+      "registrations": 4,
       "themes": [
         "Blockchain",
         "Fintech",
@@ -33,7 +33,7 @@
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-10-28",
-      "new": true
+      "new": false
     },
     {
       "source": "devpost",
@@ -45,7 +45,7 @@
       "state": "open",
       "prize": "$900",
       "location": "Online",
-      "registrations": 59,
+      "registrations": 76,
       "themes": [
         "Blockchain",
         "Fintech",
@@ -65,7 +65,7 @@
       "state": "open",
       "prize": "₹ 200,000",
       "location": "Online",
-      "registrations": 92,
+      "registrations": 98,
       "themes": [
         "Beginner Friendly",
         "Blockchain",
@@ -73,26 +73,6 @@
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-10-19",
-      "new": false
-    },
-    {
-      "source": "devpost",
-      "id": "devpost-31534",
-      "title": "SUSTAIN-A-THON 2.0",
-      "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-      "organizer": "Sharda University Greater Noida",
-      "dates": "Oct 27 - 28, 2026",
-      "state": "open",
-      "prize": "$150,000",
-      "location": "Block 45, Sharda University",
-      "registrations": 49,
-      "themes": [
-        "Blockchain",
-        "Cybersecurity",
-        "IoT"
-      ],
-      "verified": "listed on devpost.com API",
-      "first_seen": "2026-10-03",
       "new": false
     },
     {
@@ -113,7 +93,7 @@
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-10-28",
-      "new": true
+      "new": false
     },
     {
       "source": "ethglobal",
@@ -135,227 +115,236 @@
   ],
   "x_leads": [
     {
-      "id": "2115263405535957090",
-      "url": "https://x.com/legion_cro/status/2115263405535957090",
-      "author": "legion_cro",
-      "summary": "@LoadedLions_CDC 125K+ followers and now funding builders too 👀 Loaded Lions #899, overlooking the city we're building.",
-      "time": "2026-10-28T02:04:30.000Z",
+      "id": "2115453650730676367",
+      "url": "https://x.com/devpost/status/2115453650730676367",
+      "author": "devpost",
+      "summary": "2 days left to submit to the @nebiusai x @nvidia Global AI Hackathon!",
+      "time": "2026-10-28T14:40:28.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115341601140621664",
-      "url": "https://x.com/crypto_vazima/status/2115341601140621664",
+      "id": "2115688567716327871",
+      "url": "https://x.com/Abdulkarim2/status/2115688567716327871",
+      "author": "Abdulkarim2",
+      "summary": "🚨 TOP 10 CRYPTO &amp; WEB3 UPDATES FOR OCTOBER 29, 2026 🚨 Today's themes: $30T TOKENIZATION • RIPPLE RLUSD • BITCOIN &amp; FED RATES • GOOGLE CRYPTO SECURITY…",
+      "time": "2026-10-29T06:13:56.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2115467592521396328",
+      "url": "https://x.com/crypto_vazima/status/2115467592521396328",
       "author": "crypto_vazima",
-      "summary": "🛡️ Hiring: Hackathon Participant / Project Showcase - Team PhishBusters (Kanpur Institute of Technology) 📍 On-site - Kanpur, India | 💼 Hackathon | 🧑‍💻 AI /…",
-      "time": "2026-10-28T07:15:13.000Z",
+      "summary": "🔄 12 fresh Web3 internships, junior roles, hackathons &amp; learning opportunities found today (October 28, 2026): 💻 Full Stack Developer Intern — React ·…",
+      "time": "2026-10-28T15:35:52.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115070005767548942",
-      "url": "https://x.com/dsuc_sol/status/2115070005767548942",
-      "author": "dsuc_sol",
-      "summary": "DSUC Round 2 Recruitment is ON! ⚡️ Missed Round 1? No worries—DSUC is still keeping the gates open for the final pieces to complete our crew. 👉 Apply here: ⏳…",
-      "time": "2026-10-27T13:16:00.000Z",
+      "id": "2115443588549021892",
+      "url": "https://x.com/WYT_Token/status/2115443588549021892",
+      "author": "WYT_Token",
+      "summary": "Solana's Firedancer bug-bounty program just started requiring hunters to burn 1 SOL per report — a direct response to an avalanche of low-quality,…",
+      "time": "2026-10-28T14:00:29.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115171148497609158",
-      "url": "https://x.com/IshanVasisth/status/2115171148497609158",
-      "author": "IshanVasisth",
-      "summary": "@thedhanyosmi bro i have been slacking heavily on learning web3 security.",
-      "time": "2026-10-27T19:57:54.000Z",
+      "id": "2115619732904894892",
+      "url": "https://x.com/Defi_Berzio/status/2115619732904894892",
+      "author": "Defi_Berzio",
+      "summary": "𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗢𝗻 𝗧𝗥𝗢𝗡 𝗜𝘀 𝗠𝗼𝘃𝗶𝗻𝗴 𝗙𝗿𝗼𝗺 𝗖𝗼𝗻𝗰𝗲𝗽𝘁 𝗧𝗼 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 𝗧𝗿𝗮𝗰𝗸 Ideas become real when developers start building them for prizes.",
+      "time": "2026-10-29T01:40:25.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115343936474563017",
-      "url": "https://x.com/SylvianGuibal/status/2115343936474563017",
-      "author": "SylvianGuibal",
-      "summary": "🚀 Stellar Philippines Approves $95,000 in Grants for 19 Local Tech Projects Stellar Philippines has approved $95,000 in grants for 19 local development teams…",
-      "time": "2026-10-28T07:24:30.000Z",
+      "id": "2115394393985429932",
+      "url": "https://x.com/CoinpediaEvents/status/2115394393985429932",
+      "author": "CoinpediaEvents",
+      "summary": "🎤 Speaker Spotlight: Kostas Chalkias! @kostascrypto Chalkias, Co-Founder &amp; Chief Cryptographer at Mysten Labs, is speaking at TUM Blockchain Conference…",
+      "time": "2026-10-28T10:45:00.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115134139343175824",
-      "url": "https://x.com/thomasnegeri/status/2115134139343175824",
+      "id": "2115472779696804003",
+      "url": "https://x.com/NOWNodes/status/2115472779696804003",
+      "author": "NOWNodes",
+      "summary": "What did 36 hours at the @token2049 Origins Hackathon look like?",
+      "time": "2026-10-28T15:56:28.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2115479840631734344",
+      "url": "https://x.com/DebMukh80722194/status/2115479840631734344",
+      "author": "DebMukh80722194",
+      "summary": "@joinwebzero @Zcash @bitrefill Building TradeTrust at the Free Society Hackathon 🚀 My goal?",
+      "time": "2026-10-28T16:24:32.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2115403514541130039",
+      "url": "https://x.com/odtublockchain/status/2115403514541130039",
+      "author": "odtublockchain",
+      "summary": "We're proud to be a Community Partner of TUM Blockchain Conference 26 Taking place October 29–31 in Munich, the conference brings together builders,…",
+      "time": "2026-10-28T11:21:14.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2115393202173915139",
+      "url": "https://x.com/Coder_Shanks/status/2115393202173915139",
+      "author": "Coder_Shanks",
+      "summary": "@HSKChain @PimaBD @MOI_Tech @AlexD_HashKey @10KRotator In a crowded Web3 market, how can hackathon builders prove that their project solves a real problem…",
+      "time": "2026-10-28T10:40:16.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2115414048401674686",
+      "url": "https://x.com/AngelFamadr/status/2115414048401674686",
+      "author": "AngelFamadr",
+      "summary": "@HSKChain @PimaBD @MOI_Tech @AlexD_HashKey @10KRotator How can a hackathon team prove that its use of blockchain is essential to the product, rather than…",
+      "time": "2026-10-28T12:03:06.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2115408248136139174",
+      "url": "https://x.com/Jayyj101/status/2115408248136139174",
+      "author": "Jayyj101",
+      "summary": "@HSKChain @PimaBD @MOI_Tech @AlexD_HashKey @10KRotator How can a hackathon team prove that its use of blockchain is essential to the product, rather than…",
+      "time": "2026-10-28T11:40:03.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2115502685525004369",
+      "url": "https://x.com/thomasnegeri/status/2115502685525004369",
       "author": "thomasnegeri",
       "summary": "👁️👁️ JUST IN: 🚨 partners with Google DeepMind and Meta for the upcoming AIE Code Summit Hackathon.",
-      "time": "2026-10-27T17:30:50.000Z",
+      "time": "2026-10-28T17:55:19.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115079942618915305",
-      "url": "https://x.com/expokun/status/2115079942618915305",
-      "author": "expokun",
-      "summary": "🔥 $1,000,000 BOUNTY ON THE GMO HACKERS 🔥 Japanese internet giant GMO just dropped a $1 MILLION USD cybercrime bounty on the crew that hit their Onamae Desktop…",
-      "time": "2026-10-27T13:55:29.000Z",
+      "id": "2115354270300025074",
+      "url": "https://x.com/Pi_OM_2025/status/2115354270300025074",
+      "author": "Pi_OM_2025",
+      "summary": "🚀🔥 Pi Ecosystem Summit | November 17–19!",
+      "time": "2026-10-28T08:05:34.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115109001050694056",
-      "url": "https://x.com/NHIEMNGUYEN9002/status/2115109001050694056",
-      "author": "NHIEMNGUYEN9002",
-      "summary": "🎤 Crypto, Web3, and community vibes! 🔥 Take a look at RUGRIOT through street interviews and studio discussions. 🌐 Promotional content for a RUGRIOT community…",
-      "time": "2026-10-27T15:50:57.000Z",
+      "id": "2115462310957662575",
+      "url": "https://x.com/colosseum/status/2115462310957662575",
+      "author": "colosseum",
+      "summary": "1/ Crypto World's Fair was our largest hackathon ever.",
+      "time": "2026-10-28T15:14:52.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115110234645512516",
-      "url": "https://x.com/realdedonfx/status/2115110234645512516",
-      "author": "realdedonfx",
-      "summary": "I Built @Ratpoolxyz to Solve 5 Problems I Kept Running Into On September 2, 2026, I started building RatPool alone.",
-      "time": "2026-10-27T15:55:51.000Z",
+      "id": "2115695017100480809",
+      "url": "https://x.com/web3l0var/status/2115695017100480809",
+      "author": "web3l0var",
+      "summary": "𝗔 𝗖𝗔𝗠𝗣𝗨𝗦 𝗣𝗔𝗡𝗘𝗟 𝗔𝗧 𝗘𝗧𝗛𝗚𝗟𝗢𝗕𝗔𝗟 𝗡𝗘𝗪 𝗬𝗢𝗥𝗞 𝗧𝗛𝗘 𝗦𝗜𝗧𝗨𝗔𝗧𝗜𝗢𝗡 In June 2026, New York filled up with builders.",
+      "time": "2026-10-29T06:39:34.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115122608559854005",
-      "url": "https://x.com/rittikd/status/2115122608559854005",
-      "author": "rittikd",
-      "summary": "🗞️27 October 2026 | Daily Edition 38 developments stood out across crypto today, spanning market structure, ETF flows, stablecoin liquidity, DeFi, corporate…",
-      "time": "2026-10-27T16:45:01.000Z",
+      "id": "2115473398751224189",
+      "url": "https://x.com/SilentWhaler/status/2115473398751224189",
+      "author": "SilentWhaler",
+      "summary": "My vote is in! 🚀🔥 S169 is my pick for Hackathon S2! The competition is heating up, and I’m backing this project to take the win. 🏆 Let’s see if S169 comes out…",
+      "time": "2026-10-28T15:58:56.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115297149886111811",
-      "url": "https://x.com/mannan25195/status/2115297149886111811",
-      "author": "mannan25195",
-      "summary": "GM Web3 fam! The future of Physical AI needs more than powerful models. It needs reliable, real-world data. That’s exactly where @vangrid_io is positioning…",
-      "time": "2026-10-28T04:18:35.000Z",
+      "id": "2115473397174161537",
+      "url": "https://x.com/kumujitha19579/status/2115473397174161537",
+      "author": "kumujitha19579",
+      "summary": "🚀 My pick for Hackathon S2 is S209! 🔥 I’m backing this project to make a strong impact and take the top spot. 🏆👀 Could S209 be the winning project? Let’s see!…",
+      "time": "2026-10-28T15:58:56.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2114990883951239432",
-      "url": "https://x.com/Aicryptonemi0w/status/2114990883951239432",
-      "author": "Aicryptonemi0w",
-      "summary": "Solana bug reports now cost 1 SOL as AI floods security teams with spam Imagine sending in a homework assignment and finding out 800 other students did the…",
-      "time": "2026-10-27T08:01:36.000Z",
+      "id": "2115500762176622743",
+      "url": "https://x.com/Detoxin01/status/2115500762176622743",
+      "author": "Detoxin01",
+      "summary": "Built Bounty Board on Solana Devnet: fund tasks, submit proof, pay workers on approval.",
+      "time": "2026-10-28T17:47:40.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115035795472122085",
-      "url": "https://x.com/tradeoptionflow/status/2115035795472122085",
-      "author": "tradeoptionflow",
-      "summary": "TOF Daily Digest — October 27, 2026 1/ Bitcoin traded around $80,000 on Monday as markets waited for Wednesday’s Fed decision.",
-      "time": "2026-10-27T11:00:03.000Z",
+      "id": "2115398178015236323",
+      "url": "https://x.com/KellyOliseh/status/2115398178015236323",
+      "author": "KellyOliseh",
+      "summary": "What happens to your crypto when you die?",
+      "time": "2026-10-28T11:00:02.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115101572564725927",
-      "url": "https://x.com/x_veri37009/status/2115101572564725927",
-      "author": "x_veri37009",
-      "summary": "Building GlobalChain Muse for the Meta AI hackathon 🛍️ Your Muse agent talks to sellers' agents, checks every offer with Muse Spark + SAM 3.1, and buys the…",
-      "time": "2026-10-27T15:21:26.000Z",
+      "id": "2115498199305830885",
+      "url": "https://x.com/0xkylinAI/status/2115498199305830885",
+      "author": "0xkylinAI",
+      "summary": "Peer actually integrated Alipay? And it's backed by the Ethereum Foundation and Base? The background of Peer is quite interesting: it originated in 2023 from…",
+      "time": "2026-10-28T17:37:29.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115245486458474540",
-      "url": "https://x.com/omer7890malik/status/2115245486458474540",
-      "author": "omer7890malik",
-      "summary": "1/ What is $ACEPYR? Acepyr just dropped its whitepaper for $ACEPYR - \"Proof of Conviction\" It's not another governance token. It's a trading fee token for…",
-      "time": "2026-10-28T00:53:17.000Z",
+      "id": "2115566971211461024",
+      "url": "https://x.com/Orhantk8/status/2115566971211461024",
+      "author": "Orhantk8",
+      "summary": "@HSKChain @PimaBD @MOI_Tech @AlexD_HashKey @10KRotator In your opinion, what is the most important factor that makes a Web3 project stand out in a hackathon:…",
+      "time": "2026-10-28T22:10:45.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115014653617283266",
-      "url": "https://x.com/OpenBuildxyz/status/2115014653617283266",
-      "author": "OpenBuildxyz",
-      "summary": "🚀 ETHShenzhen 2026 — What an incredible weekend!",
-      "time": "2026-10-27T09:36:03.000Z",
+      "id": "2115425170647134677",
+      "url": "https://x.com/barondickson/status/2115425170647134677",
+      "author": "barondickson",
+      "summary": "🚀 Web3 Opportunities This Week: open calls for creators, builders &amp; ambassadors 1️⃣ @voicecc Ambassador Program, Season 3 🎙️ OpinionFi on Solana.",
+      "time": "2026-10-28T12:47:18.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115003429127123429",
-      "url": "https://x.com/icr_indiacrypto/status/2115003429127123429",
-      "author": "icr_indiacrypto",
-      "summary": "ICR at Token IQ Hackathon. ICR team visited the hackathon at Token IQ 2026. We could give a lot of good investment strategies to the coding teams who were…",
-      "time": "2026-10-27T08:51:27.000Z",
+      "id": "2115570655097753838",
+      "url": "https://x.com/meganmistakesx/status/2115570655097753838",
+      "author": "meganmistakesx",
+      "summary": "My Binance Journey: More Than Just Crypto My crypto journey started with Telegram airdrops like DOGS, Hamster Kombat, and CATS.",
+      "time": "2026-10-28T22:25:24.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2114986434977566957",
-      "url": "https://x.com/laishawadhwa/status/2114986434977566957",
-      "author": "laishawadhwa",
-      "summary": "This @EFDevcon, I want to spend less time just attending talks &amp; more time with the people building things.",
-      "time": "2026-10-27T07:43:55.000Z",
+      "id": "2115418136824643754",
+      "url": "https://x.com/TomTanzim/status/2115418136824643754",
+      "author": "TomTanzim",
+      "summary": "𝗧𝗥𝗢𝗡: 𝗪𝗵𝘆 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗦𝗺𝗮𝗿𝘁 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗠𝗮𝘁𝘁𝗲𝗿𝘀 𝗜𝗻 𝗪𝗲𝗯𝟯, 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗶𝘀 𝗻𝗲𝘃𝗲𝗿 𝗮 𝗳𝗶𝗻𝗶𝘀𝗵𝗲𝗱 𝘁𝗮𝘀𝗸.",
+      "time": "2026-10-28T12:19:21.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2115170075225522644",
-      "url": "https://x.com/LatinChainLatam/status/2115170075225522644",
-      "author": "LatinChainLatam",
-      "summary": "Book written by a Pi Hackathon winner. How to develop a Pi App (webapp) on the Pi Network: ¡Become a Blockchain programmer, today!.",
-      "time": "2026-10-27T19:53:38.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2115032975058645180",
-      "url": "https://x.com/code_it_bro/status/2115032975058645180",
-      "author": "code_it_bro",
-      "summary": "▸ Blockchain Team Lead: led a team shipping dApps across 10+ chains in Solidity, Rust and Move, including AI agent work for Olas Network ▸ Built MVM Chain, a…",
-      "time": "2026-10-27T10:48:51.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2115280706742214893",
-      "url": "https://x.com/VedashreeAbr84/status/2115280706742214893",
-      "author": "VedashreeAbr84",
-      "summary": "🚀 Introducing **AUREX** — Cost-Aware Cross-Contract Intelligence for MCX Gold Futures.",
-      "time": "2026-10-28T03:13:15.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2115056225960251502",
-      "url": "https://x.com/post_polar_/status/2115056225960251502",
-      "author": "post_polar_",
-      "summary": "@A_Leutenegger @binji_x I think the difference is the meetups are integrated into an annual hackathon cycle, so everyone becomes a builder.",
-      "time": "2026-10-27T12:21:14.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2115324683759628624",
-      "url": "https://x.com/sqrDAO/status/2115324683759628624",
-      "author": "sqrDAO",
-      "summary": "Glad to have @SuperteamVN at Da Nang Blockchain Hub this Sunday.",
-      "time": "2026-10-28T06:08:00.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2115138979351888078",
-      "url": "https://x.com/doandanh_zah/status/2115138979351888078",
-      "author": "doandanh_zah",
-      "summary": "Some cool builders are coming to Da Nang this Sunday 👀 @mikail_xyz and @ChaintailLabs from @try_folio are joining us for a fireside chat at Da Nang Blockchain…",
-      "time": "2026-10-27T17:50:04.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2115334094972440717",
-      "url": "https://x.com/qieblockchain/status/2115334094972440717",
-      "author": "qieblockchain",
-      "summary": "Hot take: nobody wakes up wanting a blockchain.",
-      "time": "2026-10-28T06:45:23.000Z",
+      "id": "2115550348802941179",
+      "url": "https://x.com/Mxr_dnl/status/2115550348802941179",
+      "author": "Mxr_dnl",
+      "summary": "some influencer lost about $35k in dev wallet after revealing private key 😲...",
+      "time": "2026-10-28T21:04:42.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     }

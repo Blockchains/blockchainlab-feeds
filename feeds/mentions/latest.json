@@ -1,246 +1,78 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T07:44:30Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:47:32Z",
   "x_status": "ok",
   "x_error": null,
   "query": "(\"blockchainlab.com\" OR \"Blockchain Lab\" OR url:blockchainlab.com OR @BlockchainLab) -from:BlockchainLab -is:retweet",
-  "count": 10,
-  "new_count": 10,
+  "count": 3,
+  "new_count": 3,
   "items": [
     {
-      "id": "2115337576261562532",
-      "url": "https://x.com/Jorgew1eo/status/2115337576261562532",
-      "author": "Jorgew1eo",
-      "author_name": "Jorge",
-      "time": "2026-10-28T06:59:13.000Z",
-      "text_len": 114,
-      "summary": "@Kurtishkzq @BlockchainLab @hedera a $30 test wallet beats finding the missing budget check with your main balance",
+      "id": "2115695017100480809",
+      "url": "https://x.com/web3l0var/status/2115695017100480809",
+      "author": "web3l0var",
+      "author_name": "web3lovar ❤️ 💜",
+      "time": "2026-10-29T06:39:34.000Z",
+      "text_len": 262,
+      "summary": "𝗔 𝗖𝗔𝗠𝗣𝗨𝗦 𝗣𝗔𝗡𝗘𝗟 𝗔𝗧 𝗘𝗧𝗛𝗚𝗟𝗢𝗕𝗔𝗟 𝗡𝗘𝗪 𝗬𝗢𝗥𝗞 𝗧𝗛𝗘 𝗦𝗜𝗧𝗨𝗔𝗧𝗜𝗢𝗡 In June 2026, New York filled up with builders.",
       "engagement": {
-        "like": 0,
+        "like": 1,
         "retweet": 0,
-        "reply": 0,
+        "reply": 1,
         "quote": 0,
         "bookmark": 0,
-        "impression": 1,
-        "score": 0
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115326034690310490",
-      "url": "https://x.com/durefishatc30/status/2115326034690310490",
-      "author": "durefishatc30",
-      "author_name": "durefisha",
-      "time": "2026-10-28T06:13:22.000Z",
-      "text_len": 231,
-      "summary": "@Kurtishkzq @BlockchainLab @hedera that cap won't cover repeated calls.",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 1,
-        "score": 0
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115310200819421239",
-      "url": "https://x.com/ItzSumaiya12451/status/2115310200819421239",
-      "author": "ItzSumaiya12451",
-      "author_name": "Ítz ẞumãiyå",
-      "time": "2026-10-28T05:10:27.000Z",
-      "text_len": 188,
-      "summary": "@Kurtishkzq @BlockchainLab @hedera what stops the agent sending ten $10 transfers though?",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 3,
-        "score": 0
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115285987106660490",
-      "url": "https://x.com/Kurtishkzq/status/2115285987106660490",
-      "author": "Kurtishkzq",
-      "author_name": "Kurtish",
-      "time": "2026-10-28T03:34:14.000Z",
-      "text_len": 237,
-      "summary": "@BlockchainLab @hedera controlled access is the part that matters.",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 3,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 158,
-        "score": 3
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115198885899411790",
-      "url": "https://x.com/0xWeb3born/status/2115198885899411790",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T21:48:07.000Z",
-      "text_len": 302,
-      "summary": "EXCITING NEWS! I'M OFFICIALLY A BITUNIX AFFILIATE PARTNER! I'm excited to announce that I've officially partnered with @BitunixOfficial Exchange as an…",
-      "engagement": {
-        "like": 2,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 29,
+        "impression": 10,
         "score": 2
       },
       "links": [
-        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1",
-        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1"
+        "https://x.com/web3l0var/status/2115695017100480809/photo/1"
       ],
       "sources": [
+        "20-topic-hackathons",
         "30-mentions"
       ],
+      "hackathon_lead": true,
       "topic": "other"
     },
     {
-      "id": "2115194980222591243",
-      "url": "https://x.com/0xWeb3born/status/2115194980222591243",
+      "id": "2115577352541409410",
+      "url": "https://x.com/0xWeb3born/status/2115577352541409410",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T21:32:36.000Z",
-      "text_len": 300,
-      "summary": "DAY 17/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT HANDLING “WE’RE NOT INTERESTED” WITHOUT BURNING THE RELATIONSHIP In Business Development, not every…",
+      "time": "2026-10-28T22:52:01.000Z",
+      "text_len": 304,
+      "summary": "In 2024, Bitcoin ETFs opened a massive new door for institutional investors.",
       "engagement": {
-        "like": 2,
+        "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 19,
-        "score": 2
+        "impression": 10,
+        "score": 0
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2115194980222591243/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "bitcoin"
     },
     {
-      "id": "2115176466434404625",
-      "url": "https://x.com/0xWeb3born/status/2115176466434404625",
+      "id": "2115537800531726842",
+      "url": "https://x.com/0xWeb3born/status/2115537800531726842",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T20:19:02.000Z",
-      "text_len": 301,
-      "summary": "In 2021, an NFT artwork sold for $69.3 MILLION.",
+      "time": "2026-10-28T20:14:51.000Z",
+      "text_len": 304,
+      "summary": "DAY 18/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT FOLLOW-UPS: THE BD SKILL MOST PEOPLE UNDERESTIMATE Sometimes, the opportunity isn't lost because your idea…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 24,
+        "impression": 22,
         "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2115176466434404625/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "ethereum"
-    },
-    {
-      "id": "2115171806881382549",
-      "url": "https://x.com/0xWeb3born/status/2115171806881382549",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T20:00:31.000Z",
-      "text_len": 306,
-      "summary": "From 0 to 2,000+ on LinkedIn, A Journey of Learning, Building &amp; Growing Today, I’m celebrating a milestone: 2,000+ followers on LinkedIn!",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 17,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2115171806881382549/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2115096612611735903",
-      "url": "https://x.com/yumehayakawa/status/2115096612611735903",
-      "author": "yumehayakawa",
-      "author_name": "早川周作@プロスポーツ経営論",
-      "time": "2026-10-27T15:01:43.000Z",
-      "text_len": 178,
-      "summary": "🔥【開催まであと30日】🔥 ASTEEDA Executive Salon 2026 in 沖縄 登壇者をご紹介します。 株式会社メディロム 代表取締役CEO 江口 康二氏 Toyota Blockchain Lab Analyst 上野 直彦氏 富士通株式会社 シニアエバンジェリスト 松本 国一氏",
-      "engagement": {
-        "like": 17,
-        "retweet": 1,
-        "reply": 2,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 729,
-        "score": 21
-      },
-      "links": [
-        "https://x.com/yumehayakawa/status/2115096612611735903/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2114994160088272984",
-      "url": "https://x.com/cryptostocks247/status/2114994160088272984",
-      "author": "cryptostocks247",
-      "author_name": "Berkan",
-      "time": "2026-10-27T08:14:37.000Z",
-      "text_len": 280,
-      "summary": "MIDNIMO ACADEMY Blockchain Lab – Baro, Tijaabi, Dhis!",
-      "engagement": {
-        "like": 10,
-        "retweet": 3,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 2,
-        "impression": 954,
-        "score": 16
       },
       "links": [],
       "sources": [
@@ -251,239 +83,71 @@
   ],
   "new": [
     {
-      "id": "2115337576261562532",
-      "url": "https://x.com/Jorgew1eo/status/2115337576261562532",
-      "author": "Jorgew1eo",
-      "author_name": "Jorge",
-      "time": "2026-10-28T06:59:13.000Z",
-      "text_len": 114,
-      "summary": "@Kurtishkzq @BlockchainLab @hedera a $30 test wallet beats finding the missing budget check with your main balance",
+      "id": "2115695017100480809",
+      "url": "https://x.com/web3l0var/status/2115695017100480809",
+      "author": "web3l0var",
+      "author_name": "web3lovar ❤️ 💜",
+      "time": "2026-10-29T06:39:34.000Z",
+      "text_len": 262,
+      "summary": "𝗔 𝗖𝗔𝗠𝗣𝗨𝗦 𝗣𝗔𝗡𝗘𝗟 𝗔𝗧 𝗘𝗧𝗛𝗚𝗟𝗢𝗕𝗔𝗟 𝗡𝗘𝗪 𝗬𝗢𝗥𝗞 𝗧𝗛𝗘 𝗦𝗜𝗧𝗨𝗔𝗧𝗜𝗢𝗡 In June 2026, New York filled up with builders.",
       "engagement": {
-        "like": 0,
+        "like": 1,
         "retweet": 0,
-        "reply": 0,
+        "reply": 1,
         "quote": 0,
         "bookmark": 0,
-        "impression": 1,
-        "score": 0
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115326034690310490",
-      "url": "https://x.com/durefishatc30/status/2115326034690310490",
-      "author": "durefishatc30",
-      "author_name": "durefisha",
-      "time": "2026-10-28T06:13:22.000Z",
-      "text_len": 231,
-      "summary": "@Kurtishkzq @BlockchainLab @hedera that cap won't cover repeated calls.",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 1,
-        "score": 0
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115310200819421239",
-      "url": "https://x.com/ItzSumaiya12451/status/2115310200819421239",
-      "author": "ItzSumaiya12451",
-      "author_name": "Ítz ẞumãiyå",
-      "time": "2026-10-28T05:10:27.000Z",
-      "text_len": 188,
-      "summary": "@Kurtishkzq @BlockchainLab @hedera what stops the agent sending ten $10 transfers though?",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 3,
-        "score": 0
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115285987106660490",
-      "url": "https://x.com/Kurtishkzq/status/2115285987106660490",
-      "author": "Kurtishkzq",
-      "author_name": "Kurtish",
-      "time": "2026-10-28T03:34:14.000Z",
-      "text_len": 237,
-      "summary": "@BlockchainLab @hedera controlled access is the part that matters.",
-      "engagement": {
-        "like": 0,
-        "retweet": 0,
-        "reply": 3,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 158,
-        "score": 3
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "hedera"
-    },
-    {
-      "id": "2115198885899411790",
-      "url": "https://x.com/0xWeb3born/status/2115198885899411790",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T21:48:07.000Z",
-      "text_len": 302,
-      "summary": "EXCITING NEWS! I'M OFFICIALLY A BITUNIX AFFILIATE PARTNER! I'm excited to announce that I've officially partnered with @BitunixOfficial Exchange as an…",
-      "engagement": {
-        "like": 2,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 29,
+        "impression": 10,
         "score": 2
       },
       "links": [
-        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1",
-        "https://x.com/0xWeb3born/status/2115198885899411790/photo/1"
+        "https://x.com/web3l0var/status/2115695017100480809/photo/1"
       ],
       "sources": [
+        "20-topic-hackathons",
         "30-mentions"
       ],
+      "hackathon_lead": true,
       "topic": "other"
     },
     {
-      "id": "2115194980222591243",
-      "url": "https://x.com/0xWeb3born/status/2115194980222591243",
+      "id": "2115577352541409410",
+      "url": "https://x.com/0xWeb3born/status/2115577352541409410",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T21:32:36.000Z",
-      "text_len": 300,
-      "summary": "DAY 17/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT HANDLING “WE’RE NOT INTERESTED” WITHOUT BURNING THE RELATIONSHIP In Business Development, not every…",
+      "time": "2026-10-28T22:52:01.000Z",
+      "text_len": 304,
+      "summary": "In 2024, Bitcoin ETFs opened a massive new door for institutional investors.",
       "engagement": {
-        "like": 2,
+        "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 19,
-        "score": 2
+        "impression": 10,
+        "score": 0
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2115194980222591243/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
-      "topic": "other"
+      "topic": "bitcoin"
     },
     {
-      "id": "2115176466434404625",
-      "url": "https://x.com/0xWeb3born/status/2115176466434404625",
+      "id": "2115537800531726842",
+      "url": "https://x.com/0xWeb3born/status/2115537800531726842",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T20:19:02.000Z",
-      "text_len": 301,
-      "summary": "In 2021, an NFT artwork sold for $69.3 MILLION.",
+      "time": "2026-10-28T20:14:51.000Z",
+      "text_len": 304,
+      "summary": "DAY 18/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT FOLLOW-UPS: THE BD SKILL MOST PEOPLE UNDERESTIMATE Sometimes, the opportunity isn't lost because your idea…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 24,
+        "impression": 22,
         "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2115176466434404625/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "ethereum"
-    },
-    {
-      "id": "2115171806881382549",
-      "url": "https://x.com/0xWeb3born/status/2115171806881382549",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-27T20:00:31.000Z",
-      "text_len": 306,
-      "summary": "From 0 to 2,000+ on LinkedIn, A Journey of Learning, Building &amp; Growing Today, I’m celebrating a milestone: 2,000+ followers on LinkedIn!",
-      "engagement": {
-        "like": 1,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 17,
-        "score": 1
-      },
-      "links": [
-        "https://x.com/0xWeb3born/status/2115171806881382549/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2115096612611735903",
-      "url": "https://x.com/yumehayakawa/status/2115096612611735903",
-      "author": "yumehayakawa",
-      "author_name": "早川周作@プロスポーツ経営論",
-      "time": "2026-10-27T15:01:43.000Z",
-      "text_len": 178,
-      "summary": "🔥【開催まであと30日】🔥 ASTEEDA Executive Salon 2026 in 沖縄 登壇者をご紹介します。 株式会社メディロム 代表取締役CEO 江口 康二氏 Toyota Blockchain Lab Analyst 上野 直彦氏 富士通株式会社 シニアエバンジェリスト 松本 国一氏",
-      "engagement": {
-        "like": 17,
-        "retweet": 1,
-        "reply": 2,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 729,
-        "score": 21
-      },
-      "links": [
-        "https://x.com/yumehayakawa/status/2115096612611735903/photo/1"
-      ],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2114994160088272984",
-      "url": "https://x.com/cryptostocks247/status/2114994160088272984",
-      "author": "cryptostocks247",
-      "author_name": "Berkan",
-      "time": "2026-10-27T08:14:37.000Z",
-      "text_len": 280,
-      "summary": "MIDNIMO ACADEMY Blockchain Lab – Baro, Tijaabi, Dhis!",
-      "engagement": {
-        "like": 10,
-        "retweet": 3,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 2,
-        "impression": 954,
-        "score": 16
       },
       "links": [],
       "sources": [

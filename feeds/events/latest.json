@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T07:44:30Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:47:32Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
   ],
   "errors": [],
-  "count": 8,
+  "count": 7,
   "items": [
     {
       "source": "ethglobal",
@@ -63,17 +63,6 @@
       "type": "hackathon",
       "dates": "Oct 17 - Nov 10, 2026",
       "medium": "Online",
-      "verified": "listed on devpost.com API"
-    },
-    {
-      "source": "devpost",
-      "id": "devpost-31534",
-      "title": "SUSTAIN-A-THON 2.0",
-      "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-      "organizer": "Sharda University Greater Noida",
-      "type": "hackathon",
-      "dates": "Oct 27 - 28, 2026",
-      "medium": "Block 45, Sharda University",
       "verified": "listed on devpost.com API"
     },
     {
