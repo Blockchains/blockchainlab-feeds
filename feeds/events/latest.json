@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T07:51:02Z",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:47:46Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
@@ -34,17 +34,6 @@
     },
     {
       "source": "devpost",
-      "id": "devpost-31910",
-      "title": "Code-con",
-      "url": "https://code-con.devpost.com/",
-      "organizer": "Telem AI",
-      "type": "hackathon",
-      "dates": "Oct 28 - 30, 2026",
-      "medium": "Online",
-      "verified": "listed on devpost.com API"
-    },
-    {
-      "source": "devpost",
       "id": "devpost-26475",
       "title": "Dakar Bitcoin Hack by BTrust",
       "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
@@ -63,6 +52,17 @@
       "type": "hackathon",
       "dates": "Oct 17 - Nov 10, 2026",
       "medium": "Online",
+      "verified": "listed on devpost.com API"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31746",
+      "title": "University Blockchain Conference Hackathon 2026",
+      "url": "https://ubc-hackathon-2026.devpost.com/",
+      "organizer": "college.xyz",
+      "type": "hackathon",
+      "dates": "Nov 13 - 20, 2026",
+      "medium": "University of Texas at Austin",
       "verified": "listed on devpost.com API"
     },
     {

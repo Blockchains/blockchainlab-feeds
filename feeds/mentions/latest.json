@@ -1,53 +1,82 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T07:51:02Z",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:47:46Z",
   "x_status": "ok",
   "x_error": null,
   "query": "(\"blockchainlab.com\" OR \"Blockchain Lab\" OR url:blockchainlab.com OR @BlockchainLab) -from:BlockchainLab -is:retweet",
-  "count": 2,
-  "new_count": 2,
+  "count": 3,
+  "new_count": 3,
   "items": [
     {
-      "id": "2115876323717443956",
-      "url": "https://x.com/0xWeb3born/status/2115876323717443956",
+      "id": "2117018996423958704",
+      "url": "https://x.com/0xWeb3born/status/2117018996423958704",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-29T18:40:01.000Z",
-      "text_len": 303,
-      "summary": "MY COMMITMENT TO WEB3: BUILDING SOLUTIONS, CREATING OPPORTUNITIES, AND EMPOWERING AFRICA.",
-      "engagement": {
-        "like": 2,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 24,
-        "score": 2
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2115866751296487828",
-      "url": "https://x.com/0xWeb3born/status/2115866751296487828",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-29T18:01:59.000Z",
-      "text_len": 302,
-      "summary": "KNOW THE RISK BEFORE IT TAKES YOU. Forget everything you’ve been told about taking risks without being taught how to manage them. Many crypto projects use…",
+      "time": "2026-11-01T22:20:35.000Z",
+      "text_len": 296,
+      "summary": "DAY 20/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT BUILDING RELATIONSHIPS BEFORE YOU NEED THEM One common mistake in Business Development is reaching out to…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 20,
+        "impression": 14,
         "score": 1
       },
-      "links": [],
+      "links": [
+        "https://x.com/0xWeb3born/status/2117018996423958704/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117000153672323110",
+      "url": "https://x.com/0xWeb3born/status/2117000153672323110",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-01T21:05:43.000Z",
+      "text_len": 301,
+      "summary": "Afriplex Intelligence is an emerging African technology intelligence platform focused on discovering, understanding, and solving real-world African problems…",
+      "engagement": {
+        "like": 0,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 15,
+        "score": 0
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2117000153672323110/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2116995675925942468",
+      "url": "https://x.com/0xWeb3born/status/2116995675925942468",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-01T20:47:55.000Z",
+      "text_len": 298,
+      "summary": "Choose Your Path in Web3 because it's the Key to Success.",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 22,
+        "score": 2
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2116995675925942468/photo/1"
+      ],
       "sources": [
         "30-mentions"
       ],
@@ -56,46 +85,75 @@
   ],
   "new": [
     {
-      "id": "2115876323717443956",
-      "url": "https://x.com/0xWeb3born/status/2115876323717443956",
+      "id": "2117018996423958704",
+      "url": "https://x.com/0xWeb3born/status/2117018996423958704",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-29T18:40:01.000Z",
-      "text_len": 303,
-      "summary": "MY COMMITMENT TO WEB3: BUILDING SOLUTIONS, CREATING OPPORTUNITIES, AND EMPOWERING AFRICA.",
-      "engagement": {
-        "like": 2,
-        "retweet": 0,
-        "reply": 0,
-        "quote": 0,
-        "bookmark": 0,
-        "impression": 24,
-        "score": 2
-      },
-      "links": [],
-      "sources": [
-        "30-mentions"
-      ],
-      "topic": "other"
-    },
-    {
-      "id": "2115866751296487828",
-      "url": "https://x.com/0xWeb3born/status/2115866751296487828",
-      "author": "0xWeb3born",
-      "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-10-29T18:01:59.000Z",
-      "text_len": 302,
-      "summary": "KNOW THE RISK BEFORE IT TAKES YOU. Forget everything you’ve been told about taking risks without being taught how to manage them. Many crypto projects use…",
+      "time": "2026-11-01T22:20:35.000Z",
+      "text_len": 296,
+      "summary": "DAY 20/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT BUILDING RELATIONSHIPS BEFORE YOU NEED THEM One common mistake in Business Development is reaching out to…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 20,
+        "impression": 14,
         "score": 1
       },
-      "links": [],
+      "links": [
+        "https://x.com/0xWeb3born/status/2117018996423958704/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117000153672323110",
+      "url": "https://x.com/0xWeb3born/status/2117000153672323110",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-01T21:05:43.000Z",
+      "text_len": 301,
+      "summary": "Afriplex Intelligence is an emerging African technology intelligence platform focused on discovering, understanding, and solving real-world African problems…",
+      "engagement": {
+        "like": 0,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 15,
+        "score": 0
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2117000153672323110/photo/1"
+      ],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2116995675925942468",
+      "url": "https://x.com/0xWeb3born/status/2116995675925942468",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-01T20:47:55.000Z",
+      "text_len": 298,
+      "summary": "Choose Your Path in Web3 because it's the Key to Success.",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 22,
+        "score": 2
+      },
+      "links": [
+        "https://x.com/0xWeb3born/status/2116995675925942468/photo/1"
+      ],
       "sources": [
         "30-mentions"
       ],
