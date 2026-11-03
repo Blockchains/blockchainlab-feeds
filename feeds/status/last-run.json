@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T07:47:46Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:46:12Z",
   "x": {
     "status": "ok",
     "ok_calls": 16
@@ -36,10 +36,10 @@
   },
   "web_errors": [],
   "counts": {
-    "posts": 243,
-    "mentions": 3,
-    "new_mentions": 3,
-    "hackathons": 5,
+    "posts": 262,
+    "mentions": 8,
+    "new_mentions": 8,
+    "hackathons": 6,
     "briefing_drafts": 3
   }
 }

@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T07:47:46Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:46:12Z",
   "sources": [
     "ethglobal.com/events",
     "devpost.com (blockchain hackathons)"
   ],
   "errors": [],
-  "count": 7,
+  "count": 8,
   "items": [
     {
       "source": "ethglobal",
@@ -31,6 +31,17 @@
       "end": "2027-06-16",
       "medium": "physical",
       "verified": "listed in ethglobal.com/events page data"
+    },
+    {
+      "source": "devpost",
+      "id": "devpost-31970",
+      "title": "United Arab Emirates vs United States Of America",
+      "url": "https://uaevsusa.devpost.com/",
+      "organizer": "World Hackathon Federation",
+      "type": "hackathon",
+      "dates": "Nov 02 - 03, 2026",
+      "medium": "Abu Dhabi",
+      "verified": "listed on devpost.com API"
     },
     {
       "source": "devpost",

@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T07:47:46Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:46:12Z",
   "baseline_run": false,
   "sources": [
     "devpost.com/api/hackathons (theme Blockchain, open+upcoming)",
@@ -12,9 +12,29 @@
     "gitcoin (indexer not reachable from the box)"
   ],
   "errors": [],
-  "count": 5,
+  "count": 6,
   "new_count": 1,
   "items": [
+    {
+      "source": "devpost",
+      "id": "devpost-31970",
+      "title": "United Arab Emirates vs United States Of America",
+      "url": "https://uaevsusa.devpost.com/",
+      "organizer": "World Hackathon Federation",
+      "dates": "Nov 02 - 03, 2026",
+      "state": "open",
+      "prize": "$10,000",
+      "location": "Abu Dhabi",
+      "registrations": 7,
+      "themes": [
+        "Blockchain",
+        "Cybersecurity",
+        "DevOps"
+      ],
+      "verified": "listed on devpost.com API",
+      "first_seen": "2026-11-03",
+      "new": true
+    },
     {
       "source": "devpost",
       "id": "devpost-26475",
@@ -25,7 +45,7 @@
       "state": "open",
       "prize": "$900",
       "location": "Online",
-      "registrations": 130,
+      "registrations": 144,
       "themes": [
         "Blockchain",
         "Fintech",
@@ -45,7 +65,7 @@
       "state": "open",
       "prize": "₹ 200,000",
       "location": "Online",
-      "registrations": 156,
+      "registrations": 173,
       "themes": [
         "Beginner Friendly",
         "Blockchain",
@@ -65,7 +85,7 @@
       "state": "upcoming",
       "prize": "$22,000",
       "location": "University of Texas at Austin",
-      "registrations": 2,
+      "registrations": 8,
       "themes": [
         "Blockchain",
         "Fintech",
@@ -73,7 +93,7 @@
       ],
       "verified": "listed on devpost.com API",
       "first_seen": "2026-11-02",
-      "new": true
+      "new": false
     },
     {
       "source": "devpost",
@@ -85,7 +105,7 @@
       "state": "upcoming",
       "prize": null,
       "location": "jaipur",
-      "registrations": 7,
+      "registrations": 9,
       "themes": [
         "Blockchain",
         "Cybersecurity",
@@ -115,11 +135,11 @@
   ],
   "x_leads": [
     {
-      "id": "2116885263620452701",
-      "url": "https://x.com/DoraHacks/status/2116885263620452701",
-      "author": "DoraHacks",
-      "summary": "Hackathon Newsletter, November Issue I: latest hackathons from @mozilla, @circle @arc , @hashkeychain , @binance , @bchbliss , @PortaldotL0 , @cortensor , etc..",
-      "time": "2026-11-01T13:29:11.000Z",
+      "id": "2117289381837082723",
+      "url": "https://x.com/devpost/status/2117289381837082723",
+      "author": "devpost",
+      "summary": "Désormais, QNX 8.0 est accessible gratuitement pour un usage non commercial grâce à QNX Everywhere.",
+      "time": "2026-11-02T16:15:00.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
@@ -133,218 +153,218 @@
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2116815635221041619",
-      "url": "https://x.com/BoyNav_/status/2116815635221041619",
-      "author": "BoyNav_",
-      "summary": "not every opportunity in web3 requires someone to understand charts, trade tokens or spend hours learning blockchain technology.",
-      "time": "2026-11-01T08:52:30.000Z",
+      "id": "2117307730280984689",
+      "url": "https://x.com/MavikFi/status/2117307730280984689",
+      "author": "MavikFi",
+      "summary": "Struggling with opportunities or career growth?",
+      "time": "2026-11-02T17:27:55.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2117097608611319889",
-      "url": "https://x.com/CChameleon_233/status/2117097608611319889",
-      "author": "CChameleon_233",
-      "summary": "🗓️ NOVEMBER 2026 CRYPTO CALENDAR 📅 NOV 1 $SUI - Token unlock: ~7.3M SUI $M - MemeCore unlock: ~56.1M M $HOT - HoloFuel goes live $DGB - Mainnet Thaw Day $ZEN…",
-      "time": "2026-11-02T03:32:58.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116857278397653170",
-      "url": "https://x.com/Lucky_m_X/status/2116857278397653170",
-      "author": "Lucky_m_X",
-      "summary": "🪙 PI NETWORK UPDATE | November 2026 🚨 Pi Network ($PI) remains in a tight consolidation phase near historic lows as the Core Team shifts focus toward scaling…",
-      "time": "2026-11-01T11:37:59.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116968523700314294",
-      "url": "https://x.com/CreativityEngr/status/2116968523700314294",
-      "author": "CreativityEngr",
-      "summary": "From Japan's tax refunds coming onchain to institutional finance, new yield opportunities and builders pushing adoption across continents.",
-      "time": "2026-11-01T19:00:02.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2117058007603486805",
-      "url": "https://x.com/raonsecure/status/2117058007603486805",
-      "author": "raonsecure",
-      "summary": "🏆🪪 [2026 Blockchain &amp; AI Hackathon Winner Interview] Verifying Identity, Consent and Delegated Authority with Mobile ID #RAON #RAONSECURE #Blockchain #AI…",
-      "time": "2026-11-02T00:55:36.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116882011176513952",
-      "url": "https://x.com/aliy_almustapha/status/2116882011176513952",
-      "author": "aliy_almustapha",
-      "summary": "𝗪𝗲𝗯𝟯 𝗛𝗮𝗰𝗸𝘀 𝗘𝗽. 𝟯𝟳: 𝗧𝗵𝗲 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗳𝗼𝗿 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝗮𝗻𝗱 𝗘𝘃𝗮𝗹𝘂𝗮𝘁𝗶𝗻𝗴 𝗪𝗲𝗯𝟯 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 Not every opportunity in Web3 deserves your attention. Some will…",
-      "time": "2026-11-01T13:16:15.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2117154873141547411",
-      "url": "https://x.com/baovy06/status/2117154873141547411",
-      "author": "baovy06",
-      "summary": "DogePay ID Bringing Social Payments to the DogeOS Ecosystem As part of VIBE CODE ON DOGE, a Hackathon organized by @DogeOS in collaboration with @TryNoahAI ,…",
-      "time": "2026-11-02T07:20:31.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116864420114817447",
-      "url": "https://x.com/DonBullsol/status/2116864420114817447",
-      "author": "DonBullsol",
-      "summary": "criminals don't hack wallets anymore they hunt people blockchain data + leaked databases + your instagram = a target list wrench attacks on crypto holders are…",
-      "time": "2026-11-01T12:06:21.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116994341965074541",
-      "url": "https://x.com/AkpanSunday193/status/2116994341965074541",
-      "author": "AkpanSunday193",
-      "summary": "Hackathon Submission Written for: people on X who don't know Pal yet.",
-      "time": "2026-11-01T20:42:37.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116813115161473062",
-      "url": "https://x.com/ARLPROTOCOL/status/2116813115161473062",
-      "author": "ARLPROTOCOL",
-      "summary": "🚨 BINANCE WAS HACKED. IS ARL PROTOCOL NEXT? The crypto world has been reminded of a hard truth: No system is completely immune to attacks. Even one of the…",
-      "time": "2026-11-01T08:42:29.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2117126671669006636",
-      "url": "https://x.com/Curi0nic/status/2117126671669006636",
-      "author": "Curi0nic",
-      "summary": "Binance has reopened withdrawals for its first 15 networks.",
-      "time": "2026-11-02T05:28:27.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116998597925384362",
-      "url": "https://x.com/agentslopzone/status/2116998597925384362",
-      "author": "agentslopzone",
-      "summary": "THE WORMHOLE FIX WAS WRITTEN ON JANUARY 13.",
-      "time": "2026-11-01T20:59:32.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116892197282849193",
-      "url": "https://x.com/BlockUnmasked/status/2116892197282849193",
-      "author": "BlockUnmasked",
-      "summary": "𝗧𝗵𝗲 𝗗𝗮𝗶𝗹𝘆 𝗧𝗿𝗮𝗰𝗲 | November 1, 2026 Your Daily Crypto News Digest 𝗧𝗼𝗽 𝗦𝘁𝗼𝗿𝘆 The FBI has attributed a record $6.3B Binance hack to North Korea and is seeking…",
-      "time": "2026-11-01T13:56:44.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116877693002359292",
-      "url": "https://x.com/HVnS42442600/status/2116877693002359292",
-      "author": "HVnS42442600",
-      "summary": "I’ve been thinking a lot about what @vangrid_io is truly missing.",
-      "time": "2026-11-01T12:59:06.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116968213934203111",
-      "url": "https://x.com/leviathan_news/status/2116968213934203111",
-      "author": "leviathan_news",
-      "summary": "🦑 SQUID DIGEST 📰 November 01, 2026 Binance covers 90% of hacked funds, b14g halts after 97M CORE taken, FBI ties $6B theft to North Korea, and Uniswap hits…",
-      "time": "2026-11-01T18:58:48.000Z",
-      "verified": false,
-      "note": "X post lead - not yet verified on a platform listing"
-    },
-    {
-      "id": "2116817661078241480",
-      "url": "https://x.com/HYPERBEASTAI/status/2116817661078241480",
+      "id": "2117455579438358907",
+      "url": "https://x.com/HYPERBEASTAI/status/2117455579438358907",
       "author": "HYPERBEASTAI",
-      "summary": "🔑 Overnight DeFi lesson: a contract was replaced, but nobody took its keys away.",
-      "time": "2026-11-01T09:00:33.000Z",
+      "summary": "🛠️ DeFi news of the day: the fix for Polkadot's dotUSD bug was written in June.",
+      "time": "2026-11-03T03:15:25.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2116926981153431586",
-      "url": "https://x.com/Dominikz177/status/2116926981153431586",
-      "author": "Dominikz177",
-      "summary": "GOOD AFTERNOON 🔊🔔 Let's start with a review of the news from the last 24 hours.",
-      "time": "2026-11-01T16:14:57.000Z",
+      "id": "2117257644683489632",
+      "url": "https://x.com/Praise1178/status/2117257644683489632",
+      "author": "Praise1178",
+      "summary": "MULTI-CHAIN WEB3 INTELLIGENCE SCOUT US PROJECT DISCOVERY &amp; OPPORTUNITY TRACKER MISSION Operate as an intelligent Web3 ecosystem discovery agent…",
+      "time": "2026-11-02T14:08:53.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2117147794339471758",
-      "url": "https://x.com/byfor88/status/2117147794339471758",
-      "author": "byfor88",
-      "summary": "I found a bug that let the owner of a private coin spend it twice on @PQabelian, compounding across generations of spends.",
-      "time": "2026-11-02T06:52:23.000Z",
+      "id": "2117201880971374802",
+      "url": "https://x.com/BlockchainUNN/status/2117201880971374802",
+      "author": "BlockchainUNN",
+      "summary": "Over ₦1,000,000 is up for grabs.💥 Yes, you read that right.",
+      "time": "2026-11-02T10:27:18.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2117016023643652440",
-      "url": "https://x.com/HazardKrypto/status/2117016023643652440",
-      "author": "HazardKrypto",
-      "summary": "@FelixAwere @AfricanOnchainC @ethereum @IBWofficial Cracked builder remember to register for @ETHGlobal hackathon g",
-      "time": "2026-11-01T22:08:46.000Z",
+      "id": "2117201792312246344",
+      "url": "https://x.com/BlockchainUNN/status/2117201792312246344",
+      "author": "BlockchainUNN",
+      "summary": "Over ₦1,000,000 is up for grabs.💥 Yes, you read that right.",
+      "time": "2026-11-02T10:26:57.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2116896814808928362",
-      "url": "https://x.com/HazardKrypto/status/2116896814808928362",
-      "author": "HazardKrypto",
-      "summary": "@JamesWasonga8 @EFDevcon @ethereum @AfricanOnchainC @OrnellaWeb3 @africanbuilder_ @FelixAwere Say hi to @armsves I know he will be present at the @ETHGlobal…",
-      "time": "2026-11-01T14:15:05.000Z",
+      "id": "2117205823487398071",
+      "url": "https://x.com/MSTBlockchainHQ/status/2117205823487398071",
+      "author": "MSTBlockchainHQ",
+      "summary": "Buidathon 2.0 | Building on MST Blockchain Innovation meets execution!",
+      "time": "2026-11-02T10:42:58.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2116930767171264912",
-      "url": "https://x.com/wadadawadada/status/2116930767171264912",
-      "author": "wadadawadada",
-      "summary": "decided to join @CashuBTC's #NutNovember hackathon with this.",
-      "time": "2026-11-01T16:30:00.000Z",
+      "id": "2117317453307158739",
+      "url": "https://x.com/BhumiJain1_1/status/2117317453307158739",
+      "author": "BhumiJain1_1",
+      "summary": "🚨 THE GLOBAL ETHEREUM COMMUNITY IS COMING TO MUMBAI!",
+      "time": "2026-11-02T18:06:33.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2116921046368506150",
-      "url": "https://x.com/CryptoAlpham/status/2116921046368506150",
-      "author": "CryptoAlpham",
-      "summary": "🚀 THE FUTURE OF DIGITAL ASSETS IS BEING BUILT TODAY.",
-      "time": "2026-11-01T15:51:22.000Z",
+      "id": "2117279877602725898",
+      "url": "https://x.com/SuperteamTR/status/2117279877602725898",
+      "author": "SuperteamTR",
+      "summary": "Türkiye’s builders showed up for the final @Colosseum sprint - and gave us a lot to fit into one recap ⚔️ The submissions are in.",
+      "time": "2026-11-02T15:37:14.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2116883502725529818",
-      "url": "https://x.com/cryptign/status/2116883502725529818",
-      "author": "cryptign",
-      "summary": "If you've already built an AI agent, here's a question worth six weeks: can it prove who stands behind it?",
-      "time": "2026-11-01T13:22:11.000Z",
+      "id": "2117233772869656685",
+      "url": "https://x.com/thanhduy1206/status/2117233772869656685",
+      "author": "thanhduy1206",
+      "summary": "🚀 **NoahAI – Making Web3 App Development Easier with AI** One of the biggest hurdles in Web3 today is product development.",
+      "time": "2026-11-02T12:34:02.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     },
     {
-      "id": "2116812810634006553",
-      "url": "https://x.com/OMdotFun/status/2116812810634006553",
-      "author": "OMdotFun",
-      "summary": "Happy November! 🎄 CHRISTMAS HACKATHON November 24 → December 24, 2026 One month. Fully online. Launchpad only. Launch a meme, a project, or a community token…",
-      "time": "2026-11-01T08:41:17.000Z",
+      "id": "2117232333463973947",
+      "url": "https://x.com/zUnEm01/status/2117232333463973947",
+      "author": "zUnEm01",
+      "summary": "$GRAM morning legends of Telegram! The first Confidential Wallet on Telegram and Ton blockchain just won App of the week on @GramStoreApp platform (Reviewed…",
+      "time": "2026-11-02T12:28:19.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117234621955858564",
+      "url": "https://x.com/MariaOnchainDev/status/2117234621955858564",
+      "author": "MariaOnchainDev",
+      "summary": "HIP-007 is the proposal that takes ethereum:0x61ec85ab89377db65762e234c946b5c25a56e99e beyond the exchange.",
+      "time": "2026-11-02T12:37:24.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117500557074022622",
+      "url": "https://x.com/Virnenetwork/status/2117500557074022622",
+      "author": "Virnenetwork",
+      "summary": "Ready to grow with VRINE Network? The VRINE Ambassador &amp; Bounty Program is an opportunity to contribute to the growing Web3 ecosystem through content…",
+      "time": "2026-11-03T06:14:08.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117175994041680307",
+      "url": "https://x.com/rukky_003/status/2117175994041680307",
+      "author": "rukky_003",
+      "summary": "THE CONCORDIUM TRUSTED AGENTS HACKATHON STARTS TODAY!",
+      "time": "2026-11-02T08:44:26.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117212821809226032",
+      "url": "https://x.com/Team1Africa_/status/2117212821809226032",
+      "author": "Team1Africa_",
+      "summary": "🔺@Team1KOR strengthened Avalanche's presence in South Korea through university programs, community gatherings and blockchain education, including training for…",
+      "time": "2026-11-02T11:10:47.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117166586536612159",
+      "url": "https://x.com/__Official__1/status/2117166586536612159",
+      "author": "__Official__1",
+      "summary": "THE THIRD TIMELINE: WHEN PROOF STARTS PAYING BUILDERS.",
+      "time": "2026-11-02T08:07:03.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117273101746446480",
+      "url": "https://x.com/LuminaraGo/status/2117273101746446480",
+      "author": "LuminaraGo",
+      "summary": "happy new month! 14 ways creators can get paid in November (links in the comments)👇 creator programs 1/ @okx Orbit Creator Rewards ~100K USDT monthly for…",
+      "time": "2026-11-02T15:10:19.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117282951302148284",
+      "url": "https://x.com/greater_glory20/status/2117282951302148284",
+      "author": "greater_glory20",
+      "summary": "There's a particular kind of exhaustion that comes from building something you genuinely believe should exist.",
+      "time": "2026-11-02T15:49:27.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117443011697320079",
+      "url": "https://x.com/vortexlane922/status/2117443011697320079",
+      "author": "vortexlane922",
+      "summary": "🔐 RIGOROUS CRYPTOGRAPHIC AUDITING BUILDS UNWAVERING PROTOCOL SECURITY 🛡️ In decentralized finance, protocol security is non-negotiable.",
+      "time": "2026-11-03T02:25:28.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117212635942822373",
+      "url": "https://x.com/airdropH009/status/2117212635942822373",
+      "author": "airdropH009",
+      "summary": "Ahoy Captains! 🏴‍☠️ The seas are calling, and PlunderPort Early Access is officially LIVE! ⚓🔥 Are you ready to build your island, command an invincible fleet,…",
+      "time": "2026-11-02T11:10:02.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117332220809724372",
+      "url": "https://x.com/HeyResearch/status/2117332220809724372",
+      "author": "HeyResearch",
+      "summary": "Two months ago, HEY Research Lab started with one question: which projects on Robinhood Chain are actually still building?",
+      "time": "2026-11-02T19:05:14.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117510689161986480",
+      "url": "https://x.com/sasukeosik/status/2117510689161986480",
+      "author": "sasukeosik",
+      "summary": "INJECTIVE HACKER HOUSE 2026: BANGKOK EDITION!",
+      "time": "2026-11-03T06:54:24.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117283219364016192",
+      "url": "https://x.com/zacodil/status/2117283219364016192",
+      "author": "zacodil",
+      "summary": "NEAR Hackathon is live: 13 tracks, $250K, submissions close Nov 14.",
+      "time": "2026-11-02T15:50:31.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117346250081345991",
+      "url": "https://x.com/scrimfinance/status/2117346250081345991",
+      "author": "scrimfinance",
+      "summary": "Every payment on a blockchain is public.",
+      "time": "2026-11-02T20:00:59.000Z",
+      "verified": false,
+      "note": "X post lead - not yet verified on a platform listing"
+    },
+    {
+      "id": "2117221885029093507",
+      "url": "https://x.com/boundless_fi/status/2117221885029093507",
+      "author": "boundless_fi",
+      "summary": "Here is everything you need to know about Merdian, last week",
+      "time": "2026-11-02T11:46:48.000Z",
       "verified": false,
       "note": "X post lead - not yet verified on a platform listing"
     }

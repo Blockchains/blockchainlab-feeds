@@ -1,82 +1,191 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T07:47:46Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:46:12Z",
   "x_status": "ok",
   "x_error": null,
   "query": "(\"blockchainlab.com\" OR \"Blockchain Lab\" OR url:blockchainlab.com OR @BlockchainLab) -from:BlockchainLab -is:retweet",
-  "count": 3,
-  "new_count": 3,
+  "count": 8,
+  "new_count": 8,
   "items": [
     {
-      "id": "2117018996423958704",
-      "url": "https://x.com/0xWeb3born/status/2117018996423958704",
+      "id": "2117356832121553154",
+      "url": "https://x.com/0xWeb3born/status/2117356832121553154",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-11-01T22:20:35.000Z",
-      "text_len": 296,
-      "summary": "DAY 20/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT BUILDING RELATIONSHIPS BEFORE YOU NEED THEM One common mistake in Business Development is reaching out to…",
+      "time": "2026-11-02T20:43:02.000Z",
+      "text_len": 300,
+      "summary": "DAY 21/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT MANAGING YOUR WEB3 BD PIPELINE LIKE A PROFESSIONAL Business Development isn't just about finding leads and…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 14,
+        "impression": 23,
         "score": 1
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2117018996423958704/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2117000153672323110",
-      "url": "https://x.com/0xWeb3born/status/2117000153672323110",
+      "id": "2117356729365152250",
+      "url": "https://x.com/Tracedeskfun/status/2117356729365152250",
+      "author": "Tracedeskfun",
+      "author_name": "Trace Desk",
+      "time": "2026-11-02T20:42:37.000Z",
+      "text_len": 299,
+      "summary": "Introducing Tracedesk. On 29 October, $6.36B left Binance in under four hours. The FBI has attributed the theft to TraderTraitor, a North Korean state-backed…",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 2,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 48,
+        "score": 4
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117349020553072688",
+      "url": "https://x.com/0xWeb3born/status/2117349020553072688",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-11-01T21:05:43.000Z",
-      "text_len": 301,
-      "summary": "Afriplex Intelligence is an emerging African technology intelligence platform focused on discovering, understanding, and solving real-world African problems…",
+      "time": "2026-11-02T20:11:59.000Z",
+      "text_len": 304,
+      "summary": "I Treat Web3 as My Lifestyle, My Journey, and My Future.",
       "engagement": {
         "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 15,
+        "impression": 8,
         "score": 0
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2117000153672323110/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2116995675925942468",
-      "url": "https://x.com/0xWeb3born/status/2116995675925942468",
+      "id": "2117343040800997386",
+      "url": "https://x.com/0xWeb3born/status/2117343040800997386",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-11-01T20:47:55.000Z",
-      "text_len": 298,
-      "summary": "Choose Your Path in Web3 because it's the Key to Success.",
+      "time": "2026-11-02T19:48:13.000Z",
+      "text_len": 294,
+      "summary": "If You're a Cybersecurity Expert, This Is the Time Web3 Needs You!",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 10,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117326475074388407",
+      "url": "https://x.com/0xWeb3born/status/2117326475074388407",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T18:42:24.000Z",
+      "text_len": 304,
+      "summary": "Crypto Is Not as Secure as We Think. So, What's the Solution? If centralized exchanges continue to experience security breaches, vulnerabilities, and…",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 27,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117317125316448542",
+      "url": "https://x.com/0xWeb3born/status/2117317125316448542",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T18:05:15.000Z",
+      "text_len": 303,
+      "summary": "Even If Web3 Has No Future, I'll Create One.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 21,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117201531141247402",
+      "url": "https://x.com/0xWeb3born/status/2117201531141247402",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T10:25:55.000Z",
+      "text_len": 300,
+      "summary": "If Web3 Isn't Paying You, Try This: Web3 is full of opportunities, but opportunities don't automatically translate into income.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 15,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117196834514890839",
+      "url": "https://x.com/0xWeb3born/status/2117196834514890839",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T10:07:15.000Z",
+      "text_len": 296,
+      "summary": "Every Monday, remind yourself of two important things: You either make progress or gain experience.",
       "engagement": {
         "like": 2,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 22,
+        "impression": 38,
         "score": 2
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2116995675925942468/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
@@ -85,75 +194,184 @@
   ],
   "new": [
     {
-      "id": "2117018996423958704",
-      "url": "https://x.com/0xWeb3born/status/2117018996423958704",
+      "id": "2117356832121553154",
+      "url": "https://x.com/0xWeb3born/status/2117356832121553154",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-11-01T22:20:35.000Z",
-      "text_len": 296,
-      "summary": "DAY 20/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT BUILDING RELATIONSHIPS BEFORE YOU NEED THEM One common mistake in Business Development is reaching out to…",
+      "time": "2026-11-02T20:43:02.000Z",
+      "text_len": 300,
+      "summary": "DAY 21/30 — 30 DAYS OF WEB3 BUSINESS DEVELOPMENT MANAGING YOUR WEB3 BD PIPELINE LIKE A PROFESSIONAL Business Development isn't just about finding leads and…",
       "engagement": {
         "like": 1,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 14,
+        "impression": 23,
         "score": 1
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2117018996423958704/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2117000153672323110",
-      "url": "https://x.com/0xWeb3born/status/2117000153672323110",
+      "id": "2117356729365152250",
+      "url": "https://x.com/Tracedeskfun/status/2117356729365152250",
+      "author": "Tracedeskfun",
+      "author_name": "Trace Desk",
+      "time": "2026-11-02T20:42:37.000Z",
+      "text_len": 299,
+      "summary": "Introducing Tracedesk. On 29 October, $6.36B left Binance in under four hours. The FBI has attributed the theft to TraderTraitor, a North Korean state-backed…",
+      "engagement": {
+        "like": 2,
+        "retweet": 0,
+        "reply": 2,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 48,
+        "score": 4
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117349020553072688",
+      "url": "https://x.com/0xWeb3born/status/2117349020553072688",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-11-01T21:05:43.000Z",
-      "text_len": 301,
-      "summary": "Afriplex Intelligence is an emerging African technology intelligence platform focused on discovering, understanding, and solving real-world African problems…",
+      "time": "2026-11-02T20:11:59.000Z",
+      "text_len": 304,
+      "summary": "I Treat Web3 as My Lifestyle, My Journey, and My Future.",
       "engagement": {
         "like": 0,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 15,
+        "impression": 8,
         "score": 0
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2117000153672323110/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
       "topic": "other"
     },
     {
-      "id": "2116995675925942468",
-      "url": "https://x.com/0xWeb3born/status/2116995675925942468",
+      "id": "2117343040800997386",
+      "url": "https://x.com/0xWeb3born/status/2117343040800997386",
       "author": "0xWeb3born",
       "author_name": "Yahaya Abdurrahman | Web3 BD",
-      "time": "2026-11-01T20:47:55.000Z",
-      "text_len": 298,
-      "summary": "Choose Your Path in Web3 because it's the Key to Success.",
+      "time": "2026-11-02T19:48:13.000Z",
+      "text_len": 294,
+      "summary": "If You're a Cybersecurity Expert, This Is the Time Web3 Needs You!",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 10,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117326475074388407",
+      "url": "https://x.com/0xWeb3born/status/2117326475074388407",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T18:42:24.000Z",
+      "text_len": 304,
+      "summary": "Crypto Is Not as Secure as We Think. So, What's the Solution? If centralized exchanges continue to experience security breaches, vulnerabilities, and…",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 27,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117317125316448542",
+      "url": "https://x.com/0xWeb3born/status/2117317125316448542",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T18:05:15.000Z",
+      "text_len": 303,
+      "summary": "Even If Web3 Has No Future, I'll Create One.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 21,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117201531141247402",
+      "url": "https://x.com/0xWeb3born/status/2117201531141247402",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T10:25:55.000Z",
+      "text_len": 300,
+      "summary": "If Web3 Isn't Paying You, Try This: Web3 is full of opportunities, but opportunities don't automatically translate into income.",
+      "engagement": {
+        "like": 1,
+        "retweet": 0,
+        "reply": 0,
+        "quote": 0,
+        "bookmark": 0,
+        "impression": 15,
+        "score": 1
+      },
+      "links": [],
+      "sources": [
+        "30-mentions"
+      ],
+      "topic": "other"
+    },
+    {
+      "id": "2117196834514890839",
+      "url": "https://x.com/0xWeb3born/status/2117196834514890839",
+      "author": "0xWeb3born",
+      "author_name": "Yahaya Abdurrahman | Web3 BD",
+      "time": "2026-11-02T10:07:15.000Z",
+      "text_len": 296,
+      "summary": "Every Monday, remind yourself of two important things: You either make progress or gain experience.",
       "engagement": {
         "like": 2,
         "retweet": 0,
         "reply": 0,
         "quote": 0,
         "bookmark": 0,
-        "impression": 22,
+        "impression": 38,
         "score": 2
       },
-      "links": [
-        "https://x.com/0xWeb3born/status/2116995675925942468/photo/1"
-      ],
+      "links": [],
       "sources": [
         "30-mentions"
       ],
